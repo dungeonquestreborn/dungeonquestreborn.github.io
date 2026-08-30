@@ -1,5 +1,5 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
-import { join, relative, sep } from "node:path";
+import { basename, join, relative, sep } from "node:path";
 import { siteConfig } from "../config/site";
 import type { HomePageDefinition, SeoPageDefinition } from "../config/types";
 import { homePage } from "../content/home";
@@ -50,7 +50,8 @@ if (!existsSync(output)) {
 const expectedRoutes = new Set(["/", ...enabledPages.map((page) => `/${page.slug}/`)]);
 const files = collectHtml(output).filter((path) => {
   const route = routeForFile(path);
-  return route !== "/404/" && route !== "/_not-found/" && route !== "/404.html" && route !== "/_not-found.html";
+  const isGoogleVerificationFile = /^google[a-z0-9_-]+\.html$/i.test(basename(path));
+  return !isGoogleVerificationFile && route !== "/404/" && route !== "/_not-found/" && route !== "/404.html" && route !== "/_not-found.html";
 });
 const actualRoutes = new Set(files.map(routeForFile));
 
