@@ -1,0 +1,63 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Dungeon Quest Reborn Guide",
+  "shortName": "Dungeon Quest Reborn",
+  "description": "Dungeon Quest Reborn Roblox guide with the wiki, current codes status, dungeon progression, drops, weapons and abilities tier list, and Discord link.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Dungeon Quest Reborn Guide",
+  "theme": {
+    "preset": "ocean-blue",
+    "overrides": {
+      "background": "219 43% 10%",
+      "foreground": "210 40% 98%",
+      "card": "218 37% 15%",
+      "card-foreground": "210 40% 98%",
+      "primary": "196 88% 48%",
+      "primary-foreground": "219 45% 8%",
+      "secondary": "217 31% 22%",
+      "muted": "216 25% 21%",
+      "muted-foreground": "214 20% 74%",
+      "border": "214 28% 28%",
+      "radius": ".8rem",
+      "card-shadow": "0 24px 60px rgba(0, 35, 70, .28)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(196 88% 48% / .23), transparent 36%)",
+      "background-pattern": "radial-gradient(hsl(196 88% 48% / .07) 1px, transparent 1px)",
+      "font-sans": "Inter, ui-sans-serif, system-ui, sans-serif"
+    }
+  },
+  "hosting": {
+    "siteUrl": "https://dungeonquestreborn.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": null
+  },
+  "repositoryUrl": "https://github.com/dungeonquestreborn/dungeonquestreborn.github.io",
+  "allowedExternalDomains": [
+    "www.roblox.com",
+    "github.com",
+    "discord.com"
+  ],
+  "assets": {
+    "logo": "/images/logo.png",
+    "cover": "/images/banner.webp",
+    "openGraph": "/images/dungeon-quest-reborn-og.png",
+    "favicon": "/images/logo.png"
+  },
+  "game": {
+    "name": "Dungeon Quest Reborn",
+    "platform": "Roblox",
+    "developer": "Delta Quarters OG",
+    "genre": "Dungeon crawler",
+    "officialUrl": "https://www.roblox.com/games/77649408247578/Dungeon-Quest-Reborn"
+  },
+  "seo": {
+    "titleTemplate": "%s",
+    "defaultKeywords": [
+      "dungeon quest reborn"
+    ]
+  }
+}

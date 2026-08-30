@@ -1,0 +1,722 @@
+[
+  {
+    "enabled": true,
+    "slug": "wiki",
+    "pageType": "guide",
+    "navLabel": "Wiki",
+    "title": "Dungeon Quest Reborn Wiki - Dungeons, Loot, Codes & Guides",
+    "description": "Dungeon Quest Reborn wiki hub with beginner tips, dungeons, weapons, abilities, loot drops, current codes status, Discord, and the Roblox game link.",
+    "keywords": ["dungeon quest reborn wiki", "dungeon quest reborn roblox wiki"],
+    "primaryKeyword": "dungeon quest reborn wiki",
+    "secondaryKeywords": ["dungeon quest reborn guide", "dungeon quest reborn roblox wiki"],
+    "searchIntent": "Find a useful central guide to the game and its major player topics.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1200,
+    "hero": {
+      "eyebrow": "Updated August 30, 2026",
+      "heading": "Dungeon Quest Reborn Wiki",
+      "lead": "Start here for Dungeon Quest Reborn beginner help, dungeons, weapons and abilities, drops, codes, the current Discord link, and direct access to the Roblox game."
+    },
+    "sections": [
+      {
+        "id": "quick-wiki-navigation",
+        "heading": "Quick Wiki Navigation",
+        "intro": "Choose a topic for the fastest answer.",
+        "links": [
+          {"label": "Codes status", "slug": "codes", "description": "No active codes or public redemption feature as of August 30, 2026."},
+          {"label": "Dungeons", "slug": "dungeons", "description": "Current dungeon list, progression order, loot targets, and party tips."},
+          {"label": "Weapons & Abilities", "slug": "weapons-abilities-tier-list", "description": "Compact S-to-D tiers and the best current picks by build."},
+          {"label": "Drops & Loot", "slug": "drops", "description": "Selected item and ability sources organized by dungeon."},
+          {"label": "Discord", "slug": "discord", "description": "Open discord.gg/dqrs and review essential account-safety tips."},
+          {"label": "Main game guide", "slug": "", "description": "Return to the Dungeon Quest Reborn overview and Roblox entry."}
+        ],
+        "externalLinks": [
+          {"label": "Play Dungeon Quest Reborn on Roblox", "url": "https://www.roblox.com/games/77649408247578/Dungeon-Quest-Reborn", "description": "Open the game page by Delta Quarters OG."}
+        ]
+      },
+      {
+        "id": "beginner-guide",
+        "heading": "Dungeon Quest Reborn Beginner Guide",
+        "intro": "Build around one damage type, clear consistently, and upgrade with a purpose.",
+        "steps": [
+          {"heading": "Choose a damage path", "description": "Use Physical gear for a Warrior build or Spell Power gear for a Mage build. Match armor and abilities to the same path."},
+          {"heading": "Farm a stable dungeon", "description": "Run the highest route you can finish reliably. Successful rewards matter more than repeated wipes on a higher label."},
+          {"heading": "Compare full item cards", "description": "Check class, main stat, requirement, rarity, roll, and upgrade state before replacing equipment."}
+        ],
+        "paragraphs": [
+          "Dungeon Quest Reborn follows a clear loop: enter a dungeon, defeat enemies, beat the boss, collect rewards, improve the loadout, and move to harder content. Solo runs are useful for learning attack patterns and testing a change. Party runs can clear rooms faster when players stay together and combine damage or support abilities.",
+          "Keep one working loadout while experimenting. Test a new weapon or ability in the same route instead of changing the entire build at once. If room speed, boss damage, or survival improves across several clears, the change is doing useful work. If the new piece uses the wrong damage stat, it may be better saved or replaced even when its rarity looks exciting. Keep enough inventory space before a farming session, compare several rewards together, and spend upgrade resources only after the replacement proves useful in repeated runs over time."
+        ]
+      },
+      {
+        "id": "dungeons",
+        "heading": "Dungeon Quest Reborn Dungeons",
+        "intro": "The current guide covers early, mid-game, and later farming routes.",
+        "table": {
+          "caption": "Featured Dungeon Quest Reborn dungeons",
+          "columns": ["Dungeon", "Progression role", "Notable targets"],
+          "rows": [
+            ["Desert Temple", "Early route", "Whirlwind, Lightning Strikes, Desert Fury"],
+            ["Winter Outpost", "Early progression", "Crystalised Greatsword, Gale Slice, Ice Needles"],
+            ["Pirate Island", "Early-to-mid progression", "Enchanted Spinning Blades, Phantom Flames"],
+            ["Ghost Harbor", "Mid progression", "Kraken Slayer, Sea Serpent Wings, Phantom abilities"],
+            ["Outer Orbit", "Advanced route", "Galactic Dual Blades, Galactic Pike"],
+            ["Northern Lands", "Late route", "Hofund, Laevateinn, Mjolnir, Gungnir"],
+            ["Enchanted Forest", "Top farming target", "Eden weapons, Eldenbark weapons, Enhanced Inner buffs"]
+          ]
+        },
+        "paragraphs": [
+          "The full dungeon guide also organizes Pyramid, Kraken Cove, Underwater, Sky Palace, Temple Crypt, Steel Sanctum, Volcanic Chambers, Aquatic Temple, and Gildenscale. Exact level requirements may vary with the current version, so check the live dungeon selector before planning a group or spending resources on a future item."
+        ],
+        "links": [
+          {"label": "Open the full dungeon guide", "slug": "dungeons", "description": "See the expanded list, progression plan, and farming notes."}
+        ]
+      },
+      {
+        "id": "weapons-and-abilities",
+        "heading": "Weapons and Abilities",
+        "intro": "The best equipment is a strong current drop that fits the build you are actually using.",
+        "paragraphs": [
+          "Eden's Vengeance is the leading Warrior Ultimate in the current compact ranking, while Eden's Reaper fills the same role for Mage builds. Eldenbark Greatsword and Eldenbark Greatstaff are strong Enchanted Forest alternatives. Earlier routes still have valuable stepping-stone weapons such as Galactic Dual Blades, Galactic Pike, Inventor's Greatsword, and Inventor's Spellblade.",
+          "For abilities, Enhanced Inner Rage and Enhanced Inner Focus lead the endgame list. Whirlwind gives Warrior players useful early room coverage, while Lightning Strikes is a strong early Mage damage option. Berserk, Enchanted Shuriken, Phantom Blades, Phantom Striker, Slam, Innervate, and Rending Slice fill later or more specialized roles.",
+          "Rankings may change as balance updates and better data become available. Use the tier list as a farming shortlist, then judge the exact item card and run performance before committing upgrade resources."
+        ],
+        "links": [
+          {"label": "Compare the full compact tier list", "slug": "weapons-abilities-tier-list", "description": "Browse weapons and abilities by tier, class, and dungeon."}
+        ]
+      },
+      {
+        "id": "drops-and-loot",
+        "heading": "Drops and Loot",
+        "intro": "Weapons, armor, abilities, rare items, and Legendary rewards drive progression between dungeon runs.",
+        "paragraphs": [
+          "The quickest way to farm is to choose one named target and a route the account can complete repeatedly. Enchanted Forest contains the current Eden and Eldenbark chase weapons. Outer Orbit contains Galactic Dual Blades and Galactic Pike. Winter Outpost contains Crystalised Greatsword, while several early abilities come from Desert Temple and Pirate Island.",
+          "A reward is worth keeping when it improves the correct damage stat, supports the current abilities, and can be equipped soon. Compare new items before upgrading them and keep enough resources for later dungeon replacements. Exact drop rates are not currently published."
+        ],
+        "links": [
+          {"label": "Use the Dungeon Quest Reborn drop table", "slug": "drops", "description": "Find selected weapons and abilities by source dungeon."}
+        ]
+      },
+      {
+        "id": "codes",
+        "heading": "Dungeon Quest Reborn Codes",
+        "intro": "No active Dungeon Quest Reborn codes are available as of August 30, 2026.",
+        "paragraphs": [
+          "The game currently has no public code redemption feature, so there is no menu or input field to use. Check the dedicated codes page for the direct status, possible announcement locations, fake-code warning signs, and future updates."
+        ],
+        "links": [
+          {"label": "Check current codes", "slug": "codes", "description": "See active, expired, and redemption availability in one quick table."}
+        ]
+      },
+      {
+        "id": "discord",
+        "heading": "Dungeon Quest Reborn Discord",
+        "intro": "Join the current DQR community server at discord.gg/dqrs.",
+        "paragraphs": [
+          "Players use the server to find groups, discuss builds, compare drops, and follow community news. Discord lists this server for Dungeon Quest Reborn; developer ownership has not been independently confirmed. Use normal account-safety rules and never share a Roblox password, cookie, token, or backup code."
+        ],
+        "links": [
+          {"label": "Open the Discord guide", "slug": "discord", "description": "Use the direct invite and quick server-safety checklist."}
+        ]
+      },
+      {
+        "id": "last-updated",
+        "heading": "Wiki Last Updated",
+        "intro": "Last updated: August 30, 2026.",
+        "paragraphs": ["Codes status, the compact tier list, dungeon names, selected drops, and the Discord link are current to this update."]
+      }
+    ],
+    "faq": [
+      {"question": "What is the Dungeon Quest Reborn Wiki?", "answer": "It is a central guide to beginner progression, dungeons, weapons, abilities, drops, codes, Discord, and the Roblox game entry."},
+      {"question": "What should a beginner do first?", "answer": "Choose Warrior or Mage gear based on your best usable drops, then farm the highest dungeon you can clear consistently."},
+      {"question": "What are the best current weapons?", "answer": "Eden's Vengeance and Eden's Reaper lead the current compact ranking for Warrior and Mage builds."},
+      {"question": "Are there active codes?", "answer": "No active codes or public redemption feature are available as of August 30, 2026."},
+      {"question": "Where can I find the Discord?", "answer": "Use https://discord.com/invite/dqrs for the current community server."}
+    ],
+    "screenshots": [],
+    "relatedSlugs": ["dungeons", "weapons-abilities-tier-list", "drops", "codes"],
+    "densityTargets": [{"term": "dungeon quest reborn wiki", "min": 0.3, "max": 1.2}],
+    "lastReviewed": "2026-08-30"
+  },
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Dungeon Quest Reborn Codes (August 2026) - No Active Codes Yet",
+    "description": "No active Dungeon Quest Reborn codes are available in August 2026. Check redemption availability, expired-code status, update locations, and fake-code warnings.",
+    "keywords": ["dungeon quest reborn codes", "dungeon quest reborn code"],
+    "primaryKeyword": "dungeon quest reborn codes",
+    "secondaryKeywords": ["dungeon quest reborn code", "dungeon quest reborn redeem codes"],
+    "searchIntent": "Get the current codes answer immediately and know where future codes may appear.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 750,
+    "hero": {
+      "eyebrow": "Updated August 30, 2026",
+      "heading": "Dungeon Quest Reborn Codes",
+      "lead": "No active Dungeon Quest Reborn codes are available as of August 30, 2026. The game currently has no public code redemption feature."
+    },
+    "sections": [
+      {
+        "id": "current-codes",
+        "heading": "Current Dungeon Quest Reborn Codes",
+        "intro": "The current answer is simple: there are no working codes to enter.",
+        "table": {
+          "caption": "Dungeon Quest Reborn codes status",
+          "columns": ["Category", "Current status", "What players should do"],
+          "rows": [
+            ["Active Codes", "None currently available", "Check back after game updates"],
+            ["Expired Codes", "None confirmed", "Ignore copied lists from other games"],
+            ["How to Redeem", "No public redemption feature", "There is currently no code menu or input field"]
+          ]
+        },
+        "paragraphs": [
+          "You do not need to search through a long list or test random strings. No active rewards are available through codes at this time. If a future update adds a redemption feature, this page will place the working entries and instructions at the top."
+        ],
+        "links": [
+          {"label": "Return to the main guide", "slug": "", "description": "Open the Dungeon Quest Reborn overview and other player guides."}
+        ]
+      },
+      {
+        "id": "how-to-redeem",
+        "heading": "How to Redeem Dungeon Quest Reborn Codes",
+        "intro": "There is no public redemption feature in the current game version.",
+        "paragraphs": [
+          "Because the game does not currently show a public code button, menu, or text field, there are no legitimate redemption steps to follow. Do not install an extension, script, executor, or file that promises to unlock a hidden code menu.",
+          "If redemption is added later, use only a code published through the Roblox game page or a creator-linked announcement. Enter the exact capitalization and punctuation shown, claim the reward, and check the inventory before trying another entry."
+        ]
+      },
+      {
+        "id": "where-codes-may-appear",
+        "heading": "Where New Codes May Appear",
+        "intro": "Start with game-controlled channels whenever a major update launches.",
+        "subsections": [
+          {"heading": "Roblox game page", "paragraphs": ["Check the description and update notes for a clearly published reward string or a new redemption announcement."]},
+          {"heading": "Creator announcements", "paragraphs": ["Look for posts linked from Delta Quarters OG's Roblox presence rather than screenshots without a source."]},
+          {"heading": "Community Discord", "paragraphs": ["The current community server may discuss new updates, but confirm any code in the live game before treating it as working."]},
+          {"heading": "This tracker", "paragraphs": ["Bookmark this page for a short status table instead of repeating tests across copied lists."]}
+        ],
+        "links": [
+          {"label": "Open the Discord page", "slug": "discord", "description": "Use the current invite and account-safety guidance."}
+        ]
+      },
+      {
+        "id": "avoid-fake-codes",
+        "heading": "How to Avoid Fake Codes",
+        "intro": "A real Roblox code never requires account credentials or an unknown download.",
+        "paragraphs": [
+          "Fake pages often reuse code strings from the original Dungeon Quest, another Roblox game, or an unrelated event. Check that the page names Dungeon Quest Reborn, refers to Roblox place 77649408247578, and shows a current date before trying anything.",
+          "Never provide a Roblox password, browser cookie, backup code, authentication token, or payment to receive a code reward. Giveaways, trades, and private-server offers are not redeem codes. Close any site that asks you to paste account data or run software."
+        ]
+      },
+      {
+        "id": "check-back",
+        "heading": "When to Check Back",
+        "intro": "The most useful times to check are after major content updates, events, milestones, or the arrival of a code button.",
+        "paragraphs": [
+          "A visible redemption feature would be the clearest sign that codes are ready. Until that happens, the correct status remains no active codes. Last updated: August 30, 2026."
+        ]
+      }
+    ],
+    "faq": [
+      {"question": "Are there any Dungeon Quest Reborn codes?", "answer": "No active codes are available as of August 30, 2026."},
+      {"question": "How do I redeem Dungeon Quest Reborn codes?", "answer": "The game currently has no public code redemption feature, so there are no legitimate steps to use."},
+      {"question": "Are there expired codes?", "answer": "No confirmed expired-code history is currently available."},
+      {"question": "When will codes be added?", "answer": "No release date has been announced. Check after major game updates or when a code button appears."},
+      {"question": "Can a script redeem hidden codes?", "answer": "No. Do not install scripts, executors, extensions, or files that claim to unlock code rewards."}
+    ],
+    "screenshots": [],
+    "relatedSlugs": ["wiki", "discord"],
+    "densityTargets": [{"term": "dungeon quest reborn codes", "min": 0.3, "max": 1.6}],
+    "lastReviewed": "2026-08-30"
+  },
+  {
+    "enabled": true,
+    "slug": "dungeons",
+    "pageType": "database",
+    "navLabel": "Dungeons",
+    "title": "Dungeon Quest Reborn Dungeons - List & Progression Guide",
+    "description": "Dungeon Quest Reborn dungeons list with progression notes, notable weapon and ability drops, farming priorities, and practical solo and party tips.",
+    "keywords": ["dungeon quest reborn dungeons", "dungeon quest reborn dungeon guide"],
+    "primaryKeyword": "dungeon quest reborn dungeons",
+    "secondaryKeywords": ["dungeon quest reborn dungeon list", "dungeon quest reborn progression"],
+    "searchIntent": "See the current dungeon list and plan progression or farming routes.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1100,
+    "hero": {
+      "eyebrow": "Dungeon list updated August 2026",
+      "heading": "Dungeon Quest Reborn Dungeons",
+      "lead": "Browse the current Dungeon Quest Reborn dungeon list, notable weapon and ability targets, progression notes, and practical solo or party advice."
+    },
+    "sections": [
+      {
+        "id": "current-dungeon-list",
+        "heading": "Current Dungeon List",
+        "intro": "Use this table as a route and farming overview. Exact level requirements may vary with the current version.",
+        "table": {
+          "caption": "Dungeon Quest Reborn dungeon progression and loot guide",
+          "columns": ["Dungeon", "What to expect", "Notable loot / abilities", "Progression note"],
+          "rows": [
+            ["Desert Temple", "Early rooms and basic boss practice", "Desert Fury, Whirlwind, Lightning Strikes, Slam", "Starting route and early ability farm"],
+            ["Winter Outpost", "Cold-themed early progression", "Crystalised Greatsword, Gale Slice, Ice Needles", "Build a stable clear before Pirate Island"],
+            ["Pirate Island", "Longer rooms and pirate enemies", "Enchanted Spinning Blades, Phantom Flames", "Early-to-mid progression"],
+            ["Pyramid", "Older progression gear pool", "Soulstealer Greatsword, Staff of the Gods", "Replace when later routes become stable"],
+            ["Kraken Cove", "Coastal route with a broad weapon pool", "Beast Master weapon pair", "Mid progression"],
+            ["Underwater", "Aquatic-themed route", "Dual Phoenix Daggers, Phoenix Greatstaff", "Mid progression gear upgrade"],
+            ["Sky Palace", "Fast rooms with a large weapon pool", "Sakura Katana, Sakura Greatstaff", "Mid progression"],
+            ["Temple Crypt", "Dark close-range route", "Overlord's Rageblade, Overlord's Manablade", "Mid-to-late progression"],
+            ["Ghost Harbor", "Phantom enemies and close-range pressure", "Kraken Slayer, Sea Serpent Wings, Phantom abilities", "Strong B-tier farming route"],
+            ["Steel Sanctum", "Technology-themed equipment pool", "Inventor's Greatsword, Inventor's Spellblade", "Advanced B-tier route"],
+            ["Outer Orbit", "Advanced space-themed dungeon", "Galactic Dual Blades, Galactic Pike", "A-tier weapon target"],
+            ["Volcanic Chambers", "High-pressure fire route", "Lava King's Warscythe, Lava King's Spell Daggers", "Advanced farming"],
+            ["Aquatic Temple", "Later aquatic route", "Sea King's Trident, Sea King's Greatstaff", "High A-tier target"],
+            ["Northern Lands", "Late-game Nordic route", "Hofund, Laevateinn, Mjolnir, Gungnir", "Late weapon progression"],
+            ["Enchanted Forest", "Late-game forest route", "Eden weapons, Eldenbark weapons, Enhanced Inner buffs", "Primary S-tier target"],
+            ["Gildenscale", "Endgame equipment pool", "Gildenscale Oath and Aegis, Daybreak and Gildensong", "Check the live selector for current access"]
+          ]
+        },
+        "links": [
+          {"label": "Return to Dungeon Quest Reborn", "slug": "", "description": "Open the main guide and Roblox entry."}
+        ]
+      },
+      {
+        "id": "recommended-progression",
+        "heading": "Recommended Dungeon Progression",
+        "intro": "Advance when the next available route becomes repeatable, not merely when it unlocks.",
+        "steps": [
+          {"heading": "Clear the current route consistently", "description": "Aim for repeated boss completions without relying on one lucky run or a carry."},
+          {"heading": "Fix the main bottleneck", "description": "Upgrade damage when rooms are slow, survivability when attacks end runs, or abilities when cooldown coverage is weak."},
+          {"heading": "Test the next dungeon", "description": "Compare completion time, failure rate, and useful rewards before moving the farm permanently."}
+        ],
+        "paragraphs": [
+          "A new dungeon can be accessible before the account is ready to farm it efficiently. Keep the previous route available until the new boss can be defeated reliably. This protects gold and upgrade materials while giving the player a consistent source of usable gear.",
+          "Progression is also build-specific. A Warrior may stay longer for a physical weapon, while a Mage may move as soon as a strong spell-power option drops. Use the live selector for the exact current access requirement, then test one full clear before committing the next farming session."
+        ]
+      },
+      {
+        "id": "best-dungeons-for-loot",
+        "heading": "Best Dungeons for Loot",
+        "intro": "Farm by target instead of running a random route.",
+        "subsections": [
+          {"heading": "Best late-game weapon target", "paragraphs": ["Enchanted Forest contains Eden's Vengeance, Eden's Reaper, Eldenbark Greatsword, and Eldenbark Greatstaff."]},
+          {"heading": "Best advanced stepping stone", "paragraphs": ["Outer Orbit offers Galactic Dual Blades and Galactic Pike before later endgame pools."]},
+          {"heading": "Best early ability farm", "paragraphs": ["Desert Temple provides Whirlwind, Lightning Strikes, Slam, Innervate, Blue Fireball, and Holy Barrier across its difficulties."]},
+          {"heading": "Best endgame buffs", "paragraphs": ["Enhanced Inner Rage and Enhanced Inner Focus are associated with Enchanted Forest on Nightmare."]}
+        ],
+        "links": [
+          {"label": "Open the drop table", "slug": "drops", "description": "Match selected items and abilities to their dungeons."},
+          {"label": "Compare weapon tiers", "slug": "weapons-abilities-tier-list", "description": "Decide which farming targets are worth prioritizing."}
+        ]
+      },
+      {
+        "id": "solo-vs-party",
+        "heading": "Solo vs Party Dungeon Tips",
+        "intro": "Both modes work; choose the one that produces dependable rewards.",
+        "paragraphs": [
+          "Solo play makes enemy movement, boss timing, and build problems easier to read. Pull manageable groups, keep a movement path open, and avoid using every cooldown before the boss. If the same room causes repeated failures, adjust one part of the loadout and test again.",
+          "Party play can improve room speed and reduce pressure when players stay together. Avoid scattering enemies outside area attacks, agree on dangerous pulls, and keep support range in mind. A group that reaches the reward screen consistently is better than a faster-looking party that wipes on the boss."
+        ]
+      },
+      {
+        "id": "farming-checklist",
+        "heading": "Dungeon Farming Checklist",
+        "intro": "Before repeating a route, confirm that it supports the account's next upgrade.",
+        "subsections": [
+          {"heading": "Before the run", "paragraphs": ["Equip one focused build, repair obvious stat mismatches, and decide which weapon or ability is the target."], "bullets": ["Correct damage type", "Usable abilities", "Stable survivability"]},
+          {"heading": "After the run", "paragraphs": ["Compare complete reward cards and keep only upgrades or deliberate future pieces."], "bullets": ["Check requirement", "Check primary stat", "Test before spending heavily"]}
+        ]
+      }
+    ],
+    "faq": [
+      {"question": "What are the Dungeon Quest Reborn dungeons?", "answer": "Current exact-game coverage includes Desert Temple, Winter Outpost, Pirate Island, Pyramid, Kraken Cove, Underwater, Sky Palace, Temple Crypt, Ghost Harbor, Steel Sanctum, Outer Orbit, Volcanic Chambers, Aquatic Temple, Northern Lands, Enchanted Forest, and Gildenscale."},
+      {"question": "What dungeon should I farm?", "answer": "Farm the highest dungeon you can clear consistently that contains a useful weapon or ability for your build."},
+      {"question": "Where do the best current weapons drop?", "answer": "Eden's Vengeance and Eden's Reaper are associated with Enchanted Forest."},
+      {"question": "Can I run dungeons solo?", "answer": "Yes. The game supports solo play as well as runs with friends."},
+      {"question": "What are the exact level requirements?", "answer": "Requirements can vary with the current version; check the live dungeon selector for your account."}
+    ],
+    "screenshots": [],
+    "relatedSlugs": ["drops", "weapons-abilities-tier-list", "wiki"],
+    "densityTargets": [{"term": "dungeon quest reborn dungeons", "min": 0.3, "max": 1.2}],
+    "lastReviewed": "2026-08-30"
+  },
+  {
+    "enabled": true,
+    "slug": "weapons-abilities-tier-list",
+    "pageType": "list",
+    "navLabel": "Tier List",
+    "title": "Dungeon Quest Reborn Weapons & Abilities Tier List (August 2026)",
+    "description": "Dungeon Quest Reborn weapons and abilities tier list for August 2026 with S-to-D rankings, classes, source dungeons, top abilities, and playstyle picks.",
+    "keywords": ["dungeon quest reborn weapons tier list", "dungeon quest reborn abilities tier list", "dungeon quest reborn tier list"],
+    "primaryKeyword": "dungeon quest reborn weapons tier list",
+    "secondaryKeywords": ["dungeon quest reborn abilities tier list", "dungeon quest reborn tier list"],
+    "searchIntent": "Compare useful current weapons and abilities by tier, class, and source dungeon.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1300,
+    "hero": {
+      "eyebrow": "Updated for August 2026",
+      "heading": "Dungeon Quest Reborn Weapons & Abilities Tier List",
+      "lead": "Eden's Vengeance and Eden's Reaper lead the current weapon ranking, while Enhanced Inner Rage and Enhanced Inner Focus are the top endgame abilities. Use the S-to-D list below to choose a farming target for Warrior or Mage."
+    },
+    "sections": [
+      {
+        "id": "quick-tier-list",
+        "heading": "Quick Tier List",
+        "intro": "This compact list prioritizes recognizable farming targets instead of repeating every weapon in the game.",
+        "table": {
+          "caption": "Dungeon Quest Reborn weapon and ability tier snapshot",
+          "columns": ["Tier", "Weapon / Ability", "Class", "Dungeon / Source", "Why it ranks here"],
+          "rows": [
+            ["S", "Eden's Vengeance", "Warrior Ultimate", "Enchanted Forest", "Top current Warrior chase weapon"],
+            ["S", "Eden's Reaper", "Mage Ultimate", "Enchanted Forest", "Top current Mage chase weapon"],
+            ["S", "Eldenbark Greatsword", "Warrior Legend", "Enchanted Forest", "Strong alternative before the Warrior Ultimate"],
+            ["S", "Eldenbark Greatstaff", "Mage Legend", "Enchanted Forest", "Strong alternative before the Mage Ultimate"],
+            ["S", "Enhanced Inner Rage", "Warrior Ability", "Enchanted Forest Nightmare", "Leading endgame physical buff"],
+            ["S", "Enhanced Inner Focus", "Mage Ability", "Enchanted Forest Nightmare", "Leading endgame spell buff"],
+            ["A", "Galactic Dual Blades", "Warrior Legend", "Outer Orbit", "Excellent advanced physical weapon"],
+            ["A", "Galactic Pike", "Mage Legend", "Outer Orbit", "Excellent advanced spell weapon"],
+            ["A", "Sea King's Trident", "Warrior Legend", "Aquatic Temple", "High-value Warrior target"],
+            ["A", "Sea King's Greatstaff", "Mage Legend", "Aquatic Temple", "High-value Mage target"],
+            ["A", "Whirlwind", "Warrior Ability", "Desert Temple Easy", "Reliable multi-target room clear"],
+            ["A", "Lightning Strikes", "Mage Ability", "Desert Temple Medium", "Strong early single-target damage"],
+            ["B", "Inventor's Greatsword", "Warrior Legend", "Steel Sanctum", "Useful advanced progression weapon"],
+            ["B", "Inventor's Spellblade", "Mage Legend", "Steel Sanctum", "Useful advanced Mage progression weapon"],
+            ["B", "Kraken Slayer", "Warrior Legend", "Ghost Harbor", "Solid mid-game Warrior target"],
+            ["B", "Sea Serpent Wings", "Mage Legend", "Ghost Harbor", "Solid mid-game Mage target"],
+            ["B", "Slam", "Warrior Ability", "Desert Temple Medium", "Straightforward early physical damage"],
+            ["B", "Innervate", "Mage Ability", "Desert Temple Hard", "Useful Mage progression option"],
+            ["C", "Sakura Katana", "Warrior Legend", "Sky Palace", "Serviceable mid-game weapon with later replacements"],
+            ["C", "Sakura Greatstaff", "Mage Legend", "Sky Palace", "Serviceable Mage weapon with later replacements"],
+            ["C", "Gale Slice", "Warrior Ability", "Winter Outpost Easy", "Usable early option that is outgrown later"],
+            ["C", "Ice Needles", "Mage Ability", "Winter Outpost Easy", "Usable early spell with stronger later choices"],
+            ["D", "Crystalised Greatsword", "Legendary", "Winter Outpost", "Early Legendary that falls behind later dungeon gear"],
+            ["D", "Desert Fury", "Legendary", "Desert Temple", "Starter chase item with a short progression lifespan"]
+          ]
+        },
+        "paragraphs": ["Rankings are based on current game information and community-tested performance, and may change after balance updates. Always compare the exact roll, requirement, and build fit of the item that actually drops."]
+      },
+      {
+        "id": "s-tier-weapons",
+        "heading": "S Tier Weapons",
+        "intro": "S tier contains the strongest late-game chase weapons and their best practical alternatives.",
+        "paragraphs": [
+          "Eden's Vengeance is the priority Warrior Ultimate, while Eden's Reaper is the matching Mage Ultimate. Both come from Enchanted Forest and sit at the top because they combine the latest high-end source with the correct class path.",
+          "Eldenbark Greatsword and Eldenbark Greatstaff are the best compact alternatives from the same dungeon. Northern Lands also supplies strong late-game weapons such as Hofund for Warrior and Laevateinn for Mage, with Mjolnir and Gungnir as valuable Legendary targets.",
+          "An S-tier name does not override the item card. A weapon still needs the right class path, usable requirement, and a strong enough roll to improve the equipped piece."
+        ]
+      },
+      {
+        "id": "a-tier-weapons",
+        "heading": "A Tier Weapons",
+        "intro": "A tier is filled with advanced weapons that can carry progression until the top Enchanted Forest targets drop.",
+        "paragraphs": [
+          "Galactic Dual Blades and Galactic Pike are the standout Warrior and Mage targets from Outer Orbit. Lava King's Warscythe and Lava King's Spell Daggers lead the Volcanic Chambers pair, while Sea King's Trident and Sea King's Greatstaff are premium Aquatic Temple choices.",
+          "Solar Greatsword, Solar Essence Staff, Oceanic Greatsword, and Enchanted Serpent Daggers are strong non-Legendary alternatives when the main chase drop has not appeared. These weapons are worth using when they match the build and improve the current route, even if the account plans to replace them later."
+        ]
+      },
+      {
+        "id": "b-tier-weapons",
+        "heading": "B Tier Weapons",
+        "intro": "B tier provides reliable mid-to-advanced progression without being the final farming target.",
+        "paragraphs": [
+          "Inventor's Greatsword and Inventor's Spellblade are the featured Steel Sanctum pair. Kraken Slayer and Sea Serpent Wings fill the same role for Ghost Harbor, while Overlord's Rageblade and Overlord's Manablade are notable Temple Crypt targets.",
+          "B-tier gear is often the right place for moderate upgrades because it can unlock a more efficient route. Avoid maximum investment when the next dungeon is already close and the current weapon clears consistently."
+        ]
+      },
+      {
+        "id": "c-d-tier-weapons",
+        "heading": "C and D Tier Weapons",
+        "intro": "These weapons can help early or mid progression but are normally replaced by later dungeon drops.",
+        "paragraphs": [
+          "Sakura Katana and Sakura Greatstaff are recognizable Sky Palace options in C tier. Dual Phoenix Daggers and Phoenix Greatstaff from Underwater can also serve a developing build, but later routes offer stronger long-term targets.",
+          "Crystalised Greatsword from Winter Outpost and Desert Fury from Desert Temple are exciting early Legendary drops, yet their value falls as the account reaches newer dungeons. Use them when they improve the current run; do not keep them equipped only because the rarity label is memorable."
+        ]
+      },
+      {
+        "id": "best-abilities",
+        "heading": "Best Dungeon Quest Reborn Abilities",
+        "intro": "Choose abilities that match the damage path and solve the current run's biggest problem.",
+        "table": {
+          "caption": "Best current ability picks",
+          "columns": ["Tier", "Ability", "Class", "Source", "Best use"],
+          "rows": [
+            ["S", "Enhanced Inner Rage", "Warrior", "Enchanted Forest Nightmare", "Endgame physical damage buff"],
+            ["S", "Enhanced Inner Focus", "Mage", "Enchanted Forest Nightmare", "Endgame spell damage buff"],
+            ["A", "Universal Heal", "Mage / Support", "General source", "Dedicated party healing"],
+            ["A", "Whirlwind", "Warrior", "Desert Temple Easy", "Fast multi-target room clear"],
+            ["A", "Lightning Strikes", "Mage", "Desert Temple Medium", "Strong focused damage"],
+            ["A", "Berserk", "Warrior", "Samurai Palace", "Physical self-buff"],
+            ["A", "Enchanted Shuriken", "Mage", "Samurai Palace", "Ranged spell pressure"],
+            ["A", "Phantom Blades", "Warrior", "Ghost Harbor", "Close-range area damage"],
+            ["A", "Phantom Striker", "Mage", "Ghost Harbor", "Ranged Mage counterpart"],
+            ["B", "Rending Slice", "Warrior", "Underworld", "Solid physical progression skill"],
+            ["C", "Enchanted Spinning Blades", "Warrior", "Pirate Island", "Early area option"],
+            ["C", "Phantom Flames", "Mage", "Pirate Island", "Early Mage progression option"]
+          ]
+        }
+      },
+      {
+        "id": "best-picks-by-playstyle",
+        "heading": "Best Picks by Class and Playstyle",
+        "intro": "Use the list as a build shortcut.",
+        "subsections": [
+          {"heading": "Warrior damage", "paragraphs": ["Prioritize Eden's Vengeance with Enhanced Inner Rage. Use Whirlwind or Phantom Blades when room coverage is the main need."]},
+          {"heading": "Mage damage", "paragraphs": ["Prioritize Eden's Reaper with Enhanced Inner Focus. Lightning Strikes and Phantom Striker provide useful focused or ranged damage."]},
+          {"heading": "Party support", "paragraphs": ["Universal Heal is the key support pick when the group needs recovery more than another damage slot."]},
+          {"heading": "Fast early farming", "paragraphs": ["Whirlwind for Warrior and Lightning Strikes for Mage offer useful early value without waiting for endgame drops."]}
+        ]
+      },
+      {
+        "id": "how-we-rank",
+        "heading": "How the Tier List Works",
+        "intro": "Higher tiers combine source dungeon, class fit, practical clear value, and replacement lifespan.",
+        "paragraphs": [
+          "The ranking separates Warrior and Mage options, favors gear from stronger current dungeons, and considers whether a drop remains useful long enough to justify upgrades. A lower-tier item can still be the correct choice for an early account, while an S-tier item that cannot be equipped is only a future farming target.",
+          "Test upgrades in the same route and watch room speed, boss uptime, survivability, and completion rate. Rankings may change as balance updates and better data become available."
+        ],
+        "links": [
+          {"label": "Find these drops by dungeon", "slug": "drops", "description": "Open the compact item and ability source table."},
+          {"label": "Plan a dungeon route", "slug": "dungeons", "description": "See progression and farming priorities."},
+          {"label": "Return to Dungeon Quest Reborn", "slug": "", "description": "Open the main guide and all core pages."}
+        ]
+      }
+    ],
+    "faq": [
+      {"question": "What are the best Dungeon Quest Reborn weapons?", "answer": "Eden's Vengeance for Warrior and Eden's Reaper for Mage lead the August 2026 compact ranking."},
+      {"question": "What are the best abilities?", "answer": "Enhanced Inner Rage and Enhanced Inner Focus are the top endgame buffs. Whirlwind and Lightning Strikes are strong early-to-mid picks."},
+      {"question": "Is Crystalised Greatsword still worth using?", "answer": "It can be a useful Winter Outpost Legendary, but later dungeon weapons replace it as progression advances."},
+      {"question": "Should I always equip a higher-tier name?", "answer": "No. Compare the exact roll, requirement, damage path, and upgrade state before changing gear."},
+      {"question": "When was this tier list updated?", "answer": "The current tier list was updated for August 2026."}
+    ],
+    "screenshots": [],
+    "relatedSlugs": ["drops", "dungeons", "wiki"],
+    "densityTargets": [{"term": "dungeon quest reborn", "min": 0.15, "max": 1.2}],
+    "lastReviewed": "2026-08-30"
+  },
+  {
+    "enabled": true,
+    "slug": "discord",
+    "pageType": "guide",
+    "navLabel": "Discord",
+    "title": "Dungeon Quest Reborn Discord - Current Server Link",
+    "description": "Join the current Dungeon Quest Reborn Discord community at discord.gg/dqrs for groups, builds, drops, news, and player discussion, with quick safety tips.",
+    "keywords": ["dungeon quest reborn discord", "dungeon quest reborn discord server"],
+    "primaryKeyword": "dungeon quest reborn discord",
+    "secondaryKeywords": ["dungeon quest reborn discord server", "dqr discord"],
+    "searchIntent": "Open the current community invite immediately and understand what the server offers.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 700,
+    "hero": {
+      "eyebrow": "Current community invite",
+      "heading": "Dungeon Quest Reborn Discord",
+      "lead": "Join the current DQR community server at discord.gg/dqrs for player discussion, groups, builds, drops, and update news."
+    },
+    "sections": [
+      {
+        "id": "join-discord",
+        "heading": "Join the Dungeon Quest Reborn Discord",
+        "intro": "Open the current invite: https://discord.com/invite/dqrs",
+        "paragraphs": ["Discord lists this community server for Dungeon Quest Reborn; developer ownership has not been independently confirmed."],
+        "externalLinks": [
+          {"label": "Join Discord", "url": "https://discord.com/invite/dqrs", "description": "Open discord.gg/dqrs in Discord."}
+        ],
+        "links": [
+          {"label": "Return to Dungeon Quest Reborn", "slug": "", "description": "Open the main guide and Roblox game link."}
+        ]
+      },
+      {
+        "id": "server-overview",
+        "heading": "Server Overview",
+        "intro": "The server is a community hub for players who want faster answers and people to run with.",
+        "paragraphs": [
+          "Discord Discovery lists the server under Dungeon Quest Reborn and describes channels for game discussion, update news, giveaways, rewards, and an active player lounge. The invite opens the server entry screen, where you can review the name, icon, rules, channel list, and current activity before participating.",
+          "Use the server alongside the game rather than as a replacement for live information. When a balance change, dungeon, or item is discussed, compare it with the current Roblox client before spending resources or changing a build. Read the server rules before posting or joining a group."
+        ]
+      },
+      {
+        "id": "what-players-use-it-for",
+        "heading": "What Players Use the Server For",
+        "intro": "The most useful channels help players group up and solve immediate progression questions.",
+        "subsections": [
+          {"heading": "Find dungeon groups", "paragraphs": ["Look for players farming the same route, difficulty, weapon, or ability target."]},
+          {"heading": "Compare builds", "paragraphs": ["Discuss Warrior and Mage loadouts, ability rotations, item rolls, and upgrade priorities."]},
+          {"heading": "Track community news", "paragraphs": ["Watch announcements and player reports after game updates, events, or balance changes."]},
+          {"heading": "Share drops", "paragraphs": ["Compare reward cards and dungeon sources without treating one screenshot as an exact drop rate."]}
+        ],
+        "links": [
+          {"label": "Check the tier list before farming", "slug": "weapons-abilities-tier-list", "description": "Choose a weapon or ability target first."},
+          {"label": "Open the dungeon guide", "slug": "dungeons", "description": "Match the group to a useful progression route."}
+        ]
+      },
+      {
+        "id": "discord-safety",
+        "heading": "Discord Safety Tips",
+        "intro": "Joining a server should never require transferring control of a Roblox account.",
+        "paragraphs": [
+          "Never send a Roblox password, browser cookie, authentication token, backup code, or login QR code to another user or bot. Do not download an executor, unknown verification tool, browser extension, or script to unlock a role, reward, code, or giveaway.",
+          "Treat direct messages about trades, staff roles, middleman services, and limited-time rewards carefully. Confirm usernames, keep protected actions inside Roblox or Discord, and leave any page that asks you to sign in through an unfamiliar domain."
+        ]
+      },
+      {
+        "id": "invite-help",
+        "heading": "What If the Invite Does Not Open?",
+        "intro": "Discord invites can expire, be rate-limited, or require the Discord app.",
+        "steps": [
+          {"heading": "Try the full invite", "description": "Open https://discord.com/invite/dqrs in a normal browser or the Discord app."},
+          {"heading": "Check Discord status", "description": "Wait and retry if Discord is unavailable or the invite page is temporarily limited."},
+          {"heading": "Use the game page", "description": "Check the Roblox game page and creator-linked channels for a current community destination."}
+        ]
+      },
+      {
+        "id": "discord-updated",
+        "heading": "Discord Link Status",
+        "intro": "Link checked: August 30, 2026.",
+        "paragraphs": ["The current page and CTA use the short invite discord.gg/dqrs."]
+      }
+    ],
+    "faq": [
+      {"question": "What is the Dungeon Quest Reborn Discord link?", "answer": "The current community invite is https://discord.com/invite/dqrs."},
+      {"question": "What is the Discord server used for?", "answer": "Players use it for dungeon groups, build discussion, drop comparisons, community news, giveaways, and general chat."},
+      {"question": "Is the server developer-owned?", "answer": "Discord lists it for Dungeon Quest Reborn, but developer ownership has not been independently confirmed."},
+      {"question": "What if the invite expires?", "answer": "Retry the full invite in Discord, then check the Roblox game page or creator-linked channels for a current destination."},
+      {"question": "Is Discord verification safe?", "answer": "Never provide a Roblox password, cookie, token, backup code, or unknown download to join a server."}
+    ],
+    "screenshots": [],
+    "relatedSlugs": ["wiki", "codes"],
+    "densityTargets": [{"term": "dungeon quest reborn discord", "min": 0.3, "max": 1.2}],
+    "lastReviewed": "2026-08-30"
+  },
+  {
+    "enabled": true,
+    "slug": "drops",
+    "pageType": "database",
+    "navLabel": "Drops",
+    "title": "Dungeon Quest Reborn Drops - Items, Abilities & Dungeons",
+    "description": "Dungeon Quest Reborn drops guide with a quick weapon and ability source table, best farming dungeons, loot rarity advice, and practical farming tips.",
+    "keywords": ["dungeon quest reborn drops", "dungeon quest reborn loot", "dungeon quest reborn weapon drops"],
+    "primaryKeyword": "dungeon quest reborn drops",
+    "secondaryKeywords": ["dungeon quest reborn loot", "dungeon quest reborn ability drops"],
+    "searchIntent": "Find selected weapons and abilities by dungeon and plan an efficient farm.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "hero": {
+      "eyebrow": "Loot guide updated August 2026",
+      "heading": "Dungeon Quest Reborn Drops",
+      "lead": "Use the quick drop table to find selected weapons and abilities by dungeon, then choose a route your Warrior or Mage build can clear consistently."
+    },
+    "sections": [
+      {
+        "id": "quick-drop-table",
+        "heading": "Quick Drop Table",
+        "intro": "These named targets cover useful early, mid-game, advanced, and endgame farms. Exact drop rates are not currently published.",
+        "table": {
+          "caption": "Dungeon Quest Reborn weapon and ability drops",
+          "columns": ["Item / Ability", "Dungeon", "Type", "Notes"],
+          "rows": [
+            ["Desert Fury", "Desert Temple", "Legendary weapon", "Early chase weapon"],
+            ["Whirlwind", "Desert Temple Easy", "Warrior ability", "Strong multi-target room clear"],
+            ["Lightning Strikes", "Desert Temple Medium", "Mage ability", "Strong focused damage"],
+            ["Slam", "Desert Temple Medium", "Warrior ability", "Useful early physical attack"],
+            ["Innervate", "Desert Temple Hard", "Mage ability", "Mage progression option"],
+            ["Crystalised Greatsword", "Winter Outpost", "Legendary weapon", "Early Warrior upgrade target"],
+            ["Gale Slice", "Winter Outpost Easy", "Warrior ability", "Early progression skill"],
+            ["Ice Needles", "Winter Outpost Easy", "Mage ability", "Early progression spell"],
+            ["Enchanted Spinning Blades", "Pirate Island", "Warrior ability", "Area-damage progression option"],
+            ["Phantom Flames", "Pirate Island", "Mage ability", "Mage progression option"],
+            ["Kraken Slayer", "Ghost Harbor", "Warrior Legendary", "Mid-game Warrior target"],
+            ["Sea Serpent Wings", "Ghost Harbor", "Mage Legendary", "Mid-game Mage target"],
+            ["Phantom Blades", "Ghost Harbor", "Warrior ability", "Close-range area damage"],
+            ["Phantom Striker", "Ghost Harbor", "Mage ability", "Ranged Mage counterpart"],
+            ["Inventor's Greatsword", "Steel Sanctum", "Warrior Legendary", "Advanced progression weapon"],
+            ["Inventor's Spellblade", "Steel Sanctum", "Mage Legendary", "Advanced Mage weapon"],
+            ["Galactic Dual Blades", "Outer Orbit", "Warrior Legendary", "High-value A-tier target"],
+            ["Galactic Pike", "Outer Orbit", "Mage Legendary", "High-value A-tier target"],
+            ["Sea King's Trident", "Aquatic Temple", "Warrior Legendary", "Late A-tier target"],
+            ["Sea King's Greatstaff", "Aquatic Temple", "Mage Legendary", "Late A-tier target"],
+            ["Hofund", "Northern Lands", "Warrior Ultimate", "Late-game Warrior target"],
+            ["Laevateinn", "Northern Lands", "Mage Ultimate", "Late-game Mage target"],
+            ["Eden's Vengeance", "Enchanted Forest", "Warrior Ultimate", "Top current Warrior target"],
+            ["Eden's Reaper", "Enchanted Forest", "Mage Ultimate", "Top current Mage target"],
+            ["Eldenbark Greatsword", "Enchanted Forest", "Warrior Legendary", "Strong alternative to Eden's Vengeance"],
+            ["Eldenbark Greatstaff", "Enchanted Forest", "Mage Legendary", "Strong alternative to Eden's Reaper"],
+            ["Enhanced Inner Rage", "Enchanted Forest Nightmare", "Warrior ability", "Endgame physical buff"],
+            ["Enhanced Inner Focus", "Enchanted Forest Nightmare", "Mage ability", "Endgame spell buff"]
+          ]
+        },
+        "links": [
+          {"label": "Return to Dungeon Quest Reborn", "slug": "", "description": "Open the main game guide and core pages."}
+        ]
+      },
+      {
+        "id": "best-dungeons-for-weapons",
+        "heading": "Best Dungeons for Weapons",
+        "intro": "Pick a dungeon that contains a meaningful upgrade for the build.",
+        "paragraphs": [
+          "Enchanted Forest is the main late-game weapon target because it contains Eden's Vengeance, Eden's Reaper, Eldenbark Greatsword, and Eldenbark Greatstaff. Northern Lands is a strong step before it with Hofund, Laevateinn, Mjolnir, and Gungnir.",
+          "Outer Orbit is a valuable advanced farm for Galactic Dual Blades and Galactic Pike. Steel Sanctum and Ghost Harbor provide useful B-tier stepping stones, while Winter Outpost and Desert Temple supply recognizable early chase drops. Farm the highest useful source that the account can finish consistently."
+        ],
+        "links": [
+          {"label": "Compare weapon tiers", "slug": "weapons-abilities-tier-list", "description": "See which named targets have the best replacement lifespan."},
+          {"label": "Plan dungeon progression", "slug": "dungeons", "description": "Review the full route list and farming priorities."}
+        ]
+      },
+      {
+        "id": "ability-drops",
+        "heading": "Ability Drops",
+        "intro": "Abilities can be valuable farming targets even when the current weapon is already strong.",
+        "paragraphs": [
+          "Warrior players can start with Whirlwind or Slam from Desert Temple, then use options such as Enchanted Spinning Blades, Phantom Blades, Berserk, and Rending Slice as progression opens. Mage players can target Lightning Strikes, Innervate, Phantom Flames, Phantom Striker, Enchanted Shuriken, and other spell-focused options.",
+          "Enhanced Inner Rage and Enhanced Inner Focus are the leading endgame buffs and are associated with Enchanted Forest on Nightmare. Match the ability to the weapon and armor path; a strong Mage spell will not repair a physical build, and a Warrior buff will not improve spell-power gear."
+        ]
+      },
+      {
+        "id": "loot-rarity",
+        "heading": "Loot Rarity and Upgrade Value",
+        "intro": "Rarity matters, but dungeon age, class fit, and the exact item card matter too.",
+        "subsections": [
+          {"heading": "Keep immediately", "paragraphs": ["A usable weapon or ability that matches the damage path and improves the current dungeon clear."], "bullets": ["Correct class", "Correct main stat", "Usable requirement"]},
+          {"heading": "Compare before upgrading", "paragraphs": ["A rare or Legendary item from an older dungeon may lose to a regular drop from a much later route."], "bullets": ["Compare full card", "Test the same route", "Keep a working backup"]},
+          {"heading": "Save for later", "paragraphs": ["A strong named item that fits a planned build but cannot yet be equipped."], "bullets": ["Check requirement", "Estimate upgrade cost", "Avoid breaking the current set"]},
+          {"heading": "Replace or skip", "paragraphs": ["A mismatched item that does not support the current or planned damage path."], "bullets": ["Wrong scaling", "Short replacement window", "Poor run performance"]}
+        ]
+      },
+      {
+        "id": "farming-tips",
+        "heading": "Dungeon Quest Reborn Farming Tips",
+        "intro": "More successful reward screens usually matter more than one difficult clear.",
+        "steps": [
+          {"heading": "Choose one target", "description": "Decide on a specific weapon or ability and run the dungeon that supplies it."},
+          {"heading": "Optimize clear consistency", "description": "Use a difficulty the build can finish repeatedly without frequent wipes."},
+          {"heading": "Compare before spending", "description": "Read every reward card and test a possible upgrade before using major resources."}
+        ],
+        "paragraphs": [
+          "Track a simple session total: completed runs, failed runs, average clear time, and useful drops. That is enough to compare two farming routes without guessing a hidden probability. Exact drop rates are not currently published.",
+          "In a party, agree on the route and target before starting. Staying together improves area damage and makes support abilities easier to use. Solo players can trade speed for consistency and learn the boss pattern without group movement changing every attempt."
+        ]
+      }
+    ],
+    "faq": [
+      {"question": "Where does Eden's Vengeance drop?", "answer": "Eden's Vengeance is associated with Enchanted Forest as a Warrior Ultimate."},
+      {"question": "Where does Eden's Reaper drop?", "answer": "Eden's Reaper is associated with Enchanted Forest as a Mage Ultimate."},
+      {"question": "Where does Galactic Dual Blades drop?", "answer": "Galactic Dual Blades is associated with Outer Orbit."},
+      {"question": "Where does Crystalised Greatsword drop?", "answer": "Crystalised Greatsword is associated with Winter Outpost."},
+      {"question": "What are the exact drop rates?", "answer": "Exact Dungeon Quest Reborn drop rates are not currently published."},
+      {"question": "What dungeon should I farm?", "answer": "Farm the highest dungeon you can clear consistently that contains a useful target for your current build."}
+    ],
+    "screenshots": [],
+    "relatedSlugs": ["dungeons", "weapons-abilities-tier-list", "wiki"],
+    "densityTargets": [{"term": "dungeon quest reborn drops", "min": 0.3, "max": 1.2}],
+    "lastReviewed": "2026-08-30"
+  }
+]

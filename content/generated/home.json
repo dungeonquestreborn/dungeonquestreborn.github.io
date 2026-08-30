@@ -1,0 +1,147 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Dungeon Quest Reborn - Wiki, Codes, Dungeons & Tier List",
+  "description": "Dungeon Quest Reborn Roblox guide with quick access to the wiki, current codes status, dungeons, weapons and abilities tier list, drops, and Discord.",
+  "keywords": ["dungeon quest reborn", "dungeon quest reborn roblox", "roblox dungeon quest reborn"],
+  "primaryKeyword": "dungeon quest reborn",
+  "secondaryKeywords": ["dungeon quest reborn roblox", "dungeon quest reborn wiki", "dungeon quest reborn codes", "dungeon quest reborn dungeons"],
+  "searchIntent": "Understand the game and reach the most useful current player guides.",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 1900,
+  "hero": {
+    "eyebrow": "Roblox dungeon crawler guide",
+    "heading": "Dungeon Quest Reborn",
+    "lead": "Dungeon Quest Reborn is a Roblox dungeon crawler by Delta Quarters OG. Find the latest wiki guides, codes status, dungeons, weapons and abilities tier list, drops, and Discord links.",
+    "supportingText": "Choose a guide below for a quick answer, then use the tables and progression tips to plan your next dungeon run, loadout, or farming target.",
+    "primaryLink": {"label": "Open the Wiki", "slug": "wiki"},
+    "secondaryLink": {"label": "Play on Roblox", "url": "https://www.roblox.com/games/77649408247578/Dungeon-Quest-Reborn"}
+  },
+  "sections": [
+    {
+      "id": "quick-links",
+      "heading": "Dungeon Quest Reborn Quick Links",
+      "intro": "Jump straight to the guide that matches what you need right now.",
+      "links": [
+        {"label": "Wiki", "slug": "wiki", "description": "Beginner help, progression, equipment, loot, and every core guide in one hub."},
+        {"label": "Codes", "slug": "codes", "description": "See the current active-code and redemption-feature status."},
+        {"label": "Dungeons", "slug": "dungeons", "description": "Browse the current dungeon list, progression path, and party tips."},
+        {"label": "Weapons & Abilities Tier List", "slug": "weapons-abilities-tier-list", "description": "Compare S-to-D tier weapons and the best current abilities."},
+        {"label": "Drops", "slug": "drops", "description": "Find named weapon and ability drops by dungeon."},
+        {"label": "Discord", "slug": "discord", "description": "Open the current community server invite and safety guide."}
+      ]
+    },
+    {
+      "id": "what-is-dungeon-quest-reborn",
+      "heading": "What Is Dungeon Quest Reborn?",
+      "intro": "Dungeon Quest Reborn brings the dungeon-clearing, loot-upgrading loop of Dungeon Quest into a separate Roblox experience.",
+      "paragraphs": [
+        "The game is created by Delta Quarters OG and officially licensed by Voldex. Players enter themed dungeons, clear groups of enemies, defeat bosses, collect equipment, unlock abilities, and strengthen a build for harder content. Runs can be played alone or with friends, so the same account can learn encounters solo and then join a faster party farm.",
+        "Progress comes from building around a clear damage path. Warrior gear favors physical damage and close-range abilities, while Mage gear favors spell power and ranged or area attacks. A newer drop is not automatically better if it scales with the wrong stat, requires a level you have not reached, or breaks the ability rotation that already clears reliably.",
+        "The most useful approach is simple: farm the highest dungeon you can finish consistently, compare complete item cards, upgrade only the pieces that fit your build, and move forward when the next route becomes stable. Dungeon names may feel familiar to players of the original game, but live Reborn requirements and item values should be read from the current client.",
+        "A normal session can be split into three short goals. First, clear the current dungeon until its rooms and boss attacks feel predictable. Second, keep drops that improve the main damage stat or solve a survival problem. Third, test the upgraded build before spending more resources. This routine gives every run a purpose even when the exact target item does not appear."
+      ]
+    },
+    {
+      "id": "current-player-guide",
+      "heading": "Current Player Guide",
+      "intro": "Use this snapshot to decide where to go next.",
+      "table": {
+        "caption": "Dungeon Quest Reborn player guide snapshot",
+        "columns": ["Question", "Quick answer", "Best page"],
+        "rows": [
+          ["Are there active codes?", "No active codes are available as of August 30, 2026.", "Codes"],
+          ["Where should I start?", "Use Desert Temple and the live dungeon selector for your first accessible route.", "Dungeons"],
+          ["What are the top weapons?", "Eden's Vengeance and Eden's Reaper lead the current compact ranking.", "Tier List"],
+          ["What are the top abilities?", "Enhanced Inner Rage and Enhanced Inner Focus are the endgame S-tier buffs.", "Tier List"],
+          ["Where can I find drops?", "The drops guide maps selected weapons and abilities to their reported dungeons.", "Drops"],
+          ["What is the Discord link?", "The current community invite is discord.gg/dqrs.", "Discord"]
+        ]
+      },
+      "paragraphs": [
+        "New players should begin with controls, class direction, and a repeatable first clear. Pick Warrior if you prefer physical damage and close-range pressure, or Mage if you prefer spell power and ranged area attacks. The choice is less about a permanent class lock and more about keeping equipment and abilities aligned around the same main stat.",
+        "Returning players can use the same snapshot as a checklist. Confirm which dungeon is currently accessible, compare the best realistic weapon target for that point in progression, and decide whether the next session is for experience, equipment, abilities, or party practice. Focusing on one target prevents the inventory from filling with unrelated sidegrades.",
+        "When a run feels inconsistent, change one part of the setup at a time. Test a weapon swap without changing every ability, or adjust the rotation before spending on more upgrades. Watch how quickly normal rooms fall, how much damage stays available during boss movement, and whether mistakes are survivable. A controlled comparison is much more useful than judging a build from one unusually lucky or unlucky clear. Party runs can also hide weak damage or survival, so repeat a solo route occasionally to understand what the account can handle on its own."
+      ]
+    },
+    {
+      "id": "dungeons-and-progression",
+      "heading": "Dungeons and Progression",
+      "intro": "Dungeon progression moves from early routes such as Desert Temple and Winter Outpost toward later gear pools such as Northern Lands and Enchanted Forest.",
+      "paragraphs": [
+        "Each dungeon is a repeatable combat route with enemies, a boss, and a reward screen. The best farming dungeon is usually the highest route your build can clear without frequent wipes. A slightly easier run completed several times can produce more useful loot per hour than a harder dungeon that ends before the reward screen.",
+        "Learn the room layout, keep movement space for boss attacks, and save at least one useful cooldown for dangerous waves. In a party, stay close enough for area damage and support abilities to matter. When playing solo, use repeated attempts to identify whether damage, survival, or ability timing is the real blocker.",
+        "The dungeon guide includes Desert Temple, Winter Outpost, Pirate Island, Pyramid, Kraken Cove, Underwater, Sky Palace, Temple Crypt, Ghost Harbor, Steel Sanctum, Outer Orbit, Volcanic Chambers, Aquatic Temple, Northern Lands, Enchanted Forest, and Gildenscale. Exact entry requirements can change with the current version, so the live selector remains the fastest place to check access.",
+        "Before moving to a new route, make sure ordinary waves are controlled as reliably as the boss. If rooms take too long, improve the weapon or main stat. If the boss ends runs suddenly, practice its telegraphs and add enough durability to survive one mistake. If cooldown gaps cause the problem, adjust the ability rotation instead of assuming every failure requires more raw power."
+      ],
+      "links": [
+        {"label": "Browse the Dungeon List", "slug": "dungeons", "description": "See progression notes, notable loot, and solo or party advice."},
+        {"label": "Check Dungeon Drops", "slug": "drops", "description": "Match selected weapons and abilities to farming locations."}
+      ]
+    },
+    {
+      "id": "weapons-and-abilities",
+      "heading": "Weapons and Abilities",
+      "intro": "A strong loadout keeps the weapon, armor, stats, and abilities on the same damage path.",
+      "paragraphs": [
+        "Warrior builds use physical gear and benefit from close-range attacks or physical buffs. Mage builds use spell-power gear and usually gain more value from ranged attacks, area spells, or spell buffs. Hybrid equipment can help temporarily, but it often falls behind once a focused set becomes available.",
+        "The current tier list places Eden's Vengeance and Eden's Reaper at the top of the compact weapon ranking. Enhanced Inner Rage and Enhanced Inner Focus are the leading Warrior and Mage buffs. Useful progression abilities include Whirlwind, Lightning Strikes, Berserk, Enchanted Shuriken, Phantom Blades, and Phantom Striker.",
+        "Do not compare names alone. Read the class, dominant stat, requirement, rarity, and upgrade state on the item card. Then test the new setup in the same dungeon. A real upgrade should improve room clear speed, boss uptime, survival, or overall consistency without forcing an expensive rebuild that the account cannot yet support.",
+        "Ability slots should also cover a job rather than repeat the same weakness. A damage buff can raise a strong rotation, an area attack can speed up crowded rooms, and a mobile or ranged option can preserve damage while a boss is unsafe to approach. The best setup is the one that keeps dealing useful damage throughout the whole run, not only during a perfect opening burst."
+      ],
+      "links": [
+        {"label": "Open the Weapons & Abilities Tier List", "slug": "weapons-abilities-tier-list", "description": "See S, A, B, C, and D tiers plus playstyle recommendations."}
+      ]
+    },
+    {
+      "id": "loot-and-drops",
+      "heading": "Loot and Drops",
+      "intro": "Dungeon rewards include weapons, armor, rare items, Legendary gear, and abilities tied to specific farming routes.",
+      "paragraphs": [
+        "Named targets make farming easier to plan. Eden's Vengeance, Eden's Reaper, the Eldenbark weapons, and the Enhanced Inner buffs are associated with Enchanted Forest. Galactic Dual Blades and Galactic Pike are associated with Outer Orbit. Crystalised Greatsword comes from Winter Outpost, while early abilities such as Whirlwind and Lightning Strikes come from Desert Temple.",
+        "A good drop should match the build before it receives expensive upgrades. Compare the complete card with the currently equipped item, keep a working backup until the replacement is tested, and avoid spending all resources on a piece that will be replaced in the next dungeon. Exact drop rates are not currently published.",
+        "For an efficient farming session, choose one primary drop and one acceptable backup result. Clear on a difficulty you can repeat, keep inventory space available before starting, and review several rewards together instead of upgrading after every run. This makes it easier to notice whether a new item is a genuine step forward or only a different roll at the same power level."
+      ],
+      "links": [
+        {"label": "Use the Drop Table", "slug": "drops", "description": "Find selected item and ability sources with concise farming notes."}
+      ]
+    },
+    {
+      "id": "codes-and-discord",
+      "heading": "Codes and Discord",
+      "intro": "There are no active Dungeon Quest Reborn codes yet, while the current community Discord invite is available at discord.gg/dqrs.",
+      "paragraphs": [
+        "The game does not currently provide a public code redemption feature. That means there are no legitimate redemption steps or working reward strings to enter as of August 30, 2026. The codes page keeps the answer at the top and explains where future announcements are most likely to appear.",
+        "The Discord server is useful for finding players, discussing builds, watching community news, and comparing drops. Discord lists the server for Dungeon Quest Reborn; developer ownership has not been independently confirmed. Never share a Roblox password, browser cookie, backup code, or account token with a server bot or external website."
+      ],
+      "links": [
+        {"label": "Check the Codes Status", "slug": "codes", "description": "See active codes, expired codes, and redemption availability."},
+        {"label": "Join the Community Discord", "slug": "discord", "description": "Open the invite and review quick account-safety tips."}
+      ]
+    },
+    {
+      "id": "latest-updates",
+      "heading": "Latest Updates",
+      "intro": "Last updated: August 30, 2026.",
+      "subsections": [
+        {"heading": "Codes status updated", "paragraphs": ["No active codes or public redemption feature are currently available."]},
+        {"heading": "Tier list updated", "paragraphs": ["The page now includes compact S-to-D weapon tiers and current ability picks."]},
+        {"heading": "Dungeon and drop lists updated", "paragraphs": ["Named dungeons, selected weapon sources, and ability drops are easier to scan."]},
+        {"heading": "Discord link checked", "paragraphs": ["The current community invite remains discord.gg/dqrs."]}
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "What is Dungeon Quest Reborn?", "answer": "It is a Roblox dungeon crawler by Delta Quarters OG where players clear dungeons, defeat bosses, collect equipment, unlock abilities, and improve a focused build."},
+    {"question": "Is Dungeon Quest Reborn the same as the original Dungeon Quest?", "answer": "It is a separate Roblox experience. Familiar names may appear, but current Reborn values and requirements should be checked in the live game."},
+    {"question": "Are there Dungeon Quest Reborn codes?", "answer": "No active codes or public redemption feature are available as of August 30, 2026."},
+    {"question": "What are the best weapons?", "answer": "Eden's Vengeance for Warrior and Eden's Reaper for Mage lead the current compact ranking, with build fit and item rolls still important."},
+    {"question": "Can I play alone?", "answer": "Yes. Dungeon Quest Reborn supports solo play and runs with friends."},
+    {"question": "What is the Dungeon Quest Reborn Discord?", "answer": "The current community invite is https://discord.com/invite/dqrs."}
+  ],
+  "screenshots": [],
+  "densityTargets": [{"term": "dungeon quest reborn", "min": 0.3, "max": 1.2}],
+  "lastReviewed": "2026-08-30"
+}
