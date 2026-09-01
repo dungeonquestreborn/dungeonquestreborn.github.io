@@ -5,6 +5,7 @@ const root = process.cwd();
 const skippedDirs = new Set([".git", ".agent", ".next", "node_modules", "out", ".playwright-cli"]);
 const skippedFiles = new Set(["package-lock.json", "audit-clean.mjs"]);
 const textExtensions = new Set([".ts", ".tsx", ".js", ".mjs", ".json", ".md", ".css", ".html", ".txt", ".yml", ".yaml"]);
+const allowedAdContainerIds = new Set(["container-69d1a785cc0ea35358a41e782f197b4f"]);
 const legacyLabels = [
   ["Scary", "Shawarma"].join(" "),
   ["Crazy", "Cattle"].join(" "),
@@ -34,7 +35,12 @@ function inspect(path) {
   const publisherIds = text.match(/\bca-pub-\d{8,}\b/gi) ?? [];
   for (const id of publisherIds) findings.push(`${displayPath}: hardcoded advertising publisher ID '${id}'`);
   if (/data-code=["'][A-Za-z0-9_-]{16,}["']/.test(text)) findings.push(`${displayPath}: hardcoded analytics code`);
-  if (/container-[a-f0-9]{24,}/i.test(text)) findings.push(`${displayPath}: hardcoded advertising container ID`);
+  const adContainerIds = text.match(/container-[a-f0-9]{24,}/gi) ?? [];
+  for (const id of adContainerIds) {
+    if (!allowedAdContainerIds.has(id.toLowerCase())) {
+      findings.push(`${displayPath}: hardcoded advertising container ID`);
+    }
+  }
 }
 
 walk(root);

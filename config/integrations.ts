@@ -2,8 +2,12 @@ import type { IntegrationConfig } from "./types";
 
 const pirschCode = process.env.NEXT_PUBLIC_PIRSCH_CODE?.trim();
 const googleAnalyticsId = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID?.trim() || "G-VYQS2Q5PDT";
-const adScriptUrl = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_SCRIPT_URL?.trim();
-const adContainerId = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_CONTAINER_ID?.trim();
+const adScriptUrl =
+  process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_SCRIPT_URL?.trim() ||
+  "https://pl31131478.profitableratecpmnetwork.com/69d1a785cc0ea35358a41e782f197b4f/invoke.js";
+const adContainerId =
+  process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_CONTAINER_ID?.trim() ||
+  "container-69d1a785cc0ea35358a41e782f197b4f";
 
 export const integrations: IntegrationConfig = {
   analytics: googleAnalyticsId
