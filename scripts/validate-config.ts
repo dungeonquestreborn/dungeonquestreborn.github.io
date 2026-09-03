@@ -124,6 +124,13 @@ if (integrations.ads.provider === "adsterra-native") {
   }
 }
 
+if (
+  integrations.socialBar.provider === "adsterra-social-bar" &&
+  !integrations.socialBar.scriptUrl.startsWith("https://")
+) {
+  fail("Social Bar advertising requires an HTTPS script URL");
+}
+
 const rawAdScript = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_SCRIPT_URL?.trim();
 const rawAdContainer = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_CONTAINER_ID?.trim();
 if (Boolean(rawAdScript) !== Boolean(rawAdContainer)) {

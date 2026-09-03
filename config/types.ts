@@ -83,6 +83,12 @@ export interface IntegrationConfig {
         scriptUrl: string;
         containerId: string;
       };
+  socialBar:
+    | { provider: "none" }
+    | {
+        provider: "adsterra-social-bar";
+        scriptUrl: string;
+      };
   verification: {
     google: string | null;
     bing: string | null;

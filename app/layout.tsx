@@ -1,7 +1,9 @@
 import type { CSSProperties, ReactNode } from "react";
+import Script from "next/script";
 import { Analytics } from "@/components/integrations/analytics";
 import { SiteFooter } from "@/components/site/site-footer";
 import { SiteHeader } from "@/components/site/site-header";
+import { integrations } from "@/config/integrations";
 import { siteConfig } from "@/config/site";
 import { themes } from "@/config/themes";
 import { visibleCorePages, visibleLegalPages } from "@/content/registry";
@@ -29,6 +31,9 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <SiteHeader links={navLinks} />
         <div id="main-content">{children}</div>
         <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />
+        {integrations.socialBar.provider === "adsterra-social-bar" ? (
+          <Script src={integrations.socialBar.scriptUrl} strategy="afterInteractive" />
+        ) : null}
       </body>
     </html>
   );

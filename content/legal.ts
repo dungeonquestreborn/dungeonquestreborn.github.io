@@ -22,6 +22,12 @@ if (integrations.ads.provider === "adsterra-native") {
   );
 }
 
+if (integrations.socialBar.provider === "adsterra-social-bar") {
+  privacyIntegrationParagraphs.push(
+    "Adsterra Social Bar advertising is enabled across the site. Adsterra may process technical request and interaction information under its own privacy policy.",
+  );
+}
+
 export const legalPages: SeoPageDefinition[] = [
   {
     enabled: true,

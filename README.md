@@ -62,6 +62,7 @@ Environment values can override the integrations configured in the repository.
 
 - Pirsch requires `NEXT_PUBLIC_PIRSCH_CODE`.
 - Native advertising is enabled by default with the site's configured Native Banner. To replace it, set both `NEXT_PUBLIC_ADSTERRA_NATIVE_SCRIPT_URL` and `NEXT_PUBLIC_ADSTERRA_NATIVE_CONTAINER_ID`.
+- Social Bar advertising is enabled site-wide by default. To replace its script, set `NEXT_PUBLIC_ADSTERRA_SOCIAL_BAR_SCRIPT_URL`.
 - Search verification uses `GOOGLE_SITE_VERIFICATION` and `BING_SITE_VERIFICATION`.
 
 The native ad component has no label, reserved height or fallback placeholder. The Privacy page describes only the integrations enabled for that build.
