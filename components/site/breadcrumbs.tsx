@@ -1,5 +1,6 @@
 import { ChevronRight } from "lucide-react";
 import Link from "next/link";
+import { getPageBySlug } from "@/content/registry";
 import { routePath } from "@/lib/urls";
 
 export function Breadcrumbs({ slug, current }: { slug: string; current: string }) {
@@ -15,7 +16,7 @@ export function Breadcrumbs({ slug, current }: { slug: string; current: string }
           return (
             <li key={partial} className="flex items-center gap-2">
               <ChevronRight size={14} aria-hidden="true" />
-              {final ? <span aria-current="page">{current}</span> : <Link href={routePath(partial)}>{segment.replace(/-/g, " ")}</Link>}
+              {final ? <span aria-current="page">{current}</span> : <Link href={routePath(partial)}>{getPageBySlug(partial)?.navLabel ?? segment.replace(/-/g, " ")}</Link>}
             </li>
           );
         })}

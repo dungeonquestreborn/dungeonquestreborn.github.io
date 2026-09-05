@@ -1,5 +1,6 @@
 import { siteConfig } from "@/config/site";
 import type { FaqItem, HomePageDefinition, SeoPageDefinition } from "@/config/types";
+import { getPageBySlug } from "@/content/registry";
 import { absoluteUrl } from "./urls";
 
 type Schema = Record<string, unknown>;
@@ -15,7 +16,7 @@ function breadcrumbItems(slug: string, title: string) {
     items.push({
       "@type": "ListItem",
       position: index + 2,
-      name: index === segments.length - 1 ? title : segment.replace(/-/g, " "),
+      name: index === segments.length - 1 ? title : getPageBySlug(partial)?.navLabel ?? segment.replace(/-/g, " "),
       item: absoluteUrl(partial),
     });
   });

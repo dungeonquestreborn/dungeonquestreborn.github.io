@@ -99,6 +99,7 @@ export interface InternalLink {
   label: string;
   slug: string;
   description?: string;
+  children?: InternalLink[];
 }
 
 export interface ExternalLink {
@@ -131,6 +132,7 @@ export interface PageSection {
   externalLinks?: ExternalLink[];
   steps?: Array<{ heading: string; description: string }>;
   table?: DataTable;
+  widget?: "drop-rate-calculator";
 }
 
 export interface FaqItem {
@@ -172,9 +174,11 @@ export interface SeoPageDefinition {
     heading: string;
     lead: string;
     status?: { label: string; detail: string; tone?: "info" | "caution" | "positive" };
+    quickAnswers?: Array<{ question: string; answer: string }>;
   };
   sections: PageSection[];
   faq?: FaqItem[];
+  faqHeading?: string;
   screenshots?: ScreenshotItem[];
   relatedSlugs?: string[];
   densityTargets?: KeywordDensityTarget[];

@@ -22,6 +22,19 @@ export function SeoPage({ page }: { page: SeoPageDefinition }) {
             {page.hero.eyebrow ? <p className="eyebrow">{page.hero.eyebrow}</p> : null}
             <h1 className="max-w-4xl">{page.hero.heading}</h1>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-muted-foreground sm:text-xl">{page.hero.lead}</p>
+            {page.hero.quickAnswers?.length ? (
+              <div className="mt-8">
+                <p className="eyebrow">Quick Answer</p>
+                <div className="grid gap-4 sm:grid-cols-2">
+                  {page.hero.quickAnswers.map((item) => (
+                    <article className="content-card" key={item.question}>
+                      <p className="font-black text-foreground">{item.question}</p>
+                      <p className="mt-2 text-sm leading-6">{item.answer}</p>
+                    </article>
+                  ))}
+                </div>
+              </div>
+            ) : null}
           </div>
         </section>
 
@@ -43,7 +56,7 @@ export function SeoPage({ page }: { page: SeoPageDefinition }) {
               </div>
             </section>
           ) : null}
-          {page.faq?.length ? <Faq items={page.faq} /> : null}
+          {page.faq?.length ? <Faq items={page.faq} heading={page.faqHeading} /> : null}
           <RelatedPages pages={related} />
         </div>
       </main>

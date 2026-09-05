@@ -23,7 +23,18 @@ export function SiteFooter({ coreLinks, legalLinks }: { coreLinks: InternalLink[
           <p className="mb-3 text-sm font-black uppercase tracking-widest text-foreground">Explore</p>
           <ul className="grid grid-cols-2 gap-x-4 gap-y-2 text-sm text-muted-foreground">
             {coreLinks.map((link) => (
-              <li key={link.slug}><Link className="hover:text-primary" href={routePath(link.slug)}>{link.label}</Link></li>
+              <li key={link.slug}>
+                <Link className="hover:text-primary" href={routePath(link.slug)}>{link.label}</Link>
+                {link.children?.length ? (
+                  <ul className="mt-1 space-y-1 pl-3">
+                    {link.children.map((child) => (
+                      <li key={child.slug}>
+                        <Link className="hover:text-primary" href={routePath(child.slug)}>{child.label}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                ) : null}
+              </li>
             ))}
           </ul>
         </div>

@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { PageSection } from "@/config/types";
 import { routePath } from "@/lib/urls";
 import { DataTable } from "./data-table";
+import { DropRateCalculator } from "./drop-rate-calculator";
 
 export function PageSections({ sections }: { sections: PageSection[] }) {
   return (
@@ -44,6 +45,7 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
           ) : null}
 
           {section.table ? <DataTable table={section.table} /> : null}
+          {section.widget === "drop-rate-calculator" ? <DropRateCalculator /> : null}
 
           {section.links?.length ? (
             <div className="mt-7 grid gap-4 sm:grid-cols-2">

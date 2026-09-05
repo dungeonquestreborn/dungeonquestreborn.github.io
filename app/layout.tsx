@@ -12,7 +12,14 @@ import "./globals.css";
 
 export const metadata = rootMetadata();
 
-const navLinks = visibleCorePages.map((page) => ({ label: page.navLabel, slug: page.slug }));
+const navLinks = visibleCorePages.map((page) => ({
+  label: page.navLabel,
+  slug: page.slug,
+  children:
+    page.slug === "drops"
+      ? [{ label: "Desert Temple", slug: "drops/desert-temple" }]
+      : undefined,
+}));
 const legalLinks = visibleLegalPages.map((page) => ({ label: page.navLabel, slug: page.slug }));
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {

@@ -1,10 +1,10 @@
 import type { FaqItem } from "@/config/types";
 
-export function Faq({ items }: { items: FaqItem[] }) {
+export function Faq({ items, heading = "Frequently Asked Questions" }: { items: FaqItem[]; heading?: string }) {
   return (
     <section id="faq" className="scroll-mt-24">
       <p className="eyebrow">Common questions</p>
-      <h2>Frequently Asked Questions</h2>
+      <h2>{heading}</h2>
       <div className="mt-7 divide-y divide-border overflow-hidden rounded-theme border border-border bg-card/60 shadow-theme">
         {items.map((item) => (
           <article key={item.question} className="p-6 sm:p-7">

@@ -718,5 +718,552 @@
     "relatedSlugs": ["dungeons", "weapons-abilities-tier-list", "wiki"],
     "densityTargets": [{"term": "dungeon quest reborn drops", "min": 0.3, "max": 1.2}],
     "lastReviewed": "2026-08-30"
+  },
+  {
+    "enabled": true,
+    "slug": "phantom-flames",
+    "pageType": "guide",
+    "navLabel": "Phantom Flames",
+    "title": "Phantom Flames Dungeon Quest Reborn - How to Get & Drop Location",
+    "description": "Find Phantom Flames in Dungeon Quest Reborn, including where it drops, how to get it, what it does, and related farming tips for players.",
+    "keywords": ["phantom flames dungeon quest", "dungeon quest phantom flames", "phantom flames dungeon quest reborn", "how to get phantom flames in dungeon quest"],
+    "primaryKeyword": "phantom flames dungeon quest",
+    "secondaryKeywords": ["dungeon quest phantom flames", "phantom flames dungeon quest reborn", "dungeon quest reborn phantom flames", "how to get phantom flames in dungeon quest", "where to get phantom flames dungeon quest"],
+    "searchIntent": "Find what Phantom Flames is, where it drops, and how to get it in Dungeon Quest Reborn.",
+    "priority": "P2",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Mage ability drop",
+      "heading": "Phantom Flames in Dungeon Quest Reborn",
+      "lead": "Phantom Flames is a Mage ability in Dungeon Quest Reborn. It drops from Pirate Island and is used as an early Mage progression option.",
+      "quickAnswers": [
+        {"question": "What is Phantom Flames?", "answer": "A Mage ability in Dungeon Quest Reborn."},
+        {"question": "Where does Phantom Flames drop?", "answer": "Pirate Island."},
+        {"question": "How do you get Phantom Flames?", "answer": "Clear Pirate Island and check the ability rewards after a successful run."},
+        {"question": "What is it used for?", "answer": "Early Mage progression before later spell options replace it."}
+      ]
+    },
+    "sections": [
+      {
+        "id": "how-to-get-phantom-flames",
+        "heading": "How to Get Phantom Flames in Dungeon Quest Reborn",
+        "intro": "Farm Pirate Island until Phantom Flames appears as an ability reward.",
+        "steps": [
+          {"heading": "Reach Pirate Island", "description": "Use the live dungeon selector and move to Pirate Island when the account can finish the route."},
+          {"heading": "Clear the dungeon", "description": "Complete rooms and the boss on a difficulty you can repeat without frequent wipes."},
+          {"heading": "Check ability rewards", "description": "After a successful clear, look for Phantom Flames among the ability drops and compare it with your current Mage loadout."}
+        ],
+        "paragraphs": [
+          "Phantom Flames is not a Desert Temple drop and is not an Enchanted Forest endgame buff. The current source is Pirate Island, an early-to-mid Dungeon Quest Reborn route that also drops Enchanted Spinning Blades for Warrior players.",
+          "Exact drop rates are not currently published. More completed Pirate Island runs give more chances to see the ability; one failed attempt does not change a hidden probability."
+        ]
+      },
+      {
+        "id": "phantom-flames-drop-location",
+        "heading": "Phantom Flames Drop Location",
+        "intro": "Current source: Pirate Island.",
+        "table": {
+          "caption": "Phantom Flames drop location",
+          "columns": ["Ability", "Type", "Dungeon", "Notes"],
+          "rows": [
+            ["Phantom Flames", "Mage ability", "Pirate Island", "Early Mage progression option"]
+          ]
+        },
+        "paragraphs": [
+          "Pirate Island sits after Desert Temple and Winter Outpost in the current progression path. It is a longer early-to-mid route with pirate-themed rooms. If Pirate Island is not yet stable, keep farming an earlier dungeon until clears become consistent.",
+          "Do not farm Desert Temple for Phantom Flames. Desert Temple is the early source for Whirlwind, Lightning Strikes, Slam, Innervate, Blue Fireball, and Holy Barrier. Ghost Harbor later supplies Phantom Blades and Phantom Striker, which are different Phantom abilities."
+        ]
+      },
+      {
+        "id": "what-does-phantom-flames-do",
+        "heading": "What Does Phantom Flames Do?",
+        "intro": "Phantom Flames is a Mage ability used during early Mage progression.",
+        "paragraphs": [
+          "In Dungeon Quest Reborn, Mage abilities belong with spell-power gear. Phantom Flames fills an early spell slot while you are still clearing Pirate Island and nearby routes. Keep it only if it matches a Mage build and improves the current run.",
+          "Exact ability values are not currently published. Current value: not confirmed for damage numbers, cooldown, range, or upgrade scaling. Read the live ability card in-game before replacing another spell."
+        ]
+      },
+      {
+        "id": "is-phantom-flames-good",
+        "heading": "Is Phantom Flames Good?",
+        "intro": "It is useful early. Later Mage options usually replace it.",
+        "paragraphs": [
+          "The compact ranking lists Phantom Flames as a C-tier Mage ability from Pirate Island. That means it can help a developing Mage account, but it is not an endgame keep. Lightning Strikes from Desert Temple Medium is a stronger early damage pick, and Enhanced Inner Focus from Enchanted Forest Nightmare is the leading late Mage buff.",
+          "Equip Phantom Flames when it is the best Mage ability you can use right now. Replace it when a later spell improves room speed, boss damage, or consistency. A C-tier name can still be the correct slot if the alternative does not match your build."
+        ]
+      },
+      {
+        "id": "best-ways-to-farm-phantom-flames",
+        "heading": "Best Ways to Farm Phantom Flames",
+        "intro": "Repeat Pirate Island on a difficulty the Mage build can finish.",
+        "paragraphs": [
+          "Choose one target for the session: Phantom Flames. Use spell-power gear, keep inventory space open, and stay on a Pirate Island difficulty that reaches the reward screen. Solo runs make the route easier to learn. Party runs can speed rooms up if players stay together.",
+          "Exact drop rates are not currently published. Track completed runs and whether Phantom Flames appeared. That sample is only your observed rate, not an official global chance. If Pirate Island wipes often, drop difficulty or finish an earlier dungeon first."
+        ]
+      },
+      {
+        "id": "phantom-flames-vs-other-abilities",
+        "heading": "Phantom Flames vs Other Abilities",
+        "intro": "Compare it with other Mage spells by source and role, not by name alone.",
+        "table": {
+          "caption": "Phantom Flames compared with nearby Mage options",
+          "columns": ["Ability", "Class", "Source", "Role"],
+          "rows": [
+            ["Phantom Flames", "Mage", "Pirate Island", "Early Mage progression option"],
+            ["Lightning Strikes", "Mage", "Desert Temple Medium", "Strong early focused damage"],
+            ["Innervate", "Mage", "Desert Temple Hard", "Mage progression option"],
+            ["Ice Needles", "Mage", "Winter Outpost Easy", "Early spell that is outgrown later"],
+            ["Phantom Striker", "Mage", "Ghost Harbor", "Later ranged Mage counterpart"],
+            ["Enhanced Inner Focus", "Mage", "Enchanted Forest Nightmare", "Leading endgame spell buff"]
+          ]
+        },
+        "paragraphs": [
+          "Phantom Flames is not the same ability as Phantom Blades or Phantom Striker. Those later Phantom skills come from Ghost Harbor. If you need a full list of skills and drop sources, use the abilities guide. For S-to-D rankings, use the weapons and abilities tier list."
+        ],
+        "links": [
+          {"label": "Dungeon Quest Reborn abilities", "slug": "abilities", "description": "See Mage and Warrior skills, drop sources, and how to use them."}
+        ]
+      },
+      {
+        "id": "related-dungeon-quest-reborn-guides",
+        "heading": "Related Dungeon Quest Reborn Guides",
+        "intro": "Use these pages after you know the Phantom Flames source.",
+        "links": [
+          {"label": "Abilities and spells", "slug": "abilities", "description": "Browse confirmed Dungeon Quest Reborn abilities and drop locations."},
+          {"label": "Drops and loot", "slug": "drops", "description": "Find selected weapons and abilities by dungeon."},
+          {"label": "Dungeon list", "slug": "dungeons", "description": "See Pirate Island in the current progression path."},
+          {"label": "Dungeon Quest Reborn home", "slug": "", "description": "Return to the main guide and Roblox entry."}
+        ]
+      }
+    ],
+    "faq": [
+      {"question": "Where do you get Phantom Flames in Dungeon Quest Reborn?", "answer": "Phantom Flames drops from Pirate Island."},
+      {"question": "Is Phantom Flames a Mage ability?", "answer": "Yes. It is a Mage ability used for early Mage progression."},
+      {"question": "Does Phantom Flames drop in Desert Temple?", "answer": "No. Desert Temple is an early ability farm for other skills, not Phantom Flames."},
+      {"question": "What is the Phantom Flames drop rate?", "answer": "Exact drop rates are not currently published."},
+      {"question": "Is Phantom Flames good late game?", "answer": "It is a useful early option. Later Mage abilities usually replace it."}
+    ],
+    "faqHeading": "Phantom Flames FAQ",
+    "screenshots": [],
+    "lastReviewed": "2026-09-05"
+  },
+  {
+    "enabled": true,
+    "slug": "drop-rates",
+    "pageType": "guide",
+    "navLabel": "Drop Rates",
+    "title": "Dungeon Quest Reborn Drop Rates & Chances - Legendary Drops",
+    "description": "Dungeon Quest Reborn drop rates and drop chances explained, including Legendary and ability drops, farming tips, and an observed drop rate calculator.",
+    "keywords": ["dungeon quest reborn drop rates", "dungeon quest drop rates", "dungeon quest reborn drop chances", "legendary drop chance dungeon quest"],
+    "primaryKeyword": "dungeon quest reborn drop rates",
+    "secondaryKeywords": ["dungeon quest drop rates", "dungeon quest reborn drop chances", "dungeon quest drop chances", "legendary drop chance dungeon quest", "legendary drop rate dungeon quest", "dungeon quest ultimate drop rate", "dungeon quest ability drop rate"],
+    "searchIntent": "Understand Dungeon Quest Reborn drop rates, Legendary chances, and how to measure an observed sample rate.",
+    "priority": "P2",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Loot chances",
+      "heading": "Dungeon Quest Reborn Drop Rates",
+      "lead": "Exact universal drop rates are not currently published. Use named drop sources to plan farms, then measure your own observed rate with the calculator below.",
+      "quickAnswers": [
+        {"question": "What are the official drop rates?", "answer": "Exact universal drop rates are not currently published."},
+        {"question": "What is the Legendary drop chance?", "answer": "Legendary items exist as loot, but no official Legendary percentage is published."},
+        {"question": "Do abilities have a listed chance?", "answer": "Ability and spell drop chances are not currently published."},
+        {"question": "How can I estimate my rate?", "answer": "Divide target drops by completed runs, then multiply by 100%."}
+      ]
+    },
+    "sections": [
+      {
+        "id": "drop-rates-explained",
+        "heading": "Dungeon Quest Reborn Drop Rates Explained",
+        "intro": "Dungeon Quest Reborn rewards weapons, armor, rare items, Legendary drops, and abilities after a successful dungeon clear.",
+        "paragraphs": [
+          "A drop rate is the chance that a specific item or ability appears after a run. Players often search for Legendary drop chance, Ultimate drop rate, and ability drop rate as if those numbers were public. They are not. Exact universal drop rates are not currently published.",
+          "What is published here is the source, not the percentage. Enchanted Forest is the current source for Eden weapons and Enhanced Inner buffs. Outer Orbit is the source for Galactic Dual Blades and Galactic Pike. Desert Temple is an early ability farm. Pirate Island is the source for Phantom Flames. Use those locations, then count your own results."
+        ]
+      },
+      {
+        "id": "legendary-drop-rates",
+        "heading": "Legendary Drop Rates",
+        "intro": "Legendary is a loot category, not a confirmed percentage.",
+        "paragraphs": [
+          "Named Legendary and Ultimate targets include Desert Fury from Desert Temple, Crystalised Greatsword from Winter Outpost, Kraken Slayer and Sea Serpent Wings from Ghost Harbor, Galactic Dual Blades from Outer Orbit, and Eden's Vengeance and Eden's Reaper from Enchanted Forest. Those names help you choose a dungeon. They do not include a published chance.",
+          "Exact universal drop rates are not currently published. Do not treat a copied 1% or 5% figure from another game, including original Dungeon Quest, as a Dungeon Quest Reborn value. If a Legendary drop appears quickly or not at all, that is one sample, not a global rate."
+        ]
+      },
+      {
+        "id": "ability-and-spell-drop-chances",
+        "heading": "Ability and Spell Drop Chances",
+        "intro": "Abilities and spells also drop from dungeon rewards, and their exact chances are not published.",
+        "paragraphs": [
+          "Early ability examples include Whirlwind and Lightning Strikes from Desert Temple, Gale Slice and Ice Needles from Winter Outpost, and Phantom Flames from Pirate Island. Later examples include Phantom Blades, Phantom Striker, and the Enhanced Inner buffs from Enchanted Forest Nightmare.",
+          "Some abilities are associated with a difficulty label such as Easy, Medium, Hard, or Nightmare. That tells you which version of the dungeon to run for that skill. It does not confirm a numeric ability drop rate. Exact drop rates are not currently published."
+        ]
+      },
+      {
+        "id": "drop-rates-by-dungeon",
+        "heading": "Drop Rates by Dungeon",
+        "intro": "Each dungeon has named targets. None of these rows is an official percentage.",
+        "table": {
+          "caption": "Selected Dungeon Quest Reborn drop sources",
+          "columns": ["Dungeon", "Named targets", "Published rate"],
+          "rows": [
+            ["Desert Temple", "Desert Fury, Whirlwind, Lightning Strikes, Slam, Innervate", "Not currently published"],
+            ["Winter Outpost", "Crystalised Greatsword, Gale Slice, Ice Needles", "Not currently published"],
+            ["Pirate Island", "Enchanted Spinning Blades, Phantom Flames", "Not currently published"],
+            ["Ghost Harbor", "Kraken Slayer, Sea Serpent Wings, Phantom abilities", "Not currently published"],
+            ["Outer Orbit", "Galactic Dual Blades, Galactic Pike", "Not currently published"],
+            ["Enchanted Forest", "Eden weapons, Eldenbark weapons, Enhanced Inner buffs", "Not currently published"]
+          ]
+        },
+        "paragraphs": [
+          "Farm the highest dungeon you can clear consistently that contains the item or ability you want. A lower route with a published name is still the wrong farm if your target is in a later dungeon."
+        ],
+        "links": [
+          {"label": "Full drop table", "slug": "drops", "description": "Match selected weapons and abilities to their dungeons."},
+          {"label": "Desert Temple drops", "slug": "drops/desert-temple", "description": "See early weapons and abilities from Desert Temple."},
+          {"label": "Dungeon progression", "slug": "dungeons", "description": "Choose a route your build can finish repeatedly."}
+        ]
+      },
+      {
+        "id": "does-difficulty-affect-drop-rates",
+        "heading": "Does Difficulty Affect Drop Rates?",
+        "intro": "Difficulty can change which named rewards appear. A numeric rate change is not confirmed.",
+        "paragraphs": [
+          "Several abilities are tied to a difficulty: Whirlwind to Desert Temple Easy, Lightning Strikes and Slam to Medium, Innervate to Hard, and Enhanced Inner Rage and Enhanced Inner Focus to Enchanted Forest Nightmare. If you want one of those skills, run that difficulty.",
+          "Exact universal drop rates are not currently published. Current value: not confirmed for whether Hard or Nightmare raises Legendary chance, Ultimate chance, or a hidden ability percentage. Use difficulty first to reach the correct reward pool, then to keep clears consistent."
+        ]
+      },
+      {
+        "id": "how-to-farm-rare-drops-faster",
+        "heading": "How to Farm Rare Drops Faster",
+        "intro": "More successful reward screens usually beat a harder dungeon that wipes.",
+        "steps": [
+          {"heading": "Pick one named target", "description": "Choose a specific weapon or ability and run only the dungeon that drops it."},
+          {"heading": "Keep the clear consistent", "description": "Use a difficulty you can finish repeatedly so each session produces rewards."},
+          {"heading": "Count your sample", "description": "Track runs and target drops, then use the calculator. That number is observed, not official."}
+        ],
+        "paragraphs": [
+          "Match the build to the route. A Mage farm for Phantom Flames belongs on Pirate Island with spell-power gear. A Warrior farm for Whirlwind belongs on Desert Temple Easy. Spending upgrade resources on the wrong damage path slows every later run.",
+          "Exact drop rates are not currently published. Faster farming means more completed runs of the correct dungeon, not a claimed secret chance."
+        ],
+        "links": [
+          {"label": "Dungeon Quest Reborn home", "slug": "", "description": "Return to the main guide and Roblox entry."}
+        ]
+      },
+      {
+        "id": "observed-drop-rate-calculator",
+        "heading": "Observed Drop Rate Calculator",
+        "intro": "Enter completed runs and how many times the target dropped. The result is Target Drops / Runs × 100%.",
+        "paragraphs": [
+          "This is your observed sample rate, not an official global drop rate. A small sample can look lucky or unlucky. Exact universal drop rates are not currently published."
+        ],
+        "widget": "drop-rate-calculator"
+      }
+    ],
+    "faq": [
+      {"question": "What are the Dungeon Quest Reborn drop rates?", "answer": "Exact universal drop rates are not currently published."},
+      {"question": "What is the Legendary drop chance?", "answer": "Legendary drops exist, but no official Legendary percentage is currently published."},
+      {"question": "What is the ability drop rate?", "answer": "Ability and spell drop chances are not currently published. Use the named dungeon source instead."},
+      {"question": "Does difficulty increase drop rates?", "answer": "Some abilities are tied to Easy, Medium, Hard, or Nightmare. A numeric rate increase is not confirmed."},
+      {"question": "How do I calculate my observed drop rate?", "answer": "Divide the number of target drops by the number of runs, then multiply by 100%."}
+    ],
+    "faqHeading": "Drop Rate FAQ",
+    "screenshots": [],
+    "lastReviewed": "2026-09-05"
+  },
+  {
+    "enabled": true,
+    "slug": "abilities",
+    "pageType": "database",
+    "navLabel": "Abilities",
+    "title": "Dungeon Quest Reborn Abilities & Spells - Skills and Drops",
+    "description": "Explore Dungeon Quest Reborn abilities, spells and skills, including ability drops, class uses, notable picks, and links to the latest tier list.",
+    "keywords": ["dungeon quest reborn abilities", "dungeon quest abilities", "dungeon quest reborn spells", "dungeon quest reborn skills", "dungeon quest ability drops"],
+    "primaryKeyword": "dungeon quest reborn abilities",
+    "secondaryKeywords": ["dungeon quest abilities", "dungeon quest reborn spells", "dungeon quest reborn skills", "dungeon quest ability drops", "dungeon quest spell drops", "dungeon quest reborn spell drops", "dungeon quest skill drop"],
+    "searchIntent": "See which Dungeon Quest Reborn abilities, spells, and skills exist, what they are, and where they drop.",
+    "priority": "P2",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "hero": {
+      "eyebrow": "Skills, spells, and drops",
+      "heading": "Dungeon Quest Reborn Abilities & Spells",
+      "lead": "Dungeon Quest Reborn abilities are skills and spells that drop from dungeons and slot into Warrior, Mage, or support loadouts. Use this page for what they are and where they drop. Use the tier list for what ranks highest.",
+      "quickAnswers": [
+        {"question": "What are abilities in Dungeon Quest Reborn?", "answer": "Skills and spells that drop from dungeon rewards and support a Warrior or Mage build."},
+        {"question": "Where do abilities drop?", "answer": "From dungeon clears. Many are tied to a dungeon and sometimes a difficulty."},
+        {"question": "What are the top endgame abilities?", "answer": "Enhanced Inner Rage for Warrior and Enhanced Inner Focus for Mage."},
+        {"question": "Where does Phantom Flames drop?", "answer": "Pirate Island. Open the dedicated Phantom Flames guide for how to get it."}
+      ]
+    },
+    "sections": [
+      {
+        "id": "dungeon-quest-reborn-ability-list",
+        "heading": "Dungeon Quest Reborn Ability List",
+        "intro": "This list covers confirmed abilities currently named in the Reborn guides. It is not a copy of every possible skill in the live client.",
+        "table": {
+          "caption": "Confirmed Dungeon Quest Reborn abilities and spells",
+          "columns": ["Ability", "Class", "Source", "Role"],
+          "rows": [
+            ["Whirlwind", "Warrior", "Desert Temple Easy", "Multi-target room clear"],
+            ["Slam", "Warrior", "Desert Temple Medium", "Early physical damage"],
+            ["Gale Slice", "Warrior", "Winter Outpost Easy", "Early physical skill"],
+            ["Enchanted Spinning Blades", "Warrior", "Pirate Island", "Early area option"],
+            ["Phantom Blades", "Warrior", "Ghost Harbor", "Close-range area damage"],
+            ["Berserk", "Warrior", "Samurai Palace", "Physical self-buff"],
+            ["Rending Slice", "Warrior", "Underworld", "Physical progression skill"],
+            ["Enhanced Inner Rage", "Warrior", "Enchanted Forest Nightmare", "Endgame physical buff"],
+            ["Lightning Strikes", "Mage", "Desert Temple Medium", "Strong focused damage"],
+            ["Innervate", "Mage", "Desert Temple Hard", "Mage progression option"],
+            ["Blue Fireball", "Ability", "Desert Temple", "Early ability farm target"],
+            ["Ice Needles", "Mage", "Winter Outpost Easy", "Early spell"],
+            ["Phantom Flames", "Mage", "Pirate Island", "Early Mage progression option"],
+            ["Phantom Striker", "Mage", "Ghost Harbor", "Ranged Mage counterpart"],
+            ["Enchanted Shuriken", "Mage", "Samurai Palace", "Ranged spell pressure"],
+            ["Enhanced Inner Focus", "Mage", "Enchanted Forest Nightmare", "Endgame spell buff"],
+            ["Universal Heal", "Mage / Support", "General source", "Dedicated party healing"],
+            ["Holy Barrier", "Ability", "Desert Temple", "Early ability farm target"]
+          ]
+        },
+        "paragraphs": [
+          "Match the ability to the same damage path as your weapon and armor. A Warrior buff will not fix a spell-power set, and a Mage spell will not repair a physical set. Exact ability values are not currently published; read the live card before you replace a working skill."
+        ]
+      },
+      {
+        "id": "warrior-abilities",
+        "heading": "Warrior Abilities",
+        "intro": "Warrior skills support physical damage, close-range pressure, and room coverage.",
+        "paragraphs": [
+          "Whirlwind is the main early Warrior pickup because it covers groups in Desert Temple Easy. Slam is a straightforward Medium physical attack from the same dungeon. Gale Slice and Enchanted Spinning Blades cover Winter Outpost and Pirate Island while the account is still moving through early routes.",
+          "Later Warrior options include Phantom Blades from Ghost Harbor, Berserk from Samurai Palace, and Rending Slice from Underworld. Enhanced Inner Rage from Enchanted Forest Nightmare is the leading endgame physical buff. Use room-clear skills when waves are slow, and use a buff when the weapon is already strong."
+        ]
+      },
+      {
+        "id": "mage-abilities",
+        "heading": "Mage Abilities",
+        "intro": "Mage spells support spell power, focused damage, and ranged pressure.",
+        "paragraphs": [
+          "Lightning Strikes from Desert Temple Medium is a strong early Mage damage option. Innervate comes from Desert Temple Hard, Ice Needles from Winter Outpost Easy, and Phantom Flames from Pirate Island. Those four cover most early Mage spell slots.",
+          "Phantom Striker from Ghost Harbor and Enchanted Shuriken from Samurai Palace are later ranged options. Enhanced Inner Focus from Enchanted Forest Nightmare is the leading endgame spell buff. Keep Mage abilities on a spell-power loadout."
+        ]
+      },
+      {
+        "id": "healing-and-support-abilities",
+        "heading": "Healing and Support Abilities",
+        "intro": "Support slots matter when the party needs recovery more than another damage skill.",
+        "paragraphs": [
+          "Universal Heal is the dedicated party healing pick from a general source. Holy Barrier is an early Desert Temple ability and can be considered when you are still farming that dungeon. Exact healing values are not currently published.",
+          "Use a support ability when wipes come from missing recovery, not from low damage. If rooms are slow and the group already survives, a damage ability is usually the better slot."
+        ]
+      },
+      {
+        "id": "dungeon-quest-reborn-ability-drops",
+        "heading": "Dungeon Quest Reborn Ability Drops",
+        "intro": "Farm the dungeon attached to the skill you want. Exact drop rates are not currently published.",
+        "subsections": [
+          {"heading": "Desert Temple", "paragraphs": ["Whirlwind, Lightning Strikes, Slam, Innervate, Blue Fireball, and Holy Barrier."]},
+          {"heading": "Winter Outpost and Pirate Island", "paragraphs": ["Gale Slice and Ice Needles from Winter Outpost. Enchanted Spinning Blades and Phantom Flames from Pirate Island."]},
+          {"heading": "Later routes", "paragraphs": ["Phantom Blades and Phantom Striker from Ghost Harbor. Enhanced Inner Rage and Enhanced Inner Focus from Enchanted Forest Nightmare."]}
+        ],
+        "links": [
+          {"label": "Drops by dungeon", "slug": "drops", "description": "Open the compact weapon and ability source table."},
+          {"label": "Dungeon list", "slug": "dungeons", "description": "See which route comes next in progression."}
+        ]
+      },
+      {
+        "id": "best-abilities-for-different-playstyles",
+        "heading": "Best Abilities for Different Playstyles",
+        "intro": "Pick the skill that solves the current run, then replace it when a later drop fits.",
+        "subsections": [
+          {"heading": "Warrior damage", "paragraphs": ["Use Enhanced Inner Rage when you can farm Enchanted Forest Nightmare. Use Whirlwind or Phantom Blades when rooms need coverage."]},
+          {"heading": "Mage damage", "paragraphs": ["Use Enhanced Inner Focus for endgame spell power. Lightning Strikes and Phantom Striker cover focused or ranged Mage damage earlier."]},
+          {"heading": "Party support", "paragraphs": ["Universal Heal is the support pick when the group needs recovery more than another damage slot."]},
+          {"heading": "Fast early farming", "paragraphs": ["Whirlwind for Warrior and Lightning Strikes for Mage are the most useful early ability farms."]}
+        ],
+        "paragraphs": [
+          "This page explains what the abilities are and where they drop. For S-to-D rankings, open the weapons and abilities tier list."
+        ],
+        "links": [
+          {"label": "Weapons and abilities tier list", "slug": "weapons-abilities-tier-list", "description": "See current S-to-D rankings and playstyle picks."}
+        ]
+      },
+      {
+        "id": "phantom-flames",
+        "heading": "Phantom Flames",
+        "intro": "Phantom Flames is a Mage ability from Pirate Island.",
+        "paragraphs": [
+          "Players looking for Phantom Flames in Dungeon Quest Reborn should farm Pirate Island, not Desert Temple. It is an early Mage progression option and is usually replaced by later spells. Exact drop rates are not currently published.",
+          "Open the dedicated Phantom Flames page for drop location, farming steps, and how it compares with other Mage abilities."
+        ],
+        "links": [
+          {"label": "Phantom Flames guide", "slug": "phantom-flames", "description": "How to get Phantom Flames, where it drops, and whether it is worth using."}
+        ]
+      },
+      {
+        "id": "ability-farming-tips",
+        "heading": "Ability Farming Tips",
+        "intro": "Treat an ability farm like a named item farm.",
+        "paragraphs": [
+          "Choose one skill, run the dungeon and difficulty attached to it, and keep clears consistent. Compare the new ability with the equipped one in the same route before spending upgrade resources. Exact drop rates are not currently published.",
+          "If you need a Warrior room-clear skill, start with Whirlwind on Desert Temple Easy. If you need a Mage damage skill, start with Lightning Strikes on Desert Temple Medium. If you need Phantom Flames, run Pirate Island."
+        ],
+        "links": [
+          {"label": "Dungeon Quest Reborn home", "slug": "", "description": "Return to the main guide and Roblox entry."}
+        ]
+      }
+    ],
+    "faq": [
+      {"question": "What are Dungeon Quest Reborn abilities?", "answer": "They are skills and spells that drop from dungeons and slot into Warrior, Mage, or support builds."},
+      {"question": "Where do abilities drop?", "answer": "From dungeon reward screens. Many are tied to a specific dungeon and difficulty."},
+      {"question": "What are the best endgame abilities?", "answer": "Enhanced Inner Rage for Warrior and Enhanced Inner Focus for Mage. Use the tier list for full rankings."},
+      {"question": "Where does Phantom Flames drop?", "answer": "Pirate Island."},
+      {"question": "What is the ability drop rate?", "answer": "Exact drop rates are not currently published."}
+    ],
+    "faqHeading": "Dungeon Quest Reborn Abilities FAQ",
+    "screenshots": [],
+    "lastReviewed": "2026-09-05"
+  },
+  {
+    "enabled": true,
+    "slug": "drops/desert-temple",
+    "pageType": "database",
+    "navLabel": "Desert Temple",
+    "title": "Dungeon Quest Desert Temple Drops - Loot, Weapons & Abilities",
+    "description": "Dungeon Quest Desert Temple drops and loot guide with weapons, abilities, farming tips, difficulty notes, and related Dungeon Quest Reborn drop information.",
+    "keywords": ["dungeon quest desert temple drops", "dungeon quest reborn desert temple drops", "desert temple drops dungeon quest", "dungeon quest desert temple loot"],
+    "primaryKeyword": "dungeon quest desert temple drops",
+    "secondaryKeywords": ["dungeon quest reborn desert temple drops", "desert temple drops dungeon quest", "desert temple dungeon quest drops", "dungeon quest desert temple loot", "dungeon quest reborn desert temple loot"],
+    "searchIntent": "See what drops in Desert Temple in Dungeon Quest Reborn, including weapons, abilities, and difficulty notes.",
+    "priority": "P2",
+    "navVisible": false,
+    "parentSlug": "drops",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Early dungeon loot",
+      "heading": "Dungeon Quest Desert Temple Drops",
+      "lead": "Desert Temple is the early Dungeon Quest Reborn route for Desert Fury and several starter abilities, including Whirlwind, Lightning Strikes, Slam, and Innervate.",
+      "quickAnswers": [
+        {"question": "What drops in Desert Temple?", "answer": "Desert Fury plus early abilities such as Whirlwind, Lightning Strikes, Slam, Innervate, Blue Fireball, and Holy Barrier."},
+        {"question": "What is the best Warrior drop?", "answer": "Whirlwind from Easy is the strongest early Warrior ability farm."},
+        {"question": "What is the best Mage drop?", "answer": "Lightning Strikes from Medium is the strongest early Mage damage farm."},
+        {"question": "Are drop rates published?", "answer": "Exact drop rates are not currently published."}
+      ]
+    },
+    "sections": [
+      {
+        "id": "desert-temple-drop-list",
+        "heading": "Desert Temple Drop List",
+        "intro": "These named Desert Temple drops come from current Dungeon Quest Reborn coverage. Exact drop rates are not currently published.",
+        "table": {
+          "caption": "Dungeon Quest Desert Temple drops",
+          "columns": ["Item / Ability", "Type", "Difficulty / Context", "Notes"],
+          "rows": [
+            ["Desert Fury", "Legendary weapon", "Desert Temple", "Early chase weapon with a short progression lifespan"],
+            ["Whirlwind", "Warrior ability", "Easy", "Reliable multi-target room clear"],
+            ["Lightning Strikes", "Mage ability", "Medium", "Strong early focused damage"],
+            ["Slam", "Warrior ability", "Medium", "Straightforward early physical attack"],
+            ["Innervate", "Mage ability", "Hard", "Useful Mage progression option"],
+            ["Blue Fireball", "Ability", "Desert Temple", "Early ability farm target"],
+            ["Holy Barrier", "Ability", "Desert Temple", "Early ability farm target"]
+          ]
+        },
+        "paragraphs": [
+          "Desert Temple is a starting route and early ability farm. Use it to learn rooms, pick up a first Legendary, and unlock early Warrior or Mage skills. Replace these drops when later dungeons become stable."
+        ]
+      },
+      {
+        "id": "desert-temple-weapons",
+        "heading": "Desert Temple Weapons",
+        "intro": "The named Desert Temple weapon target is Desert Fury.",
+        "paragraphs": [
+          "Desert Fury is an early Legendary chase item. It can help a new account, but it has a short progression lifespan. Later dungeon weapons replace it once Winter Outpost, Pirate Island, and beyond become farmable.",
+          "Do not keep Desert Fury equipped only because it is Legendary. Compare the live item card with the next dungeon weapon, including class path, main stat, and requirement. Current value: not confirmed for exact stats or level requirement. Check the live dungeon selector and item card."
+        ]
+      },
+      {
+        "id": "desert-temple-abilities",
+        "heading": "Desert Temple Abilities",
+        "intro": "Desert Temple is the best early ability farm in the current guide.",
+        "paragraphs": [
+          "Warrior players should look for Whirlwind on Easy and Slam on Medium. Mage players should look for Lightning Strikes on Medium and Innervate on Hard. Blue Fireball and Holy Barrier are additional Desert Temple ability targets across its difficulties.",
+          "Phantom Flames does not drop here. Phantom Flames is a Pirate Island Mage ability. If that is the skill you want, leave Desert Temple after you have a usable early rotation."
+        ]
+      },
+      {
+        "id": "desert-temple-loot-by-difficulty",
+        "heading": "Desert Temple Loot by Difficulty",
+        "intro": "Some abilities are tied to a difficulty label. Exact level requirements may vary with the current version.",
+        "table": {
+          "caption": "Desert Temple rewards by difficulty",
+          "columns": ["Difficulty / Context", "Named drops"],
+          "rows": [
+            ["Easy", "Whirlwind"],
+            ["Medium", "Lightning Strikes, Slam"],
+            ["Hard", "Innervate"],
+            ["Difficulty not specified", "Desert Fury, Blue Fireball, Holy Barrier"]
+          ]
+        },
+        "paragraphs": [
+          "Run the difficulty that contains the named target, as long as you can finish it. Exact entry requirements can change, so check the live dungeon selector before planning a group or spending resources."
+        ]
+      },
+      {
+        "id": "best-desert-temple-drops-to-farm",
+        "heading": "Best Desert Temple Drops to Farm",
+        "intro": "Farm the ability that matches your damage path before chasing the Legendary name.",
+        "subsections": [
+          {"heading": "Best Warrior farm", "paragraphs": ["Whirlwind on Easy is the highest-value early Warrior ability from Desert Temple."]},
+          {"heading": "Best Mage farm", "paragraphs": ["Lightning Strikes on Medium is the highest-value early Mage damage ability from Desert Temple."]},
+          {"heading": "Legendary chase", "paragraphs": ["Desert Fury is worth using if it improves the current clear. Replace it when a later weapon is ready."]}
+        ]
+      },
+      {
+        "id": "desert-temple-farming-tips",
+        "heading": "Desert Temple Farming Tips",
+        "intro": "Treat Desert Temple as a repeatable early classroom, not an endgame farm.",
+        "paragraphs": [
+          "Clear on a difficulty you can finish. Learn boss movement, keep one working loadout, and compare reward cards before upgrading. Solo play is enough to learn the route. A party can help if everyone stays together.",
+          "Move on when the next dungeon is repeatable and offers a better weapon or ability. Winter Outpost and Pirate Island are the usual next steps. Exact drop rates are not currently published."
+        ]
+      },
+      {
+        "id": "desert-temple-drop-rates",
+        "heading": "Desert Temple Drop Rates",
+        "intro": "Exact drop rates are not currently published.",
+        "paragraphs": [
+          "There is no official Desert Temple Legendary percentage, ability percentage, or Ultimate chance on this page. Count your own runs if you want an observed sample, and do not copy rates from original Dungeon Quest.",
+          "Use the drop rates page for the observed calculator and a wider explanation of Dungeon Quest Reborn drop chances."
+        ],
+        "links": [
+          {"label": "Dungeon Quest Reborn drop rates", "slug": "drop-rates", "description": "See why official rates are unpublished and calculate your observed sample."}
+        ]
+      },
+      {
+        "id": "related-dungeon-quest-reborn-drops",
+        "heading": "Related Dungeon Quest Reborn Drops",
+        "intro": "Continue with the full loot table, ability list, and dungeon path.",
+        "links": [
+          {"label": "All drops", "slug": "drops", "description": "Selected weapons and abilities organized by dungeon."},
+          {"label": "Abilities and spells", "slug": "abilities", "description": "See how Desert Temple skills fit Warrior and Mage loadouts."},
+          {"label": "Dungeon list", "slug": "dungeons", "description": "Place Desert Temple in the current progression order."},
+          {"label": "Dungeon Quest Reborn home", "slug": "", "description": "Return to the main guide and Roblox entry."}
+        ]
+      }
+    ],
+    "faq": [
+      {"question": "What drops in Desert Temple?", "answer": "Desert Fury, Whirlwind, Lightning Strikes, Slam, Innervate, Blue Fireball, and Holy Barrier."},
+      {"question": "Where does Whirlwind drop?", "answer": "Desert Temple Easy."},
+      {"question": "Where does Lightning Strikes drop?", "answer": "Desert Temple Medium."},
+      {"question": "Does Phantom Flames drop in Desert Temple?", "answer": "No. Phantom Flames drops from Pirate Island."},
+      {"question": "What is the Desert Temple drop rate?", "answer": "Exact drop rates are not currently published."}
+    ],
+    "faqHeading": "Desert Temple Drops FAQ",
+    "screenshots": [],
+    "lastReviewed": "2026-09-05"
   }
 ]

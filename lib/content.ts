@@ -15,9 +15,13 @@ function sectionText(section: PageSection) {
 
 export function pagePlainText(page: HomePageDefinition | SeoPageDefinition) {
   const heroLead = page.hero.lead;
+  const quickAnswers =
+    "quickAnswers" in page.hero
+      ? (page.hero.quickAnswers ?? []).flatMap((item) => [item.question, item.answer])
+      : [];
   const sections = page.sections.map(sectionText);
   const faq = (page.faq ?? []).flatMap((item) => [item.question, item.answer]);
-  return [page.title, page.description, page.hero.heading, heroLead, ...sections, ...faq].join("\n");
+  return [page.title, page.description, page.hero.heading, heroLead, ...quickAnswers, ...sections, ...faq].join("\n");
 }
 
 export function wordCount(text: string) {
