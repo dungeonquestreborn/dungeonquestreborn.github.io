@@ -1,0 +1,157 @@
+{
+  "enabled": true,
+  "slug": "drops/enchanted-forest",
+  "pageType": "database",
+  "navLabel": "Enchanted Forest",
+  "title": "Dungeon Quest Enchanted Forest Drops Guide",
+  "description": "Explore Dungeon Quest Enchanted Forest drops, weapons, loot and abilities, plus practical farming tips for Dungeon Quest Reborn builds.",
+  "keywords": [
+    "Dungeon Quest Enchanted Forest drops",
+    "Dungeon Quest Reborn Enchanted Forest drops",
+    "Enchanted Forest loot"
+  ],
+  "primaryKeyword": "Dungeon Quest Enchanted Forest drops",
+  "secondaryKeywords": [
+    "Enchanted Forest Dungeon Quest drops",
+    "Enchanted Forest loot"
+  ],
+  "searchIntent": "Find Enchanted Forest loot targets and choose a practical Warrior or Mage farm in Dungeon Quest Reborn.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "drops",
+  "wordCountTarget": 900,
+  "sourceNotes": [
+    "Reviewed 2026-09-09: existing content/generated/pages.json drops, abilities, and weapons-abilities-tier-list records cross-checked against https://progameguides.com/roblox/dungeon-quest-reborn-weapons-abilities-tier-list/. Editorial farming advice is guidance, not a measured drop-rate or damage claim.",
+    "Only named targets supported by those records are included. No exhaustive loot pool, armor sets, exact rates, level requirements, item stats, boss-specific rewards, or unspecified difficulty guarantees."
+  ],
+  "hero": {
+    "eyebrow": "Dungeon loot guide · Reviewed September 9, 2026",
+    "heading": "Dungeon Quest Enchanted Forest Drops",
+    "lead": "Dungeon Quest Enchanted Forest drops include Eden's Vengeance, Eden's Reaper, Eldenbark Greatsword, and Eldenbark Greatstaff. Enhanced Inner Rage and Enhanced Inner Focus are ability targets listed for Nightmare. In Dungeon Quest Reborn, this gives Warriors and Mages separate weapon and buff objectives within the same dungeon guide."
+  },
+  "sections": [
+    {
+      "id": "at-a-glance",
+      "heading": "Enchanted Forest Drops at a Glance",
+      "paragraphs": [
+        "Enchanted Forest loot is easiest to plan as three decisions: your damage path, a weapon upgrade, and a matching buff. Eden's Vengeance and Eden's Reaper are the Warrior and Mage Ultimate targets. The two Eldenbark weapons provide another named pair to compare. A player pursuing a weapon may also need the appropriate enhanced ability, but those are distinct goals with their own source details.",
+        "Decide which missing piece currently limits your setup. If your weapon is already doing its job, improving the ability rotation can be a more focused objective than seeking another weapon immediately. If you already have the right buff, compare weapon candidates against the copy you actually own. This prevents a rare reward for the other class from derailing an otherwise coherent build."
+      ]
+    },
+    {
+      "id": "drop-list",
+      "heading": "Enchanted Forest Drop List",
+      "paragraphs": [
+        "The list below covers six named weapon and ability targets. Nightmare is specified for the enhanced abilities. The weapon rows identify the dungeon without making an additional difficulty guarantee. This is a target list for planning a build, rather than a complete table of every armor piece and ordinary equipment reward.",
+        "Read each row across: first the item, then its class, then the source context. The Greatsword and Greatstaff are different class choices, as are the two Ultimates. Similar names are useful for recognizing the pairs, but the item card remains the practical place to compare the particular copy you receive."
+      ],
+      "table": {
+        "caption": "Enchanted Forest loot targets",
+        "columns": [
+          "Drop",
+          "Type / Build",
+          "Source",
+          "Farming use"
+        ],
+        "rows": [
+          [
+            "Eden's Vengeance",
+            "Ultimate weapon / Warrior",
+            "Enchanted Forest",
+            "Physical weapon chase"
+          ],
+          [
+            "Eden's Reaper",
+            "Ultimate weapon / Mage",
+            "Enchanted Forest",
+            "Spell weapon chase"
+          ],
+          [
+            "Eldenbark Greatsword",
+            "Legendary weapon / Warrior",
+            "Enchanted Forest",
+            "Compare before the Ultimate"
+          ],
+          [
+            "Eldenbark Greatstaff",
+            "Legendary weapon / Mage",
+            "Enchanted Forest",
+            "Alternative Mage weapon target"
+          ],
+          [
+            "Enhanced Inner Rage",
+            "Ability / Warrior",
+            "Enchanted Forest Nightmare",
+            "Physical buff target"
+          ],
+          [
+            "Enhanced Inner Focus",
+            "Ability / Mage",
+            "Enchanted Forest Nightmare",
+            "Spell buff target"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "warrior",
+      "heading": "Best Enchanted Forest Drops for Warrior Builds",
+      "paragraphs": [
+        "For a Warrior, the named weapon chase is Eden's Vengeance, with Eldenbark Greatsword as another valuable comparison. Treat the Greatsword as a usable candidate in its own right. Waiting for an Ultimate while ignoring a practical improvement can leave your farming setup weaker for longer. Evaluate whether the available weapon helps you finish the content you are currently running.",
+        "Enhanced Inner Rage is the matching physical buff target. Once equipped, learn where it fits into your existing attacks rather than using it at an arbitrary moment. Keep the weapon and other skill stable while trying the revised sequence. Check whether the change improves sustained encounters as well as shorter groups, because a rotation that feels strong only during an opening burst may still need practice."
+      ]
+    },
+    {
+      "id": "mage",
+      "heading": "Best Enchanted Forest Drops for Mage Builds",
+      "paragraphs": [
+        "Mages can focus on Eden's Reaper and compare Eldenbark Greatstaff as an alternative. A Greatstaff that makes your current farm more dependable can be worth using while the Ultimate remains a longer-term objective. There is no need to turn the whole session into a choice between the rarest named weapon and no progress at all.",
+        "Enhanced Inner Focus belongs with the spell-power setup. Check your equipped skills when adding a buff: you still need a comfortable way to deal damage while moving and handling the encounter. If a new weapon and new buff arrive close together, test them in separate changes first. That makes it easier to see which improvement affects clear pace and which difference comes from learning a new timing pattern."
+      ]
+    },
+    {
+      "id": "abilities",
+      "heading": "Enchanted Forest Abilities Worth Farming",
+      "paragraphs": [
+        "Enhanced Inner Rage and Enhanced Inner Focus are the two named Enchanted Forest ability objectives in this guide, both associated with Nightmare. Choose Rage for the physical path and Focus for the spell path. Their similar names should not make them interchangeable in your plan. Check the live ability descriptions and keep the rest of the loadout aligned with the one you intend to use.",
+        "For an ability-focused session, confirm that the selected setting matches the target before you begin. A comfortable run on another setting can help practice, but it is not a substitute for the listed Nightmare source. If that setting is still unreliable, spend time improving the working build and route familiarity before committing to repeated attempts.",
+        "After obtaining the buff, do a short rotation test rather than immediately returning to the loot chase. Notice when damage is actually available, how much time is spent repositioning, and whether your attack sequence remains comfortable. The reward has done its job when it helps your real runs; possession of a particular skill alone does not establish that the build is finished."
+      ]
+    },
+    {
+      "id": "farm",
+      "heading": "How to Farm Enchanted Forest Efficiently",
+      "paragraphs": [
+        "Build an Enchanted Forest farming plan around a primary target and one acceptable interim upgrade. For a weapon session, this might mean pursuing the class Ultimate while being willing to equip the matching Eldenbark weapon. For an ability session, it means selecting the correct buff and its listed source. Write that decision down before the first run so unrelated rewards do not constantly change the goal.",
+        "Budget resources around the loadout you can use now. Compare the upgrade state of a new weapon with your existing copy and avoid spending on several competing candidates at the same time. Keep the old working weapon until the replacement has completed your usual route. A promising card and a dependable equipped setup are separate stages of the decision.",
+        "Keep solo and party observations separate when measuring progress. A new group can change clear pace more than a small equipment improvement, so it is a poor comparison for a solo baseline. Review completed attempts and recurring failures after a short session, then decide whether another batch is worthwhile. If your chosen target stops addressing a real need, use the broader dungeon and equipment guides to plan the next objective."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What drops in Enchanted Forest in Dungeon Quest?",
+      "answer": "In Reborn, this guide covers Eden's Vengeance, Eden's Reaper, the Eldenbark Greatsword and Greatstaff, plus Enhanced Inner Rage and Enhanced Inner Focus. The enhanced buffs are listed for Nightmare."
+    },
+    {
+      "question": "What are the best Enchanted Forest weapons?",
+      "answer": "Eden's Vengeance is the Warrior Ultimate target and Eden's Reaper is the Mage Ultimate target. Compare the matching Eldenbark weapon when choosing an available upgrade instead of waiting indefinitely for an Ultimate."
+    },
+    {
+      "question": "Which Enchanted Forest abilities are worth farming?",
+      "answer": "Enhanced Inner Rage supports the Warrior path, while Enhanced Inner Focus supports the Mage path. Both are Nightmare targets. Choose the one that fits your existing weapon, equipment, and damage rotation."
+    },
+    {
+      "question": "Are exact Enchanted Forest drop rates available?",
+      "answer": "Exact rates are not publicly confirmed. A target can take an unpredictable number of attempts, so plan a manageable session and keep useful interim upgrades rather than relying on a guaranteed drop count."
+    }
+  ],
+  "faqHeading": "Frequently Asked Questions",
+  "relatedSlugs": [
+    "drops",
+    "dungeons",
+    "weapons-abilities-tier-list",
+    "abilities"
+  ],
+  "lastReviewed": "2026-09-09"
+}

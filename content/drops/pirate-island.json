@@ -1,0 +1,145 @@
+{
+  "enabled": true,
+  "slug": "drops/pirate-island",
+  "pageType": "database",
+  "navLabel": "Pirate Island",
+  "title": "Dungeon Quest Pirate Island Drops & Loot Guide",
+  "description": "See Dungeon Quest Pirate Island drops, loot and abilities, with a clear farming guide for Warrior and Mage builds in Dungeon Quest Reborn.",
+  "keywords": [
+    "Dungeon Quest Pirate Island drops",
+    "Dungeon Quest Reborn Pirate Island drops",
+    "Pirate Island loot"
+  ],
+  "primaryKeyword": "Dungeon Quest Pirate Island drops",
+  "secondaryKeywords": [
+    "Pirate Island Dungeon Quest drops",
+    "Pirate Island loot"
+  ],
+  "searchIntent": "Find Pirate Island loot targets and choose a practical Warrior or Mage farm in Dungeon Quest Reborn.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "drops",
+  "wordCountTarget": 900,
+  "sourceNotes": [
+    "Reviewed 2026-09-09: existing content/generated/pages.json drops, abilities, and weapons-abilities-tier-list records cross-checked against https://progameguides.com/roblox/dungeon-quest-reborn-weapons-abilities-tier-list/. Editorial farming advice is guidance, not a measured drop-rate or damage claim.",
+    "Only named targets supported by those records are included. No exhaustive loot pool, armor sets, exact rates, level requirements, item stats, boss-specific rewards, or unspecified difficulty guarantees."
+  ],
+  "hero": {
+    "eyebrow": "Dungeon loot guide · Reviewed September 9, 2026",
+    "heading": "Dungeon Quest Pirate Island Drops",
+    "lead": "Dungeon Quest Pirate Island drops include Enchanted Spinning Blades for Warriors and Phantom Flames for Mages. These abilities are useful targets when building an early damage rotation in Dungeon Quest Reborn. Start with the class comparison below, then decide whether farming a missing skill will help more than continuing dungeon progression."
+  },
+  "sections": [
+    {
+      "id": "at-a-glance",
+      "heading": "Pirate Island Drops at a Glance",
+      "paragraphs": [
+        "Pirate Island loot is particularly relevant when your weapon already works but your ability selection feels restrictive. Enchanted Spinning Blades is the physical area-damage option; Phantom Flames follows the spell-power path. Choose the one that matches the equipment you actually use. An ability for the opposite damage path is a reason to consider a future loadout, not a reason to dismantle a reliable current build.",
+        "Treat this as a focused ability farm. Before entering, identify the problem you want to solve: slow groups, an awkward rotation, or a missing Mage skill. That gives each reward a clear purpose. You can then judge the session by whether the new ability improves that problem instead of by how many unfamiliar names appear."
+      ]
+    },
+    {
+      "id": "drop-list",
+      "heading": "Pirate Island Drop List",
+      "paragraphs": [
+        "The table lists named Pirate Island ability targets, rather than an exhaustive inventory of every possible equipment reward. Both belong to this dungeon in the Reborn ability guide. Use the item description to compare their live behavior with your equipped skills; the dungeon name alone does not tell you which one belongs in your build.",
+        "A source listed simply as Pirate Island is not a promise that every selectable difficulty shares the same reward pool. Check the current dungeon and ability information before repeating a particular setting. Once you have the desired skill, inspect it before immediately replacing a familiar attack."
+      ],
+      "table": {
+        "caption": "Pirate Island loot targets",
+        "columns": [
+          "Drop",
+          "Type / Build",
+          "Source",
+          "Farming use"
+        ],
+        "rows": [
+          [
+            "Enchanted Spinning Blades",
+            "Ability / Warrior",
+            "Pirate Island",
+            "Physical area-damage option"
+          ],
+          [
+            "Phantom Flames",
+            "Ability / Mage",
+            "Pirate Island",
+            "Early spell rotation target"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "warrior",
+      "heading": "Best Pirate Island Drops for Warrior Builds",
+      "paragraphs": [
+        "Enchanted Spinning Blades is the named Warrior target here. Its area-damage role makes it a candidate when groups take too long to clear. Evaluate it against the room-clearing skill you already use, including Whirlwind if you brought that forward from Desert Temple. A later source does not automatically mean a better fit for every encounter or every player.",
+        "Test the skill with your normal physical equipment first. Keep the other ability slot and weapon steady so that any change in room pace is easy to notice. Pay attention to how often you can land useful attacks while moving safely. If the new rotation makes you stop in dangerous positions or leaves enemies scattered, practice the timing before committing upgrade resources elsewhere."
+      ]
+    },
+    {
+      "id": "mage",
+      "heading": "Best Pirate Island Drops for Mage Builds",
+      "paragraphs": [
+        "Phantom Flames is the Pirate Island Mage ability to look for. It is a progression option rather than a reason to replace every spell at once. Compare it with the attacks you already have, particularly whether it fills a gap in your current rotation. A Mage with a comfortable early spell setup can try it without throwing away the setup that made Pirate Island manageable.",
+        "When testing Phantom Flames, separate room performance from the last fight. A change can feel faster against groups yet leave long periods with little useful damage against one enemy. Record both impressions before choosing the final loadout. Keep your spell-oriented weapon and armor in place during this comparison; changing those alongside the ability would make it difficult to tell what actually helped."
+      ],
+      "links": [
+        {
+          "label": "Read the Phantom Flames ability guide",
+          "slug": "phantom-flames",
+          "description": "Compare the skill with your current Mage rotation."
+        }
+      ]
+    },
+    {
+      "id": "farm",
+      "heading": "How to Farm Pirate Island Drops Efficiently",
+      "paragraphs": [
+        "Start a Pirate Island farming session with one target and a stopping point. For example, aim to obtain a missing class ability and then test it, rather than repeating runs indefinitely after it appears. This keeps an early progression farm from taking over the entire session. Check the reward screen before starting again so a useful skill does not sit unnoticed in the inventory.",
+        "Compare complete loops, including failed attempts and the time spent restarting. One fast successful run is less informative than several attempts with the same loadout. If you lose time mostly to mistakes, repeat the familiar route and correct one recurring problem. If safe attacks barely move enemy health, review the equipment path before simply selecting a harder setting.",
+        "For a party, agree whether the session is for learning or repeated clears. Keep the route and difficulty consistent during your ability test, and avoid comparing a heavily assisted clear with a solo attempt. You want to know whether your own rotation improved. Recheck the farm after a useful drop, since a stronger loadout may make another dungeon a better use of the remaining time."
+      ]
+    },
+    {
+      "id": "move-on",
+      "heading": "When to Move On from Pirate Island",
+      "paragraphs": [
+        "Move on when the chosen ability is collected and your next available dungeon becomes repeatable. If Pirate Island loot no longer solves a loadout problem, continuing only to collect duplicates can delay more useful upgrades. You do not need a perfect early inventory before exploring another route. Keep a working set, try the next available challenge, and return only if a specific missing skill still matters.",
+        "Players arriving with incomplete starter abilities can compare the Desert Temple guide before deciding where to spend time. A short visit to an earlier source may be more useful than waiting for a different skill here. Use the dungeon overview to plan that choice around your current access and clear consistency, not around a fixed level number copied from another version."
+      ],
+      "links": [
+        {
+          "label": "Check starter drops in Desert Temple",
+          "slug": "drops/desert-temple",
+          "description": "Review earlier Warrior and Mage ability options."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What drops from Pirate Island in Dungeon Quest?",
+      "answer": "In Dungeon Quest Reborn, named Pirate Island targets include Enchanted Spinning Blades and Phantom Flames. This guide covers those ability drops and how to choose between them; it does not present a complete equipment pool."
+    },
+    {
+      "question": "Which Pirate Island drops are best for Warrior or Mage?",
+      "answer": "Warriors should evaluate Enchanted Spinning Blades for physical area damage. Mages should evaluate Phantom Flames for their spell rotation. The useful choice is the skill that improves your existing build and repeatable clears."
+    },
+    {
+      "question": "How do you farm Pirate Island drops faster?",
+      "answer": "Choose a relevant target, keep the dungeon setting consistent, reduce failed runs, and inspect every reward screen. Compare total session time, including restarts, before deciding that a harder or faster-looking route is better."
+    },
+    {
+      "question": "Are Pirate Island drop rates confirmed?",
+      "answer": "Exact rates are not publicly confirmed. There is no reliable percentage or guaranteed run count to use here. Plan around successful completions and whether the ability remains useful to your build."
+    }
+  ],
+  "faqHeading": "Frequently Asked Questions",
+  "relatedSlugs": [
+    "drops",
+    "dungeons",
+    "abilities"
+  ],
+  "lastReviewed": "2026-09-09"
+}
