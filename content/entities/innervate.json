@@ -1,0 +1,140 @@
+{
+  "enabled": true,
+  "slug": "innervate",
+  "pageType": "guide",
+  "navLabel": "Innervate",
+  "title": "Innervate Dungeon Quest – How to Get & Ability Guide",
+  "description": "Innervate Dungeon Quest Reborn guide: see where Innervate drops, what the ability does, which builds can use it, and practical farming tips.",
+  "keywords": ["innervate dungeon quest", "innervate dungeon quest reborn", "dungeon quest innervate", "innervate ability dungeon quest", "how to get innervate dungeon quest"],
+  "primaryKeyword": "innervate dungeon quest",
+  "secondaryKeywords": ["innervate dungeon quest reborn", "dungeon quest innervate", "innervate ability dungeon quest", "innervate drop dungeon quest", "how to get innervate dungeon quest"],
+  "searchIntent": "Understand what Innervate is, where it drops, and whether it is a useful Mage farming target in Dungeon Quest Reborn.",
+  "priority": "P2",
+  "navVisible": true,
+  "parentSlug": "",
+  "wordCountTarget": 950,
+  "factsStatus": "verified",
+  "sourceNotes": ["Innervate is listed in the existing Dungeon Quest Reborn abilities and Desert Temple drops coverage as a Mage ability from Desert Temple Hard. Exact damage, cooldown, and drop-rate values are not published in the site source."],
+  "hero": {
+    "eyebrow": "Mage ability guide · Reviewed September 19, 2026",
+    "heading": "Innervate Dungeon Quest Reborn",
+    "lead": "Innervate is a Mage ability in Dungeon Quest Reborn. It is associated with Desert Temple Hard and works as an early Mage progression option when it improves a spell-power loadout and a route you can clear consistently.",
+    "quickAnswers": [
+      {"question": "What is Innervate?", "answer": "A Mage ability used as an early Dungeon Quest Reborn progression option."},
+      {"question": "Where does Innervate drop?", "answer": "Desert Temple Hard."},
+      {"question": "Who should use it?", "answer": "Mage players with a spell-power loadout who need a useful early ability target."},
+      {"question": "Are exact drop rates published?", "answer": "No. Plan around repeatable clears rather than a guaranteed run count."}
+    ]
+  },
+  "sections": [
+    {
+      "id": "innervate-at-a-glance",
+      "heading": "Innervate at a Glance",
+      "intro": "Innervate gives Mage players a named ability target in the Desert Temple portion of progression.",
+      "table": {
+        "caption": "Innervate Dungeon Quest Reborn quick facts",
+        "columns": ["Question", "Current guide answer"],
+        "rows": [
+          ["Type", "Mage ability"],
+          ["Source", "Desert Temple Hard"],
+          ["Build fit", "Spell-power Mage loadout"],
+          ["Farming role", "Early Mage progression target"],
+          ["Exact rate and ability values", "Not publicly confirmed"]
+        ]
+      },
+      "paragraphs": [
+        "For an Innervate Dungeon Quest farm, start with the role rather than the name. Innervate is a Mage ability, so it belongs on a spell-power path instead of a physical Warrior setup. It is most useful as a concrete early objective when your current Mage rotation has a weak slot or Desert Temple Hard is already a dependable route.",
+        "The practical question is not whether every Mage must keep Innervate forever. It is whether the ability helps the build you can use now. Check the live ability card, your equipped weapon, and the next dungeon you want to clear before investing upgrade resources. That comparison is more useful than assuming any named ability is automatically an upgrade."
+      ]
+    },
+    {
+      "id": "how-to-get-innervate",
+      "heading": "How to Get Innervate in Dungeon Quest Reborn",
+      "intro": "Innervate is associated with Desert Temple Hard.",
+      "steps": [
+        {"heading": "Set Desert Temple Hard as the target", "description": "Use the live dungeon selector to confirm the route and choose the difficulty tied to Innervate."},
+        {"heading": "Run a repeatable clear", "description": "Farm only when the build can finish the route reliably enough to produce regular reward screens."},
+        {"heading": "Check the ability reward", "description": "When Innervate appears, compare it with the current Mage loadout before changing upgrades or rotation."}
+      ],
+      "paragraphs": [
+        "Desert Temple is an early ability farm with different named targets across its difficulty options. The existing drop list places Innervate on Hard, while Whirlwind is listed for Easy and Lightning Strikes and Slam are listed for Medium. That makes difficulty selection part of the target plan, not simply a way to chase a higher hidden percentage.",
+        "Exact Innervate drop rates are not publicly confirmed. A long or short session does not establish a universal chance, so avoid planning around a promised number of clears. Focus on successful runs, look at each reward card, and keep a working loadout intact while the farm is still in progress."
+      ],
+      "links": [
+        {"label": "Desert Temple drops", "slug": "drops/desert-temple", "description": "Confirm Innervate alongside the other early Desert Temple targets."},
+        {"label": "All Dungeon Quest Reborn drops", "slug": "drops", "description": "Compare ability and weapon sources across the current routes."}
+      ]
+    },
+    {
+      "id": "what-innervate-does",
+      "heading": "What Does Innervate Do?",
+      "intro": "Innervate is best understood as a Mage progression choice, not as a source of unverified damage numbers.",
+      "paragraphs": [
+        "The current guide identifies Innervate as a Mage ability and a progression option; it does not establish a specific damage value, cooldown, or exact mechanical effect. Use the live description as the final check for the copy you receive. In practical terms, place it into a Mage rotation only if it supports the spell-power direction and makes the next farm feel more manageable.",
+        "Test the ability in the same route where you normally farm. Keep the weapon and the rest of the rotation stable for a few attempts, then watch whether rooms, movement, and completed clears remain comfortable. This avoids confusing a new party, a different dungeon, or another equipment change with the effect of Innervate itself.",
+        "If the current loadout already clears reliably, Innervate can be a useful option to compare rather than an urgent detour. If an ability slot is the part holding the build back, a focused Desert Temple Hard session makes more sense. The decision should follow the account's actual obstacle, not the rarity of a name."
+      ]
+    },
+    {
+      "id": "is-innervate-worth-farming",
+      "heading": "Is Innervate Worth Farming?",
+      "intro": "Innervate is worth targeting when its class fit and the current route line up.",
+      "subsections": [
+        {"heading": "Worth prioritizing", "paragraphs": ["You play Mage, use spell-power gear, and can already clear Desert Temple Hard consistently. In that situation, Innervate is a focused ability target rather than a speculative farm."]},
+        {"heading": "Compare before committing", "paragraphs": ["Your current Mage ability is working and the next dungeon is close. Compare the live card and real clear performance before spending resources on a short-lived early upgrade."]},
+        {"heading": "Skip for now", "paragraphs": ["You are on a physical Warrior path or Hard clears are unstable. Improve the working route first; an unreachable ability target is not an efficient farming plan."]},
+        {"heading": "Keep the goal narrow", "paragraphs": ["Do not turn every Desert Temple reward into an upgrade project. Keep useful gear that matches the build, but retain resources for later progression targets."]}
+      ],
+      "paragraphs": [
+        "There is no published rate that can prove Innervate is easy or difficult to obtain in a typical session. A better framework is time-to-use: can the account farm the listed source efficiently, and will the ability solve a current Mage need? If both answers are yes, the farm has a clear purpose.",
+        "When either answer is no, keep progressing. Later routes introduce other Mage options, and a stable clear is generally more valuable than repeatedly failing a target difficulty. The broader dungeon guide helps place Desert Temple in the route instead of treating it as the only destination."
+      ]
+    },
+    {
+      "id": "innervate-farming-tips",
+      "heading": "Innervate Farming Tips",
+      "intro": "Make the Innervate farm a repeatable Desert Temple routine rather than an open-ended grind.",
+      "paragraphs": [
+        "Before a session, confirm that Innervate is the goal and that the selected setting is Desert Temple Hard. Use a loadout built for finishing the route, not an unfinished experimental build. Review the reward screen after each completed run and save comparisons for the same dungeon, where clear pace is easier to judge.",
+        "Separate a target farm from general progression. If completed runs slow down because the route is no longer comfortable, return to the ability list and dungeon path to identify a more practical upgrade. When Desert Temple Hard is stable, repeatable clears give a meaningful chance to see the named reward without requiring invented probability claims.",
+        "For a Mage account, compare Innervate with the other early options by job: Lightning Strikes is listed as a focused Desert Temple Medium damage option, while Phantom Flames is an early Mage progression option from Pirate Island. The right choice is the one that fits the build and the route available now, not a fictional DPS ranking."
+      ],
+      "links": [
+        {"label": "Dungeon Quest Reborn abilities", "slug": "abilities", "description": "See early Mage options and later spell targets in one guide."},
+        {"label": "Dungeon progression guide", "slug": "dungeons", "description": "Place Desert Temple within the wider progression route."},
+        {"label": "Desert Fury guide", "slug": "desert-fury", "description": "Compare the named Desert Temple weapon target with its ability drops."}
+      ]
+    },
+    {
+      "id": "innervate-comparisons",
+      "heading": "Innervate vs Other Early Abilities",
+      "intro": "Choose an early ability based on class fit and the problem in the current run.",
+      "table": {
+        "caption": "Early ability choices around Desert Temple",
+        "columns": ["Ability", "Listed source", "Build direction", "Decision use"],
+        "rows": [
+          ["Innervate", "Desert Temple Hard", "Mage", "Early Mage progression option"],
+          ["Lightning Strikes", "Desert Temple Medium", "Mage", "Early focused damage option"],
+          ["Whirlwind", "Desert Temple Easy", "Warrior", "Early multi-target room coverage"],
+          ["Slam", "Desert Temple Medium", "Warrior", "Early physical attack option"]
+        ]
+      },
+      "paragraphs": [
+        "Innervate and Lightning Strikes are both Mage-oriented targets, but they are listed at different Desert Temple settings. Whirlwind and Slam belong to the Warrior side, so they are not direct replacements for a spell-power Mage build. Start with class compatibility, then use the live cards and your completed-run performance to settle the remaining choice.",
+        "Desert Fury is a weapon target rather than an ability comparison. Its presence in the same dungeon can make a Desert Temple session feel productive, but a Legendary label does not make it the right item for every build. Keep the ability goal and weapon goal separate when reviewing rewards."
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "Where does Innervate drop in Dungeon Quest Reborn?", "answer": "Innervate is listed as a Mage ability from Desert Temple Hard."},
+    {"question": "Is Innervate good in Dungeon Quest Reborn?", "answer": "It is a useful early Mage progression target when it fits a spell-power loadout and Desert Temple Hard is a route you can clear consistently."},
+    {"question": "What build should use Innervate?", "answer": "Innervate belongs with a Mage spell-power build, not a physical Warrior setup."},
+    {"question": "Is Innervate a rare drop?", "answer": "Exact Dungeon Quest Reborn ability drop rates are not publicly confirmed, so no published rate establishes how rare it is."},
+    {"question": "Should I farm Innervate before moving on?", "answer": "Farm it when it fills a current Mage need and Desert Temple Hard is repeatable; otherwise, continue toward the next stable progression upgrade."}
+  ],
+  "faqHeading": "Innervate FAQ",
+  "screenshots": [],
+  "relatedSlugs": ["abilities", "drops/desert-temple", "drops", "desert-fury"],
+  "densityTargets": [{"term": "innervate dungeon quest", "min": 0.3, "max": 3}],
+  "lastReviewed": "2026-09-19"
+}

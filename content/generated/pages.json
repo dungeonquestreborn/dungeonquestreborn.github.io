@@ -1076,7 +1076,9 @@
         ],
         "links": [
           {"label": "Drops by dungeon", "slug": "drops", "description": "Open the compact weapon and ability source table."},
-          {"label": "Dungeon list", "slug": "dungeons", "description": "See which route comes next in progression."}
+          {"label": "Dungeon list", "slug": "dungeons", "description": "See which route comes next in progression."},
+          {"label": "Innervate guide", "slug": "innervate", "description": "See the Desert Temple Hard Mage ability target."},
+          {"label": "Desert Fury guide", "slug": "desert-fury", "description": "See the named Desert Temple Legendary weapon target."}
         ]
       },
       {
@@ -1255,6 +1257,8 @@
           {"label": "All drops", "slug": "drops", "description": "Selected weapons and abilities organized by dungeon."},
           {"label": "Abilities and spells", "slug": "abilities", "description": "See how Desert Temple skills fit Warrior and Mage loadouts."},
           {"label": "Dungeon list", "slug": "dungeons", "description": "Place Desert Temple in the current progression order."},
+          {"label": "Innervate guide", "slug": "innervate", "description": "See the Desert Temple Hard Mage ability target."},
+          {"label": "Desert Fury guide", "slug": "desert-fury", "description": "See the named early Legendary weapon target."},
           {"label": "Dungeon Quest Reborn home", "slug": "", "description": "Return to the main guide and Roblox entry."}
         ]
       }

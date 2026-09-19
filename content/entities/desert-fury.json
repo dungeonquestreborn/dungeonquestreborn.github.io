@@ -1,0 +1,144 @@
+{
+  "enabled": true,
+  "slug": "desert-fury",
+  "pageType": "guide",
+  "navLabel": "Desert Fury",
+  "title": "Desert Fury Dungeon Quest – How to Get & Ability Guide",
+  "description": "Desert Fury Dungeon Quest Reborn guide: learn where Desert Fury drops, how it fits early progression, and whether it is worth farming.",
+  "keywords": ["desert fury dungeon quest", "desert fury dungeon quest reborn", "dungeon quest desert fury", "desert fury ability dungeon quest", "how to get desert fury dungeon quest"],
+  "primaryKeyword": "desert fury dungeon quest",
+  "secondaryKeywords": ["desert fury dungeon quest reborn", "dungeon quest desert fury", "desert fury ability dungeon quest", "desert fury drop dungeon quest", "desert fury roblox dungeon quest"],
+  "searchIntent": "Learn what Desert Fury is, where it drops, and whether it is a worthwhile early weapon target in Dungeon Quest Reborn.",
+  "priority": "P2",
+  "navVisible": true,
+  "parentSlug": "",
+  "wordCountTarget": 900,
+  "factsStatus": "verified",
+  "sourceNotes": ["The existing Desert Temple drops, tier list, and drop-rate coverage identify Desert Fury as a Desert Temple Legendary weapon and an early chase item with a short progression lifespan. Exact stats, difficulty, boss, and drop rate are not confirmed in the site source."],
+  "hero": {
+    "eyebrow": "Early weapon guide · Reviewed September 19, 2026",
+    "heading": "Desert Fury Dungeon Quest Reborn",
+    "lead": "Desert Fury is a Legendary weapon target from Desert Temple in Dungeon Quest Reborn. It can improve an early build, but it is usually a short-lived progression weapon once Winter Outpost, Pirate Island, and later dungeons become repeatable.",
+    "quickAnswers": [
+      {"question": "What is Desert Fury?", "answer": "A Legendary weapon target from Desert Temple."},
+      {"question": "Where does Desert Fury drop?", "answer": "Desert Temple."},
+      {"question": "Is it an endgame weapon?", "answer": "No. It is an early chase item with a short progression lifespan."},
+      {"question": "Are exact drop rates published?", "answer": "No. The guide does not assign a universal Desert Fury rate."}
+    ]
+  },
+  "sections": [
+    {
+      "id": "desert-fury-at-a-glance",
+      "heading": "Desert Fury at a Glance",
+      "intro": "Desert Fury is the named Legendary weapon objective in the early Desert Temple route.",
+      "table": {
+        "caption": "Desert Fury Dungeon Quest Reborn quick facts",
+        "columns": ["Question", "Current guide answer"],
+        "rows": [
+          ["Item type", "Legendary weapon"],
+          ["Source", "Desert Temple"],
+          ["Progression role", "Early chase and potential upgrade"],
+          ["Replacement outlook", "Later dungeon weapons can replace it"],
+          ["Exact rate, stats, and difficulty", "Not publicly confirmed"]
+        ]
+      },
+      "paragraphs": [
+        "A Desert Fury Dungeon Quest search is usually about whether the named weapon is worth a Desert Temple session. The useful answer depends on the current item card and route: Desert Fury can help a new account when it improves the weapon in use, but its value falls as Winter Outpost, Pirate Island, and later progression become available.",
+        "Do not keep Desert Fury equipped only because it is Legendary. Compare the live card with the next available weapon, including its class path, main stat, requirement, and upgrade state. The right weapon is the one that helps the build finish its current content, not necessarily the rarest name in the inventory."
+      ]
+    },
+    {
+      "id": "how-to-get-desert-fury",
+      "heading": "How to Get Desert Fury in Dungeon Quest Reborn",
+      "intro": "Desert Fury is associated with Desert Temple.",
+      "steps": [
+        {"heading": "Make Desert Temple the target route", "description": "Use the live dungeon selector to enter the source dungeon tied to Desert Fury."},
+        {"heading": "Farm successful clears", "description": "Choose a run the account can finish consistently, since completed reward screens are the useful output of a farm."},
+        {"heading": "Review the weapon card", "description": "If Desert Fury appears, compare it with the current weapon before moving upgrades or resources."}
+      ],
+      "paragraphs": [
+        "The current site coverage confirms Desert Temple as the source for Desert Fury. It does not claim a specific boss, weapon difficulty, exact stat line, or published percentage. Check the live dungeon interface for current requirements and evaluate the reward card when it appears instead of relying on copied figures from another game or older version.",
+        "Desert Temple also contains several early ability targets, so a run can serve more than one purpose. Keep each goal distinct: Desert Fury is a weapon chase, while Innervate, Whirlwind, Lightning Strikes, and Slam are ability targets. This makes it easier to decide what to keep and when the account has outgrown the route."
+      ],
+      "links": [
+        {"label": "Desert Temple drops", "slug": "drops/desert-temple", "description": "See Desert Fury with the other named early Desert Temple rewards."},
+        {"label": "All Dungeon Quest Reborn drops", "slug": "drops", "description": "Compare early and later weapon sources."}
+      ]
+    },
+    {
+      "id": "desert-fury-use",
+      "heading": "What Is Desert Fury Used For?",
+      "intro": "Desert Fury is an early progression weapon candidate, not a confirmed permanent build endpoint.",
+      "paragraphs": [
+        "Desert Fury is useful when it provides a meaningful upgrade for the current early route. That can make room clears and repeatable progression more comfortable, which is more important than holding a collectible rarity label. The item needs to match the build and be usable at the present requirement; the live card is the place to verify those details.",
+        "The existing guide does not establish exact Desert Fury mechanics, damage, or scaling values. For that reason, judge it through a practical before-and-after test rather than an invented damage comparison. Equip it only when it improves the setup that is already being used to complete content, and keep the prior weapon until the replacement has been verified in a stable run.",
+        "Because it comes from an early dungeon, Desert Fury often functions as a stepping stone. It may help unlock or accelerate the next stage of progression, then give way to a later weapon with a better fit. That is a successful outcome: a weapon does not need to remain equipped forever to have been worth using."
+      ]
+    },
+    {
+      "id": "is-desert-fury-worth-farming",
+      "heading": "Is Desert Fury Worth Farming?",
+      "intro": "Farm Desert Fury when the potential upgrade has a clear job in the current progression path.",
+      "subsections": [
+        {"heading": "Worth a focused farm", "paragraphs": ["Desert Temple is stable, the current weapon is limiting clears, and Desert Fury could be a usable early upgrade for the active build."]},
+        {"heading": "Worth checking but not over-investing", "paragraphs": ["You can already clear the route and want a named weapon comparison, but the next dungeon is close enough that a long grind may delay progression."]},
+        {"heading": "Move on instead", "paragraphs": ["Later dungeons are already repeatable or Desert Fury does not match the current weapon path. A later source may offer a more durable objective."]},
+        {"heading": "Protect upgrade resources", "paragraphs": ["Treat Desert Fury as a possible stepping stone. Compare it before committing scarce upgrades that will be needed for later replacements."]}
+      ],
+      "paragraphs": [
+        "There is no published Desert Fury drop rate that can turn the decision into a fixed number of runs. Use a route decision instead: stable clear, meaningful potential upgrade, and enough time before the next progression step. When those align, the farm is rational even without a promised reward count.",
+        "When Desert Temple becomes an inefficient detour, take the progress already gained and advance. Winter Outpost and Pirate Island offer the usual early next steps, while the dungeon guide gives the wider ordering. The best use of Desert Fury is helping an account reach that next reliable route."
+      ]
+    },
+    {
+      "id": "desert-fury-comparisons",
+      "heading": "Desert Fury vs Other Desert Temple Abilities",
+      "intro": "Desert Fury is a weapon chase; the other named Desert Temple rewards answer ability needs.",
+      "table": {
+        "caption": "Desert Temple targets by role",
+        "columns": ["Target", "Type", "Listed context", "Planning use"],
+        "rows": [
+          ["Desert Fury", "Legendary weapon", "Desert Temple", "Early weapon upgrade candidate"],
+          ["Innervate", "Mage ability", "Desert Temple Hard", "Early Mage progression option"],
+          ["Lightning Strikes", "Mage ability", "Desert Temple Medium", "Early focused Mage damage option"],
+          ["Whirlwind", "Warrior ability", "Desert Temple Easy", "Early multi-target Warrior option"],
+          ["Slam", "Warrior ability", "Desert Temple Medium", "Early physical Warrior attack option"]
+        ]
+      },
+      "paragraphs": [
+        "The best Desert Temple target depends on what is missing. A build that needs a weapon comparison can pursue Desert Fury; a Mage looking for an ability can focus on Innervate or Lightning Strikes; a Warrior can evaluate Whirlwind or Slam. These are different decisions, so do not expect an ability reward to solve a weapon problem or a Legendary weapon to repair an unsuitable ability rotation.",
+        "Avoid fictional DPS comparisons between these targets. Their listed roles and sources are enough to make a practical first choice. When a reward appears, compare it to the current gear or ability slot and keep the farm focused on the remaining problem."
+      ],
+      "links": [
+        {"label": "Innervate guide", "slug": "innervate", "description": "See the Desert Temple Hard Mage ability target in detail."},
+        {"label": "Dungeon Quest Reborn abilities", "slug": "abilities", "description": "Compare Desert Temple options with later Warrior and Mage abilities."}
+      ]
+    },
+    {
+      "id": "desert-fury-farming-tips",
+      "heading": "Desert Fury Farming Tips",
+      "intro": "Use Desert Temple as a controlled early farm, then leave when the next route offers more value.",
+      "paragraphs": [
+        "Start with a repeatable setup. Learn the rooms, choose the route the account can finish, and check every completed reward card before changing equipment. If playing with a group, agree on the target and keep the comparison to runs with a similar team; a faster party can make a weapon test look stronger than it really is.",
+        "Keep one working loadout intact during the farm. A new item should earn resources by improving the exact route currently being run. This is especially important for Desert Fury because the guide places it in early progression, where a later dungeon weapon may replace it soon after the upgrade is made.",
+        "Stop when the next dungeon is stable or when Desert Fury no longer solves a real need. A completed early target farm should lead into progression, not delay it indefinitely. Use the dungeon list and full drops guide to choose the next route, and use the abilities guide if a skill slot is the more pressing upgrade."
+      ],
+      "links": [
+        {"label": "Dungeon progression guide", "slug": "dungeons", "description": "Find the next route after Desert Temple."},
+        {"label": "Dungeon Quest Reborn drops", "slug": "drops", "description": "Compare Desert Fury with later named weapon targets."}
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "Where does Desert Fury drop in Dungeon Quest Reborn?", "answer": "Desert Fury is associated with Desert Temple."},
+    {"question": "What is Desert Fury in Dungeon Quest Reborn?", "answer": "It is a Legendary weapon target from Desert Temple and an early progression chase item."},
+    {"question": "Is Desert Fury worth farming?", "answer": "It is worth farming when it can improve the current early build and Desert Temple is a route you can clear consistently."},
+    {"question": "Is Desert Fury an endgame weapon?", "answer": "No. The current guide treats it as an early weapon with a short progression lifespan once later dungeons become farmable."},
+    {"question": "What is the Desert Fury drop rate?", "answer": "Exact Dungeon Quest Reborn drop rates are not publicly confirmed."}
+  ],
+  "faqHeading": "Desert Fury FAQ",
+  "screenshots": [],
+  "relatedSlugs": ["abilities", "drops/desert-temple", "drops", "innervate"],
+  "densityTargets": [{"term": "desert fury dungeon quest", "min": 0.3, "max": 3}],
+  "lastReviewed": "2026-09-19"
+}

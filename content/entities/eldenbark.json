@@ -1,0 +1,129 @@
+{
+  "enabled": true,
+  "slug": "eldenbark",
+  "pageType": "guide",
+  "navLabel": "Eldenbark",
+  "title": "Eldenbark Dungeon Quest – Greatsword & Greatstaff Guide",
+  "description": "Eldenbark Dungeon Quest Reborn guide covering the Eldenbark Greatsword and Greatstaff, their source, class use, and practical farming advice.",
+  "keywords": ["eldenbark dungeon quest", "eldenbark dungeon quest reborn", "eldenbark greatsword dungeon quest", "eldenbark greatstaff dungeon quest", "how to get eldenbark dungeon quest"],
+  "primaryKeyword": "eldenbark dungeon quest",
+  "secondaryKeywords": ["eldenbark dungeon quest reborn", "eldenbark greatsword dungeon quest", "eldenbark greatstaff dungeon quest", "eldenbark drop dungeon quest", "dungeon quest eldenbark"],
+  "searchIntent": "Identify the Eldenbark Greatsword and Greatstaff, their class paths, source, and place alongside Eden weapons in Dungeon Quest Reborn.",
+  "priority": "P2",
+  "navVisible": true,
+  "parentSlug": "",
+  "wordCountTarget": 950,
+  "factsStatus": "verified",
+  "sourceNotes": ["The existing Enchanted Forest drops guide lists Eldenbark Greatsword as a Warrior Legendary and Eldenbark Greatstaff as a Mage Legendary. It lists Enchanted Forest as their source, without an exact drop rate or weapon difficulty guarantee."],
+  "hero": {
+    "eyebrow": "Enchanted Forest weapon guide · Reviewed September 19, 2026",
+    "heading": "Eldenbark Dungeon Quest Reborn",
+    "lead": "Eldenbark in Dungeon Quest Reborn refers to two Enchanted Forest Legendary weapons: the Eldenbark Greatsword for Warrior builds and the Eldenbark Greatstaff for Mage builds. Each is a practical weapon candidate to compare with the matching Eden chase weapon.",
+    "quickAnswers": [
+      {"question": "What is Eldenbark?", "answer": "A pair of named Enchanted Forest Legendary weapons: a Greatsword and a Greatstaff."},
+      {"question": "Where does Eldenbark drop?", "answer": "Enchanted Forest."},
+      {"question": "Which class uses the Greatsword?", "answer": "Warrior."},
+      {"question": "Which class uses the Greatstaff?", "answer": "Mage."}
+    ]
+  },
+  "sections": [
+    {
+      "id": "eldenbark-at-a-glance",
+      "heading": "Eldenbark at a Glance",
+      "intro": "The two Eldenbark weapons have distinct class roles even though they share a source and naming pattern.",
+      "table": {
+        "caption": "Eldenbark Dungeon Quest Reborn quick facts",
+        "columns": ["Weapon", "Class path", "Rarity", "Source", "Planning role"],
+        "rows": [
+          ["Eldenbark Greatsword", "Warrior", "Legendary", "Enchanted Forest", "Compare with Eden's Vengeance"],
+          ["Eldenbark Greatstaff", "Mage", "Legendary", "Enchanted Forest", "Compare with Eden's Reaper"]
+        ]
+      },
+      "paragraphs": [
+        "An Eldenbark Dungeon Quest search usually concerns one of two weapons, not a single all-class item. The Greatsword belongs on the Warrior path, and the Greatstaff belongs on the Mage path. Establishing that split first prevents a reward for the other class from distracting a focused Enchanted Forest farm.",
+        "Both weapons are named Enchanted Forest Legendary targets. Treat them as real candidates, not merely consolation prizes while waiting for an Ultimate. The exact item card, requirement, upgrade state, and effect on the current clear determine whether a received copy is the right next weapon for the account."
+      ]
+    },
+    {
+      "id": "how-to-get-eldenbark",
+      "heading": "How to Get Eldenbark in Dungeon Quest Reborn",
+      "intro": "Farm Enchanted Forest for the Eldenbark weapon that matches the class you play.",
+      "steps": [
+        {"heading": "Choose the class target", "description": "Warriors should look for the Greatsword; Mages should look for the Greatstaff."},
+        {"heading": "Clear Enchanted Forest consistently", "description": "Use a route and loadout that can complete runs reliably before turning the session into a long farm."},
+        {"heading": "Compare the item card", "description": "Check the received weapon against the current equipped copy before upgrading or replacing gear."}
+      ],
+      "paragraphs": [
+        "The available site records confirm Enchanted Forest as the source for both Eldenbark weapons. They do not supply a universal exact drop rate or a separate difficulty statement for the weapons, so use the live selector and reward card when planning a current session. This keeps the farm based on the named source without inventing a percentage or guarantee.",
+        "Choose the goal before the first run. A Warrior can pursue the Greatsword while accepting the class Ultimate as a parallel weapon outcome; a Mage can do the same with the Greatstaff and Mage Ultimate. The goal remains class-specific even when the dungeon has valuable rewards for both paths."
+      ],
+      "links": [
+        {"label": "Enchanted Forest drops", "slug": "drops/enchanted-forest", "description": "See the full named weapon and ability target list for this dungeon."},
+        {"label": "Dungeon Quest Reborn drops", "slug": "drops", "description": "Compare Eldenbark with other weapon sources."}
+      ]
+    },
+    {
+      "id": "eldenbark-greatsword",
+      "heading": "Eldenbark Greatsword",
+      "intro": "Eldenbark Greatsword is the Warrior Legendary weapon in the Enchanted Forest reward pool.",
+      "paragraphs": [
+        "For a Warrior, the Eldenbark Greatsword is a named Enchanted Forest alternative to the Eden's Vengeance Ultimate chase. It should be evaluated as a weapon you can use now, not only as a marker that the ultimate outcome did not appear. A practical improvement can make the next group of clears more dependable and reduce the cost of continuing the farm.",
+        "Use the complete item card to decide. Confirm the class path and requirement, compare the relevant damage path with the equipped weapon, and consider the upgrade state of both copies. A rarity label alone does not settle the choice; a later-dungeon reward still needs to improve the actual route you are running.",
+        "If the Greatsword is an upgrade, test it in the same Enchanted Forest routine or another stable route before moving more resources. If it is not, keep the current working weapon and retain the Eldenbark result as a comparison point. This makes the weapon decision deliberate instead of turning every named card into an immediate investment."
+      ]
+    },
+    {
+      "id": "eldenbark-greatstaff",
+      "heading": "Eldenbark Greatstaff",
+      "intro": "Eldenbark Greatstaff is the Mage Legendary weapon in the Enchanted Forest reward pool.",
+      "paragraphs": [
+        "For a Mage, the Eldenbark Greatstaff is the matching Enchanted Forest Legendary and an alternative to the Eden's Reaper Ultimate target. It belongs with a spell-power build and should be compared against the weapon currently supporting the Mage abilities you actually use. A new staff is useful when it strengthens that complete setup, not simply because its name is rarer.",
+        "Check requirements and the full item card before replacing a working staff. Compare one change at a time when possible: keep the ability rotation stable while testing the weapon, then decide whether clear pace and reliability improve. That approach avoids attributing a party change or a newly learned encounter to a weapon swap.",
+        "The Greatstaff is not an automatic declaration that a Mage farm is finished. It can be the best current upgrade, a valuable interim result, or a card to keep while another source becomes more useful. Let the next progression goal and the live equipment details decide which role it fills."
+      ]
+    },
+    {
+      "id": "eldenbark-vs-eden",
+      "heading": "Eldenbark vs Eden Weapons",
+      "intro": "Eldenbark and Eden weapons share an Enchanted Forest source but occupy different positions in the current guide.",
+      "table": {
+        "caption": "Enchanted Forest weapon targets by class",
+        "columns": ["Class", "Legendary target", "Ultimate target", "Useful decision"],
+        "rows": [
+          ["Warrior", "Eldenbark Greatsword", "Eden's Vengeance", "Use the Greatsword as a real comparison while pursuing the Ultimate."],
+          ["Mage", "Eldenbark Greatstaff", "Eden's Reaper", "Compare the Greatstaff against the current staff and future Ultimate goal."]
+        ]
+      },
+      "paragraphs": [
+        "The current tier list identifies Eden's Vengeance and Eden's Reaper as the top Warrior and Mage current targets, while the Eldenbark Greatsword and Greatstaff are strong alternatives from the same dungeon. That is a planning relationship, not a reason to invent exact damage gaps or claim that one copy will always beat another.",
+        "A good Enchanted Forest farm accepts useful intermediate outcomes. If the matching Eldenbark weapon improves the current build, it can make continuing toward the Eden target easier. If the existing weapon is stronger after requirements and upgrades are considered, keep the dependable setup rather than replacing it solely for the Legendary name."
+      ]
+    },
+    {
+      "id": "farm-eldenbark",
+      "heading": "Best Way to Farm Eldenbark",
+      "intro": "Efficient Eldenbark farming starts with stable Enchanted Forest clears and a class-specific target.",
+      "paragraphs": [
+        "Decide whether you are farming the Warrior Greatsword or the Mage Greatstaff before entering. A shared Enchanted Forest run can produce rewards for either class, but the target makes it easier to assess what is useful when the reward screen appears. Keep one acceptable interim upgrade in mind so a valuable result does not get ignored while chasing a single named outcome.",
+        "Prioritize repeatable completion over a setting the group cannot finish. Exact drop rates are not publicly confirmed, so a reliable series of completed runs is the practical input you can control. Keep observations simple: completed runs, failures, clear pace, and whether a candidate weapon actually improves the loadout.",
+        "Stop the Eldenbark farm when it no longer serves a real equipment need. A Warrior or Mage with a stable weapon may get more value from a matching ability target, another dungeon, or continued progression. Use the tier list and dungeon guide to select that next objective without treating Enchanted Forest as an endless default."
+      ],
+      "links": [
+        {"label": "Weapons and abilities tier list", "slug": "weapons-abilities-tier-list", "description": "See the current role of Eldenbark and Eden weapon targets."},
+        {"label": "Dungeon progression guide", "slug": "dungeons", "description": "Plan the next route once the Enchanted Forest objective is complete."}
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "Where does Eldenbark drop in Dungeon Quest Reborn?", "answer": "Both the Eldenbark Greatsword and Eldenbark Greatstaff are associated with Enchanted Forest."},
+    {"question": "What is Eldenbark Greatsword?", "answer": "It is the Warrior Legendary Eldenbark weapon from Enchanted Forest."},
+    {"question": "What is Eldenbark Greatstaff?", "answer": "It is the Mage Legendary Eldenbark weapon from Enchanted Forest."},
+    {"question": "Is Eldenbark good for Warrior or Mage?", "answer": "The Greatsword is the Warrior option and the Greatstaff is the Mage option. Compare the exact item card, requirements, and current weapon before upgrading."},
+    {"question": "Is the Eldenbark drop rate confirmed?", "answer": "Exact Dungeon Quest Reborn drop rates are not publicly confirmed."}
+  ],
+  "faqHeading": "Eldenbark FAQ",
+  "screenshots": [],
+  "relatedSlugs": ["drops/enchanted-forest", "weapons-abilities-tier-list", "drops", "dungeons"],
+  "densityTargets": [{"term": "eldenbark dungeon quest", "min": 0.3, "max": 3}],
+  "lastReviewed": "2026-09-19"
+}

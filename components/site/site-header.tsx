@@ -8,7 +8,7 @@ import type { InternalLink } from "@/config/types";
 import { assetPath, routePath } from "@/lib/urls";
 
 const linkClass =
-  "whitespace-nowrap rounded-md px-2 py-1.5 text-xs font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground";
+  "whitespace-nowrap rounded-md px-2 py-1.5 text-[11px] font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground";
 
 function NavItem({ link, onNavigate }: { link: InternalLink; onNavigate: () => void }) {
   const [submenuOpen, setSubmenuOpen] = useState(false);
@@ -23,7 +23,7 @@ function NavItem({ link, onNavigate }: { link: InternalLink; onNavigate: () => v
   }
 
   return (
-    <div className="relative lg:group">
+    <div className="relative xl:group">
       <div className="flex items-center">
         <Link href={routePath(link.slug)} className={linkClass} onClick={onNavigate}>
           {link.label}
@@ -40,13 +40,13 @@ function NavItem({ link, onNavigate }: { link: InternalLink; onNavigate: () => v
         </button>
       </div>
       <ul
-        className={`${submenuOpen ? "flex" : "hidden"} ml-3 mt-1 flex-col gap-1 lg:absolute lg:left-0 lg:top-full lg:z-50 lg:ml-0 lg:mt-0 lg:min-w-[11rem] lg:rounded-lg lg:border lg:border-border lg:bg-background lg:p-1 lg:shadow-theme lg:group-hover:flex lg:group-focus-within:flex`}
+        className={`${submenuOpen ? "flex" : "hidden"} ml-3 mt-1 flex-col gap-1 xl:absolute xl:left-0 xl:top-full xl:z-50 xl:ml-0 xl:mt-0 xl:min-w-[11rem] xl:rounded-lg xl:border xl:border-border xl:bg-background xl:p-1 xl:shadow-theme xl:group-hover:flex xl:group-focus-within:flex`}
       >
         {children.map((child) => (
           <li key={child.slug}>
             <Link
               href={routePath(child.slug)}
-              className="block rounded-md px-3 py-2 text-xs font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground"
+              className="block rounded-md px-3 py-2 text-[11px] font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground"
               onClick={() => {
                 setSubmenuOpen(false);
                 onNavigate();
@@ -70,14 +70,14 @@ export function SiteHeader({ links }: { links: InternalLink[] }) {
         <Link href="/" className="flex min-w-0 items-center gap-2" onClick={() => setOpen(false)}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={assetPath(siteConfig.assets.logo)} alt="" className="h-7 w-7 rounded-lg" />
-          <span className="truncate text-sm font-black tracking-tight text-foreground">
+          <span className="truncate text-[13px] font-black tracking-tight text-foreground">
             {siteConfig.shortName}
           </span>
         </Link>
 
         <button
           type="button"
-          className="rounded-lg border border-border p-2 text-foreground lg:hidden"
+          className="rounded-lg border border-border p-2 text-foreground xl:hidden"
           aria-label={open ? "Close navigation" : "Open navigation"}
           aria-expanded={open}
           onClick={() => setOpen((value) => !value)}
@@ -87,7 +87,7 @@ export function SiteHeader({ links }: { links: InternalLink[] }) {
 
         <nav
           aria-label="Primary navigation"
-          className={`${open ? "flex" : "hidden"} absolute inset-x-0 top-14 flex-col gap-1 border-b border-border bg-background p-3 shadow-theme lg:static lg:flex lg:flex-row lg:flex-nowrap lg:items-center lg:gap-0.5 lg:border-0 lg:bg-transparent lg:p-0 lg:shadow-none`}
+          className={`${open ? "flex" : "hidden"} absolute inset-x-0 top-14 flex-col gap-1 border-b border-border bg-background p-3 shadow-theme xl:static xl:flex xl:flex-row xl:flex-nowrap xl:items-center xl:gap-0.5 xl:border-0 xl:bg-transparent xl:p-0 xl:shadow-none`}
         >
           {links.map((link) => (
             <NavItem key={link.slug} link={link} onNavigate={() => setOpen(false)} />
