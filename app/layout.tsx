@@ -22,10 +22,24 @@ const navLinks = visibleCorePages.map((page) => ({
           { label: "Pirate Island", slug: "drops/pirate-island" },
           { label: "Enchanted Forest", slug: "drops/enchanted-forest" },
           { label: "Winter Outpost", slug: "drops/winter-outpost" },
+          { label: "Orbital Outpost", slug: "drops/orbital-outpost" },
           { label: "Volcanic Chambers", slug: "drops/volcanic-chambers" },
         ]
       : undefined,
 }));
+const headerLinks = [
+  ...navLinks,
+  {
+    label: "More",
+    slug: "more",
+    menuOnly: true,
+    children: [
+      { label: "Level Requirements", slug: "level-requirements" },
+      { label: "Ultimates", slug: "ultimates" },
+      { label: "Rending Slice", slug: "rending-slice" },
+    ],
+  },
+];
 const legalLinks = visibleLegalPages.map((page) => ({ label: page.navLabel, slug: page.slug }));
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
@@ -41,7 +55,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
       </head>
       <body>
         <a href="#main-content" className="skip-link">Skip to content</a>
-        <SiteHeader links={navLinks} />
+        <SiteHeader links={headerLinks} />
         <div id="main-content">{children}</div>
         <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />
         {integrations.socialBar.provider === "adsterra-social-bar" ? (

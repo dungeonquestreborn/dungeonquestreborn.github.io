@@ -107,6 +107,8 @@ export interface InternalLink {
   slug: string;
   description?: string;
   children?: InternalLink[];
+  /** Dropdown label with no destination. Existing nav items leave this unset. */
+  menuOnly?: boolean;
 }
 
 export interface ExternalLink {

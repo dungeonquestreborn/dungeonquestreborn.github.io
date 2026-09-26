@@ -341,7 +341,7 @@
       {"question": "What are the exact level requirements?", "answer": "Requirements can vary with the current version; check the live dungeon selector for your account."}
     ],
     "screenshots": [],
-    "relatedSlugs": ["drops", "weapons-abilities-tier-list", "wiki"],
+    "relatedSlugs": ["drops", "weapons-abilities-tier-list", "wiki", "level-requirements", "drops/orbital-outpost"],
     "densityTargets": [{"term": "dungeon quest reborn dungeons", "min": 0.3, "max": 1.2}],
     "lastReviewed": "2026-08-30"
   },
@@ -496,7 +496,7 @@
       {"question": "When was this tier list updated?", "answer": "The current tier list was updated for August 2026."}
     ],
     "screenshots": [],
-    "relatedSlugs": ["drops", "dungeons", "wiki"],
+    "relatedSlugs": ["drops", "dungeons", "wiki", "ultimates", "rending-slice"],
     "densityTargets": [{"term": "dungeon quest reborn", "min": 0.15, "max": 1.2}],
     "lastReviewed": "2026-08-30"
   },
@@ -719,7 +719,7 @@
       {"question": "What dungeon should I farm?", "answer": "Farm the highest dungeon you can clear consistently that contains a useful target for your current build."}
     ],
     "screenshots": [],
-    "relatedSlugs": ["dungeons", "weapons-abilities-tier-list", "wiki"],
+    "relatedSlugs": ["dungeons", "weapons-abilities-tier-list", "wiki", "drops/orbital-outpost", "ultimates"],
     "densityTargets": [{"term": "dungeon quest reborn drops", "min": 0.3, "max": 1.2}],
     "lastReviewed": "2026-08-30"
   },
@@ -977,6 +977,7 @@
     ],
     "faqHeading": "Drop Rate FAQ",
     "screenshots": [],
+    "relatedSlugs": ["ultimates"],
     "lastReviewed": "2026-09-05"
   },
   {
@@ -1132,6 +1133,7 @@
     ],
     "faqHeading": "Dungeon Quest Reborn Abilities FAQ",
     "screenshots": [],
+    "relatedSlugs": ["rending-slice"],
     "lastReviewed": "2026-09-05"
   },
   {

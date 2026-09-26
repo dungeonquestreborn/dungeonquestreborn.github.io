@@ -123,7 +123,7 @@
   ],
   "faqHeading": "Eldenbark FAQ",
   "screenshots": [],
-  "relatedSlugs": ["drops/enchanted-forest", "weapons-abilities-tier-list", "drops", "dungeons"],
+  "relatedSlugs": ["drops/enchanted-forest", "weapons-abilities-tier-list", "drops", "dungeons", "ultimates"],
   "densityTargets": [{"term": "eldenbark dungeon quest", "min": 0.3, "max": 3}],
   "lastReviewed": "2026-09-19"
 }
