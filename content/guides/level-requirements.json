@@ -1,0 +1,153 @@
+{
+  "enabled": true,
+  "slug": "level-requirements",
+  "pageType": "guide",
+  "navLabel": "Level Requirements",
+  "title": "Dungeon Quest Reborn Level Requirements & Dungeon Levels",
+  "description": "Quick Dungeon Quest Reborn level requirements for each dungeon and difficulty, with progression order and a live dungeon selector check.",
+  "keywords": [
+    "dungeon quest reborn levels",
+    "dungeon quest reborn level requirements",
+    "dungeon quest level requirements",
+    "dungeon quest reborn dungeon levels",
+    "dungeon quest levels"
+  ],
+  "primaryKeyword": "dungeon quest reborn levels",
+  "secondaryKeywords": [
+    "dungeon quest reborn level requirements",
+    "dungeon quest level requirements",
+    "dungeon quest reborn dungeon levels",
+    "dungeon quest levels",
+    "dungeon quest dungeon level requirements",
+    "what level for dungeon quest dungeons"
+  ],
+  "searchIntent": "Look up the current level gate for a Dungeon Quest Reborn dungeon and difficulty, then decide whether that route is ready to farm.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "wiki",
+  "wordCountTarget": 1050,
+  "factsStatus": "verified",
+  "sourceNotes": [
+    "Dungeon order and names follow the live dungeon guide in content/generated/pages.json. Orbital Outpost is the label used on this page for the Galactic Dual Blades and Galactic Pike route that the dungeon list records as Outer Orbit.",
+    "Desert Temple Easy through Nightmare is shown as playable in the 17 July 2026 Reborn solo guide for Roblox place 77649408247578. Ability ties for Easy, Medium, and Hard also come from this site's ability guide.",
+    "Numeric charts disagree. dungeonquestreborn.org/dungeons (2 September 2026) reprints classic gates (Desert Temple 1/6/12/20/27, Orbital Outpost 135/140, Northern Lands 180/185) and cites dqrroblox.fandom.com; its Underworld page says the 28 April 2019 date belongs to the original game. dungeonquestrebornn.wiki (3 September 2026) and allthings.how (2 September 2026) publish different approximate gates, including a much higher Orbital Outpost figure on the wiki. This page therefore prints no level integer."
+  ],
+  "hero": {
+    "eyebrow": "Level gate lookup · Reviewed September 26, 2026",
+    "heading": "Dungeon Quest Reborn Level Requirements",
+    "lead": "Dungeon quest reborn levels are printed on the live dungeon selector for the dungeon and difficulty you highlight. Use the table as the route checklist, then read that number before you queue.",
+    "quickAnswers": [
+      {"question": "Where is the current level?", "answer": "On the live dungeon selector, next to the dungeon and difficulty you select."},
+      {"question": "Which dungeon comes first?", "answer": "Desert Temple, then Winter Outpost, then the next route you can clear."},
+      {"question": "What level is Orbital Outpost?", "answer": "The live dungeon selector prints the current Orbital Outpost gate."},
+      {"question": "Is the gate enough to farm?", "answer": "Entry and a stable clear are separate. Move up when you finish the route reliably."}
+    ]
+  },
+  "sections": [
+    {
+      "id": "level-requirements-at-a-glance",
+      "heading": "Dungeon Quest Reborn Level Requirements at a Glance",
+      "intro": "Every cell says Selector. Dungeon quest reborn levels change with the version you are playing, so the in-game gate is the number to trust.",
+      "paragraphs": [
+        "Read across the row for the dungeon you want, then open that difficulty in the selector. Desert Temple is confirmed in current Reborn play from Easy through Nightmare. Later rows use the same check: the gate on your client is the current requirement.",
+        "The dungeon list on this site still labels the Galactic Dual Blades and Galactic Pike route as Outer Orbit. This table calls that row Orbital Outpost, the name players use for the same weapon pair."
+      ],
+      "table": {
+        "caption": "Dungeon Quest Reborn level requirements by dungeon and difficulty",
+        "columns": ["Dungeon", "Easy", "Medium", "Hard", "Insane", "Nightmare"],
+        "rows": [
+          ["Desert Temple", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Winter Outpost", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Pirate Island", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Pyramid", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Kraken Cove", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Underwater", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Sky Palace", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Temple Crypt", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Ghost Harbor", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Steel Sanctum", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Orbital Outpost", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Volcanic Chambers", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Aquatic Temple", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Northern Lands", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Enchanted Forest", "Selector", "Selector", "Selector", "Selector", "Selector"],
+          ["Gildenscale", "Selector", "Selector", "Selector", "Selector", "Selector"]
+        ]
+      }
+    },
+    {
+      "id": "progression-order",
+      "heading": "Dungeon Level Progression Order",
+      "intro": "The level ladder follows the route order already used on the dungeon guide.",
+      "paragraphs": [
+        "Start at Desert Temple. Move to Winter Outpost once that clear is comfortable, then Pirate Island. The mid route on this site continues through Pyramid, Kraken Cove, Underwater, Sky Palace, Temple Crypt, Ghost Harbor, and Steel Sanctum. Orbital Outpost comes next for the Galactic weapon pair, followed by Volcanic Chambers, Aquatic Temple, Northern Lands, Enchanted Forest, and Gildenscale.",
+        "Dungeon quest reborn levels are an access check along that order. A newly opened row can still be the wrong farm if the previous boss is the one you can finish. Keep the working route until a full clear of the next one is repeatable."
+      ],
+      "links": [
+        {"label": "Dungeon progression guide", "slug": "dungeons", "description": "See notable loot and farming notes for the full route."},
+        {"label": "Wiki hub", "slug": "wiki", "description": "Return to the main Dungeon Quest Reborn guide index."}
+      ]
+    },
+    {
+      "id": "desert-temple-winter-outpost",
+      "heading": "Desert Temple and Winter Outpost Difficulty Levels",
+      "intro": "These two early dungeons are where difficulty choice changes the ability you are farming.",
+      "paragraphs": [
+        "Desert Temple is the starter route, and current Reborn play includes Easy, Medium, Hard, Insane, and Nightmare. The ability guide ties Whirlwind to Easy, Lightning Strikes and Slam to Medium, and Innervate to Hard. Pick the difficulty that lists the skill you want, then let the selector show the dungeon quest level requirements for that setting.",
+        "Winter Outpost is the next early route. Gale Slice and Ice Needles are tied to Easy on this site. If Medium, Hard, Insane, or Nightmare is open for your account, the live dungeon selector is the final check for the current requirement. A higher label is useful when you can finish it, and it is a time loss when the run fails before the reward screen.",
+        "Desert Fury and Crystalised Greatsword are the named early weapon targets from these dungeons. Their equip details belong on the item card. The dungeon gate and the weapon requirement are separate numbers, and both should be read in game."
+      ]
+    },
+    {
+      "id": "mid-game-level-requirements",
+      "heading": "Mid-Game Dungeon Level Requirements",
+      "intro": "Mid-game gates cover Pirate Island and the routes between it and the Galactic weapon farm.",
+      "paragraphs": [
+        "Pirate Island is the early-to-mid step for Enchanted Spinning Blades and Phantom Flames. Pyramid, Kraken Cove, Underwater, Sky Palace, Temple Crypt, Ghost Harbor, and Steel Sanctum follow on the dungeon list. Ghost Harbor is the source named for Phantom Blades and Phantom Striker. Steel Sanctum is the source named for Inventor's Greatsword and Inventor's Spellblade. The level for each of those dungeons is on the selector for the difficulty you highlight.",
+        "The ability guide uses two further names. Rending Slice is a Warrior skill from Underworld, and Berserk plus Enchanted Shuriken are listed at Samurai Palace. Underwater lists Dual Phoenix weapons, and Sky Palace lists the Sakura weapons. When King's Castle, Underworld, or Samurai Palace appears on your selector, the printed level is the gate for that account. A stable clear still decides whether the session stays there."
+      ]
+    },
+    {
+      "id": "late-game-level-requirements",
+      "heading": "Late-Game Dungeon Level Requirements",
+      "intro": "Late routes are where weapon targets get specific, and the selector still owns the number.",
+      "paragraphs": [
+        "Orbital Outpost is the late-mid route for Galactic Dual Blades and Galactic Pike. Open the Orbital Outpost drops guide when those weapons are the goal, and read the level on the same selector this table points to. Volcanic Chambers is the next advanced farm, with Lava King's Warscythe and Lava King's Spell Daggers. Aquatic Temple follows with Sea King's Trident and Sea King's Greatstaff.",
+        "Northern Lands is the late Nordic route for Hofund, Laevateinn, Mjolnir, and Gungnir. Enchanted Forest is the primary late weapon route for Eden's Vengeance, Eden's Reaper, and the Eldenbark weapons. Enhanced Inner Rage and Enhanced Inner Focus are tied to Enchanted Forest Nightmare, so that difficulty is the one to highlight when those buffs are the target. Gildenscale is the final row on the dungeon list. Confirm it on the selector before you plan a session around it.",
+        "For Orbital Outpost, Enchanted Forest, and Northern Lands, use the dungeon quest reborn levels printed beside the tile today. Queue a difficulty you have already finished, or one step above a clear you trust."
+      ],
+      "links": [
+        {"label": "Orbital Outpost drops", "slug": "drops/orbital-outpost", "description": "See the confirmed Galactic weapon targets and farming plan."},
+        {"label": "Weapons and abilities tier list", "slug": "weapons-abilities-tier-list", "description": "Choose which late weapon is worth the next farming session."}
+      ]
+    },
+    {
+      "id": "level-versus-clear",
+      "heading": "What If You Meet the Level but Cannot Clear?",
+      "intro": "A level gate answers whether you can enter. A stable clear answers whether you should stay.",
+      "paragraphs": [
+        "Meeting dungeon quest reborn level requirements means the selector will let you start the run. It leaves the build, the difficulty, and the time limit untouched. If rooms fail or the boss ends the run, drop one difficulty on that same dungeon or return to the previous route you can finish. Repeated completions produce the rewards and the gold that make the next gate realistic.",
+        "Upgrade the weapon and ability that match the damage path you already play. A Warrior still on a physical kit should solve a physical gap. A Mage on spell power should solve a spell gap. Compare the item card, run the same route a few times, and move the farm only when the new clear is the one you would repeat tomorrow.",
+        "Use the dungeon guide for route context and the tier list when you need to pick a target. This page stays on the gate and the go-or-wait decision."
+      ],
+      "steps": [
+        {"heading": "Read the selector", "description": "Highlight the dungeon and difficulty and use the level printed there."},
+        {"heading": "Test one full clear", "description": "Finish the boss once before you turn the route into a farming session."},
+        {"heading": "Stay or step back", "description": "Keep the route when clears are repeatable. Drop a difficulty or a dungeon when they are not."}
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "What level do you need for Dungeon Quest Reborn?", "answer": "Dungeon quest reborn levels are the gates on the live dungeon selector. Desert Temple is the starting route, and later dungeons open as you move up the route list."},
+    {"question": "What level is Orbital Outpost?", "answer": "Read the Orbital Outpost gate on the live dungeon selector for the difficulty you plan to run. This guide uses that same check on the drops page."},
+    {"question": "What level is Enchanted Forest?", "answer": "Check the live dungeon selector. Nightmare is the difficulty tied to Enhanced Inner Rage and Enhanced Inner Focus once you can clear it."},
+    {"question": "What level is Northern Lands?", "answer": "Check the live dungeon selector. Northern Lands is the late route for Hofund, Laevateinn, Mjolnir, and Gungnir."},
+    {"question": "Does meeting the level requirement mean I should farm that dungeon?", "answer": "The gate means you can enter. Farm the dungeon when you can clear it consistently and it drops something your build still needs."},
+    {"question": "Where should I check the latest dungeon level requirement?", "answer": "Use the live dungeon selector in Dungeon Quest Reborn. It is the final check for current level gates."}
+  ],
+  "faqHeading": "Level Requirements FAQ",
+  "screenshots": [],
+  "relatedSlugs": ["dungeons", "drops/orbital-outpost", "weapons-abilities-tier-list", "wiki"],
+  "densityTargets": [{"term": "dungeon quest reborn levels", "min": 0.3, "max": 3}],
+  "lastReviewed": "2026-09-26"
+}

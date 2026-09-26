@@ -1,0 +1,147 @@
+{
+  "enabled": true,
+  "slug": "drops/orbital-outpost",
+  "pageType": "database",
+  "navLabel": "Orbital Outpost",
+  "title": "Orbital Outpost Dungeon Quest Drops & Loot Guide",
+  "description": "Find Orbital Outpost Dungeon Quest drops, notable Warrior and Mage loot, level requirements, and practical farming tips for Dungeon Quest Reborn.",
+  "keywords": [
+    "orbital outpost dungeon quest drops",
+    "dungeon quest orbital outpost drops",
+    "dungeon quest reborn orbital outpost",
+    "orbital outpost drops",
+    "orbital outpost loot dungeon quest"
+  ],
+  "primaryKeyword": "orbital outpost dungeon quest drops",
+  "secondaryKeywords": [
+    "dungeon quest orbital outpost drops",
+    "dungeon quest reborn orbital outpost",
+    "orbital outpost drops",
+    "orbital outpost loot dungeon quest",
+    "orbital outpost legendary",
+    "orbital outpost dungeon quest",
+    "dungeon quest orbital outpost weapons"
+  ],
+  "searchIntent": "Find the confirmed Orbital Outpost weapon targets in Dungeon Quest Reborn and decide whether to keep farming them.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "drops",
+  "wordCountTarget": 950,
+  "factsStatus": "verified",
+  "sourceNotes": [
+    "Galactic Dual Blades (Warrior Legendary) and Galactic Pike (Mage Legendary) are recorded on this site's dungeon list, drops table, and August 2026 tier list under the name Outer Orbit. Pro Game Guides, 29 August 2026, uses Outer Orbit for the same pair.",
+    "Dungeonquestreborn.org drops (2 September 2026) and Gamezebo (2 September 2026) use the name Orbital Outpost for Galactic Dual Blades and Galactic Pike. This page uses Orbital Outpost and does not rename Outer Orbit on older pages.",
+    "Additional Outer Orbit weapon names appear on the Pro Game Guides list. They are omitted here so two confirmed targets are not presented as a full loot table. No drop rate, damage, or numeric level gate is published. The level check matches the level-requirements page: live dungeon selector only."
+  ],
+  "hero": {
+    "eyebrow": "Dungeon loot guide · Reviewed September 26, 2026",
+    "heading": "Dungeon Quest Orbital Outpost Drops",
+    "lead": "Orbital Outpost Dungeon Quest drops center on two named Legendary weapons: Galactic Dual Blades for Warrior and Galactic Pike for Mage. The dungeon list on this site records that pair under Outer Orbit. Read the live dungeon selector for the current level gate.",
+    "quickAnswers": [
+      {"question": "What are the named weapons?", "answer": "Galactic Dual Blades for Warrior and Galactic Pike for Mage."},
+      {"question": "Is this a full loot table?", "answer": "These are the notable confirmed targets. Other rewards can still appear."},
+      {"question": "What level is the dungeon?", "answer": "The live dungeon selector shows the current Orbital Outpost gate."},
+      {"question": "Are drop rates published?", "answer": "Exact Orbital Outpost drop rates are not publicly confirmed."}
+    ]
+  },
+  "sections": [
+    {
+      "id": "at-a-glance",
+      "heading": "Orbital Outpost Drops at a Glance",
+      "intro": "Use this page when you want the Galactic weapon pair from Orbital Outpost.",
+      "paragraphs": [
+        "Galactic Dual Blades are the Warrior Legendary. Galactic Pike is the Mage Legendary. The tier list ranks both as advanced weapons that can carry a build before later pools such as Volcanic Chambers, Aquatic Temple, and Enchanted Forest. Pick the weapon that matches the damage stat you already upgrade.",
+        "Older guides on this site say Outer Orbit for this pair. This page says Orbital Outpost. Use either name to reach the same two targets, then confirm the tile in the live dungeon selector before you spend the session."
+      ]
+    },
+    {
+      "id": "drop-list",
+      "heading": "Orbital Outpost Drop List",
+      "intro": "The list below is the notable confirmed target list for Dungeon Quest Reborn.",
+      "paragraphs": [
+        "The orbital outpost dungeon quest drops named here are the two Legendaries already tied to the route. A reward screen can still include armor and other weapons. Compare those cards on their own, and plan the session around the class weapon in the table.",
+        "Read the class column before you upgrade. Dual Blades belong on the physical path. The Pike belongs on the spell path. A strong card for the other class can sit in storage while you keep farming the one you can equip."
+      ],
+      "table": {
+        "caption": "Notable confirmed Orbital Outpost targets",
+        "columns": ["Drop", "Type / Build", "Source", "Farming use"],
+        "rows": [
+          ["Galactic Dual Blades", "Legendary weapon / Warrior", "Orbital Outpost", "Physical weapon target"],
+          ["Galactic Pike", "Legendary weapon / Mage", "Orbital Outpost", "Spell weapon target"]
+        ]
+      }
+    },
+    {
+      "id": "warrior",
+      "heading": "Best Orbital Outpost Drops for Warrior",
+      "intro": "Galactic Dual Blades are the Warrior target to name before the run starts.",
+      "paragraphs": [
+        "For a physical build, compare Galactic Dual Blades with the weapon you clear on today. Look at the main physical stat, the level requirement on the card, and how many upgrades you can afford. A fresh Legendary label is a reason to test the weapon, and the test is a few clears on a route you already finish.",
+        "Keep the previous weapon equipped until the Blades shorten the run or make the boss more reliable. If the card loses that comparison, leave the gold on the working weapon and keep the Blades as a later option. The Blades are an upgrade when the Warrior kit you use gets better."
+      ]
+    },
+    {
+      "id": "mage",
+      "heading": "Best Orbital Outpost Drops for Mage",
+      "intro": "Galactic Pike is the Mage target from the same route.",
+      "paragraphs": [
+        "A spell-power Mage should judge Galactic Pike against the current staff or spell weapon, with the same abilities equipped for the test. Change one weapon at a time so the clear pace tells you what the Pike changed. The spell stat and the requirement on the card matter more than the Legendary name.",
+        "If the Pike is the better card, move upgrades onto it and keep farming only while a further Orbital Outpost reward would still help. If your current spell weapon already wins, store the Pike and put the next session on the dungeon that drops the upgrade you still need."
+      ]
+    },
+    {
+      "id": "level-requirements",
+      "heading": "Orbital Outpost Level Requirements",
+      "intro": "The level gate for Orbital Outpost is the number on the live dungeon selector.",
+      "paragraphs": [
+        "This drops page and the level-requirements page use the same rule. Highlight Orbital Outpost, choose the difficulty you can queue, and read the level printed there. Both guides stay on that same gate.",
+        "A weapon requirement on Galactic Dual Blades or Galactic Pike is a second number, printed on the item card. You can meet the dungeon gate and still be short of the equip requirement, or you can hold the weapon and still fail the clear. Check both in game, then decide whether this difficulty is a farm or a test run.",
+        "The level-requirements guide lists Orbital Outpost in route order with Volcanic Chambers after it. Use that page when you want the full ladder, and use this page when the loot is the question."
+      ],
+      "links": [
+        {"label": "Level requirements", "slug": "level-requirements", "description": "Check Orbital Outpost beside the rest of the route."},
+        {"label": "All drops", "slug": "drops", "description": "Compare this pair with targets from other dungeons."}
+      ]
+    },
+    {
+      "id": "farm",
+      "heading": "How to Farm Orbital Outpost Efficiently",
+      "intro": "Farm one class weapon, on a clear you can repeat, and review the card before you upgrade it.",
+      "paragraphs": [
+        "Write the target down: Galactic Dual Blades or Galactic Pike. Run the difficulty that already reaches the reward screen. Consistent clears matter more than a higher label you fail. Exact Orbital Outpost drop rates are not publicly confirmed, so the plan does not depend on a promised number of runs.",
+        "After each completion, check class, main stat, requirement, and upgrade room. Upgrade one keeper copy. Leave the off-class Legendary alone. If a party changes your clear speed, judge the weapon on a solo or stable-group baseline before you spend the rest of your gold.",
+        "End the session when the equipped Galactic weapon is doing the job, or when a later dungeon you can clear offers a better card. The tier list shows what that later card is."
+      ],
+      "links": [
+        {"label": "Dungeon route list", "slug": "dungeons", "description": "See where this route sits before Volcanic Chambers."},
+        {"label": "Weapons and abilities tier list", "slug": "weapons-abilities-tier-list", "description": "Compare the Galactic pair with later weapon targets."}
+      ]
+    },
+    {
+      "id": "when-to-leave",
+      "heading": "When to Leave Orbital Outpost",
+      "intro": "Leave when the next dungeon you can finish has the upgrade your build still needs.",
+      "paragraphs": [
+        "Volcanic Chambers is the usual next weapon farm, with Lava King's Warscythe for Warrior and Lava King's Spell Daggers for Mage. Move there when you can clear it and the Galactic weapon is no longer the piece holding the build back. Staying on Orbital Outpost after that point repeats a target you have already solved.",
+        "Some accounts should leave earlier. If Orbital Outpost wipes are common, return to the previous stable route, upgrade the working weapon, and come back when one full clear sticks. The dungeon guide covers that progression choice, and the Volcanic Chambers page covers the next named pair.",
+        "On the tier list, the Galactic pair is an advanced step toward later weapons. Enchanted Forest remains the later home of Eden's Vengeance and Eden's Reaper. Leave Orbital Outpost with a clear of the next route and a weapon that still matches your class."
+      ],
+      "links": [
+        {"label": "Volcanic Chambers drops", "slug": "drops/volcanic-chambers", "description": "See the next Legendary weapon pair."}
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "What drops from Orbital Outpost?", "answer": "The notable confirmed orbital outpost dungeon quest drops are Galactic Dual Blades for Warrior and Galactic Pike for Mage. Other rewards can still appear on the reward screen."},
+    {"question": "What level is Orbital Outpost?", "answer": "The live dungeon selector shows the current Orbital Outpost level for the difficulty you select. The level-requirements page uses that same check."},
+    {"question": "What is the best Warrior drop?", "answer": "Galactic Dual Blades are the named Warrior Legendary. Equip them when the card beats your current physical weapon."},
+    {"question": "What is the best Mage drop?", "answer": "Galactic Pike is the named Mage Legendary. Compare it with your current spell weapon before you upgrade it."},
+    {"question": "Are Orbital Outpost drop rates confirmed?", "answer": "Exact Orbital Outpost drop rates are not publicly confirmed. Judge the farm by completed clears and whether the target is still an upgrade."},
+    {"question": "When should I move on from Orbital Outpost?", "answer": "Move on when you can clear the next useful dungeon, often Volcanic Chambers, and the Galactic weapon is no longer the upgrade you need."}
+  ],
+  "faqHeading": "Orbital Outpost FAQ",
+  "screenshots": [],
+  "relatedSlugs": ["drops", "dungeons", "level-requirements", "weapons-abilities-tier-list", "drops/volcanic-chambers"],
+  "densityTargets": [{"term": "orbital outpost dungeon quest drops", "min": 0.3, "max": 3}],
+  "lastReviewed": "2026-09-26"
+}

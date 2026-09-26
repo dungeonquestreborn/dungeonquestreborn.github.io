@@ -1,0 +1,157 @@
+{
+  "enabled": true,
+  "slug": "rending-slice",
+  "pageType": "guide",
+  "navLabel": "Rending Slice",
+  "title": "Rending Slice Dungeon Quest - How to Get & Ability Guide",
+  "description": "Rending Slice Dungeon Quest Reborn guide: see where the Warrior ability drops, how it fits progression, and whether it is worth farming.",
+  "keywords": [
+    "rending slice dungeon quest",
+    "rending slice dungeon quest reborn",
+    "dungeon quest rending slice",
+    "rending slice ability dungeon quest",
+    "how to get rending slice dungeon quest"
+  ],
+  "primaryKeyword": "rending slice dungeon quest",
+  "secondaryKeywords": [
+    "rending slice dungeon quest reborn",
+    "dungeon quest rending slice",
+    "rending slice ability dungeon quest",
+    "how to get rending slice dungeon quest",
+    "rending slice drop dungeon quest",
+    "rending slice warrior dungeon quest"
+  ],
+  "searchIntent": "Find where Rending Slice drops in Dungeon Quest Reborn and decide whether a Warrior should farm it.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "wiki",
+  "wordCountTarget": 950,
+  "factsStatus": "verified",
+  "sourceNotes": [
+    "The live abilities guide and tier list in content/generated/pages.json list Rending Slice as a Warrior ability from Underworld with the role physical progression skill.",
+    "A 9 September 2026 Underworld page on dungeonquestreborn.org also lists Rending Slice as a Warrior ability from that dungeon. That page mixes original-game dates, so it is only a cross-check. No difficulty, damage, cooldown, range, or drop rate is added."
+  ],
+  "hero": {
+    "eyebrow": "Warrior ability guide · Reviewed September 26, 2026",
+    "heading": "Rending Slice Dungeon Quest Reborn",
+    "lead": "Rending Slice is a Warrior ability in Dungeon Quest Reborn. The abilities guide lists its source as Underworld and its role as a physical progression skill. Farm it when a physical build can clear that route and the skill fills a real gap.",
+    "quickAnswers": [
+      {"question": "What is Rending Slice?", "answer": "A Warrior ability used as a physical progression skill."},
+      {"question": "Where does it drop?", "answer": "Underworld."},
+      {"question": "Who should farm it?", "answer": "Warrior players on a physical path who can clear Underworld."},
+      {"question": "Is the drop rate published?", "answer": "The exact Rending Slice drop rate is not publicly confirmed."}
+    ]
+  },
+  "sections": [
+    {
+      "id": "rending-slice-at-a-glance",
+      "heading": "Rending Slice at a Glance",
+      "intro": "Rending Slice dungeon quest searches are usually two questions: where it drops, and whether a Warrior should stay for it.",
+      "table": {
+        "caption": "Rending Slice Dungeon Quest Reborn quick facts",
+        "columns": ["Question", "Current guide answer"],
+        "rows": [
+          ["Type", "Ability"],
+          ["Class", "Warrior"],
+          ["Source", "Underworld"],
+          ["Progression role", "Physical progression skill"],
+          ["Exact rate and ability values", "Not publicly confirmed"]
+        ]
+      },
+      "paragraphs": [
+        "The tier list places Rending Slice with later Warrior options rather than with the first Desert Temple skills. That is a progression role. It means the skill is a physical pickup for a Warrior who has reached Underworld, and it leaves damage, cooldown, and range on the live ability card.",
+        "A Mage spell build has a different target list. Rending Slice dungeon quest reborn farming is a Warrior plan. If your equipped weapon and points are spell power, use the ability guide to pick a Mage skill from a route you can clear."
+      ]
+    },
+    {
+      "id": "how-to-get-rending-slice",
+      "heading": "How to Get Rending Slice in Dungeon Quest Reborn",
+      "intro": "Rending Slice comes from Underworld clears you can finish.",
+      "steps": [
+        {"heading": "Set Underworld as the source", "description": "Open the live dungeon selector and choose the Underworld tile you can enter."},
+        {"heading": "Clear a difficulty you finish", "description": "The abilities guide does not tie Rending Slice to one difficulty label. Use a clear you can repeat."},
+        {"heading": "Read the ability card", "description": "When Rending Slice drops, compare it with the Warrior skills you already cast."}
+      ],
+      "paragraphs": [
+        "Dungeon quest rending slice drops are listed from Underworld, alongside the route's place in the mid-game ability band. Whirlwind, Slam, and Gale Slice come from earlier dungeons. Phantom Blades and Berserk are other later Warrior skills with their own sources. Knowing the dungeon is the part you can plan. The difficulty you queue is the one the selector opens and your build survives.",
+        "The exact Rending Slice drop rate is not publicly confirmed. Count completed runs, look at the reward, and keep a working rotation equipped while you farm. A long session still does not create a published percentage."
+      ],
+      "links": [
+        {"label": "Abilities and spells", "slug": "abilities", "description": "See Rending Slice beside the other confirmed Warrior skills."},
+        {"label": "Drops by dungeon", "slug": "drops", "description": "Match named weapons and abilities to their routes."}
+      ]
+    },
+    {
+      "id": "what-rending-slice-does",
+      "heading": "What Does Rending Slice Do?",
+      "intro": "The confirmed description is the role: a Warrior physical progression skill.",
+      "paragraphs": [
+        "This guide can place Rending Slice on a physical Warrior loadout and on the Underworld source. It cannot assign a damage number, a cooldown, or a range. Those details belong on the ability card in your client. Read that card when the skill drops, then try it in a route you already understand.",
+        "Use it as a physical attack option in the rotation you cast today. Keep the weapon and the other skills the same for a few clears. Watch whether rooms and the boss stay comfortable. That test tells you if the new skill helps this account.",
+        "Enhanced Inner Rage, from Enchanted Forest Nightmare, is the later physical buff on the ability list. Rending Slice can be the skill you use before that buff is available. It can also be a skill you replace once the buff and a stronger weapon solve the same fights. The card and the clear decide which one it is."
+      ]
+    },
+    {
+      "id": "worth-farming",
+      "heading": "Is Rending Slice Worth Farming?",
+      "intro": "Rending Slice is worth a focused Underworld session when three things line up.",
+      "subsections": [
+        {"heading": "Worth prioritizing", "paragraphs": ["You play Warrior, your points and weapon are physical, and Underworld already ends in a reward screen. Rending Slice is a named skill target for that account."]},
+        {"heading": "Compare, then decide", "paragraphs": ["You already clear with Whirlwind, Slam, or another physical skill. Test Rending Slice for a few runs before you rebuild the bar around it."]},
+        {"heading": "Wait", "paragraphs": ["Underworld wipes are common, or the build is spell power. Fix the clear or stay on the Mage skill you can actually use."]},
+        {"heading": "Replacement lifespan", "paragraphs": ["Treat it as a progression skill. It can carry a physical bar now and still give way to Phantom Blades, Berserk, or Enhanced Inner Rage when those sources are open."]}
+      ],
+      "paragraphs": [
+        "The skill is worth the time when it fills a gap in the physical rotation. If the physical rotation is the weak part of a stable Underworld clear, spend the session here. If the weapon is the weak part, a weapon farm on a route you finish will change the clear more than another skill you cannot reach.",
+        "The dungeon guide shows where Underworld-era routes sit. The tier list shows how this skill ranks against later Warrior abilities. Use both when the question shifts from where it drops to what you should chase next."
+      ]
+    },
+    {
+      "id": "comparisons",
+      "heading": "Rending Slice vs Other Warrior Abilities",
+      "intro": "Compare source and job. Leave damage percentages off the decision.",
+      "table": {
+        "caption": "Warrior ability roles around Rending Slice",
+        "columns": ["Ability", "Source", "Role on this site", "When it is the better target"],
+        "rows": [
+          ["Rending Slice", "Underworld", "Physical progression skill", "You clear Underworld and need a physical skill"],
+          ["Whirlwind", "Desert Temple Easy", "Multi-target room clear", "Early rooms are the problem"],
+          ["Slam", "Desert Temple Medium", "Early physical attack", "You are still on Desert Temple"],
+          ["Gale Slice", "Winter Outpost Easy", "Early physical skill", "You are on the Winter Outpost step"],
+          ["Phantom Blades", "Ghost Harbor", "Close-range area damage", "Groups at Ghost Harbor are the goal"],
+          ["Berserk", "Samurai Palace", "Physical self-buff", "You want a buff from Samurai Palace"]
+        ]
+      },
+      "paragraphs": [
+        "Whirlwind and Slam are earlier Desert Temple skills. Gale Slice is the Winter Outpost Easy option. They are the wrong comparison once Underworld is the dungeon you can farm, and they are the right comparison if you have not reached it. Phantom Blades and Berserk are other later Warrior tools with their own dungeons. Enhanced Inner Rage remains the endgame physical buff from Enchanted Forest Nightmare.",
+        "Choose by the route you finish and the hole in the bar. A room-clear skill, a straightforward physical attack, and a self-buff solve different pulls. Rending Slice fills the physical progression slot from Underworld until a later source replaces it on your account."
+      ],
+      "links": [
+        {"label": "Dungeon progression", "slug": "dungeons", "description": "See the route around the Underworld ability band."},
+        {"label": "Weapons and abilities tier list", "slug": "weapons-abilities-tier-list", "description": "See how later Warrior skills are ranked."}
+      ]
+    },
+    {
+      "id": "farming-tips",
+      "heading": "Rending Slice Farming Tips",
+      "intro": "Keep the session short enough that you still know whether the skill is the goal.",
+      "paragraphs": [
+        "Confirm Underworld in the selector and bring the physical weapon you already trust. Queue a difficulty you have finished. Check the reward for Rending Slice, and also keep any weapon upgrade that matches the same Warrior path. One named skill does not mean every other card is trash.",
+        "If clears slow down, stop and fix the loadout before you add more runs. The ability guide and the dungeon list are the faster way to find a target you can reach. When Underworld is stable, repeat it, read the card, and equip Rending Slice when it improves the physical rotation you use on the next dungeon.",
+        "Leave the farm when the skill is equipped and working, or when a later Warrior ability from a dungeon you can clear is the better next step. The decision is the source, the class, and whether the clear is real."
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "Where does Rending Slice drop?", "answer": "Rending Slice is listed as a Warrior ability from Underworld."},
+    {"question": "Is Rending Slice a Warrior ability?", "answer": "Yes. It is a Warrior physical progression skill, so it belongs on a physical build."},
+    {"question": "Is Rending Slice good?", "answer": "It is a useful Warrior progression target when you can clear Underworld and your physical rotation needs another skill. Later abilities can replace it."},
+    {"question": "What dungeon drops Rending Slice?", "answer": "Underworld. The abilities guide does not tie it to a single difficulty, so use a difficulty you can finish."},
+    {"question": "Is the Rending Slice drop rate confirmed?", "answer": "The exact Rending Slice drop rate is not publicly confirmed. Plan around completed Underworld clears."}
+  ],
+  "faqHeading": "Rending Slice FAQ",
+  "screenshots": [],
+  "relatedSlugs": ["abilities", "drops", "dungeons", "weapons-abilities-tier-list"],
+  "densityTargets": [{"term": "rending slice dungeon quest", "min": 0.3, "max": 3}],
+  "lastReviewed": "2026-09-26"
+}

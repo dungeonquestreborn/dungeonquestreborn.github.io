@@ -1,0 +1,162 @@
+{
+  "enabled": true,
+  "slug": "ultimates",
+  "pageType": "guide",
+  "navLabel": "Ultimates",
+  "title": "Dungeon Quest Reborn Ultimates - How to Get Them",
+  "description": "Dungeon Quest Reborn Ultimates guide: current Warrior and Mage Ultimate weapons, where they drop, and how to plan an efficient Ultimate farm.",
+  "keywords": [
+    "dungeon quest reborn ultimate",
+    "dungeon quest reborn ultimates",
+    "dungeon quest ultimate",
+    "dungeon quest ultimate weapons",
+    "how to get ultimates dungeon quest"
+  ],
+  "primaryKeyword": "dungeon quest reborn ultimate",
+  "secondaryKeywords": [
+    "dungeon quest reborn ultimates",
+    "dungeon quest ultimate",
+    "dungeon quest ultimate weapons",
+    "how to get ultimates dungeon quest",
+    "dungeon quest ultimate drops",
+    "best ultimate dungeon quest reborn",
+    "warrior ultimate dungeon quest",
+    "mage ultimate dungeon quest"
+  ],
+  "searchIntent": "See which Ultimate weapons exist for Warrior and Mage in Dungeon Quest Reborn, where they drop, and how to farm one without a fake drop rate.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "wiki",
+  "wordCountTarget": 1050,
+  "factsStatus": "verified",
+  "sourceNotes": [
+    "Eden's Vengeance and Eden's Reaper are Warrior and Mage Ultimates from Enchanted Forest on this site's tier list, drops guide, and Eldenbark page. Hofund and Laevateinn are the Warrior and Mage Ultimates from Northern Lands. Mjolnir and Gungnir are the Northern Lands Legendaries. Eldenbark Greatsword and Eldenbark Greatstaff are Enchanted Forest Legendaries.",
+    "Spelling on this page is Laevateinn, matching the live tier list and dungeon guide. A 2 September 2026 community dungeon table also prints Laevattein on one page and Laevateinn on its weapons page. Older pages on this site are left unchanged.",
+    "The 3 September 2026 how-to-get-ultimates note on dungeonquestrebornn.wiki places the Eden pair on Enchanted Forest and treats creator percentages as unverified. This page publishes no Ultimate drop rate. Nightmare is confirmed here for Enhanced Inner buffs, and is not stated as a separate difficulty guarantee for the Ultimate weapons."
+  ],
+  "hero": {
+    "eyebrow": "Ultimate weapons · Reviewed September 26, 2026",
+    "heading": "Dungeon Quest Reborn Ultimates",
+    "lead": "A Dungeon Quest Reborn Ultimate is a weapon tier above Legendary for one class. Warrior players chase Eden's Vengeance and Hofund. Mage players chase Eden's Reaper and Laevateinn. The dungeon is Enchanted Forest or Northern Lands, and the exact drop rate is not publicly confirmed.",
+    "quickAnswers": [
+      {"question": "What is an Ultimate?", "answer": "A class weapon above Legendary. It still has to match Warrior or Mage."},
+      {"question": "Where are the Eden Ultimates?", "answer": "Eden's Vengeance and Eden's Reaper come from Enchanted Forest."},
+      {"question": "Where are Hofund and Laevateinn?", "answer": "Northern Lands. Hofund is the Warrior Ultimate and Laevateinn is the Mage Ultimate."},
+      {"question": "What is the drop rate?", "answer": "The exact Ultimate drop rate is not publicly confirmed."}
+    ]
+  },
+  "sections": [
+    {
+      "id": "ultimates-at-a-glance",
+      "heading": "Dungeon Quest Reborn Ultimates at a Glance",
+      "intro": "Four named Ultimates are confirmed on this site. Farm the row that matches your class.",
+      "table": {
+        "caption": "Dungeon Quest Reborn Ultimate weapons",
+        "columns": ["Ultimate", "Class", "Source", "Why players farm it"],
+        "rows": [
+          ["Eden's Vengeance", "Warrior", "Enchanted Forest", "Top current Warrior chase weapon"],
+          ["Eden's Reaper", "Mage", "Enchanted Forest", "Top current Mage chase weapon"],
+          ["Hofund", "Warrior", "Northern Lands", "Late Warrior Ultimate from the Nordic route"],
+          ["Laevateinn", "Mage", "Northern Lands", "Late Mage Ultimate from the Nordic route"]
+        ]
+      },
+      "paragraphs": [
+        "That class split is the whole planning step. Eden's Vengeance and Hofund belong on a physical Warrior. Eden's Reaper and Laevateinn belong on a spell-power Mage. Lock the class before you spend a long session on either dungeon.",
+        "The tier list still ranks Eden's Vengeance and Eden's Reaper as the leading current targets. Hofund and Laevateinn remain real Northern Lands goals beside them. Compare the item card you receive with the weapon you already clear on."
+      ]
+    },
+    {
+      "id": "how-to-get-ultimates",
+      "heading": "How to Get Ultimates in Dungeon Quest Reborn",
+      "intro": "You get a Dungeon Quest Reborn Ultimate by clearing the listed dungeon with a build that can equip it.",
+      "steps": [
+        {"heading": "Lock the class", "description": "Choose Warrior for Eden's Vengeance or Hofund, or Mage for Eden's Reaper or Laevateinn."},
+        {"heading": "Open the listed source", "description": "Enchanted Forest for the Eden pair. Northern Lands for Hofund and Laevateinn."},
+        {"heading": "Finish a stable clear", "description": "Repeat a difficulty you can complete. A wipe does not roll the reward you are counting on."},
+        {"heading": "Compare the item card", "description": "Check class, main stat, requirement, and upgrade state before you spend gold."}
+      ],
+      "paragraphs": [
+        "Dungeon quest ultimate weapons are dungeon rewards, so the route has to reach the reward screen. Set one Ultimate as the goal and keep one Legendary from the same dungeon as an acceptable result. That keeps a strong Eldenbark weapon or a strong Northern Lands Legendary from being ignored while the Ultimate is still outstanding.",
+        "There is no published run count that guarantees a drop. Plan a session you can finish, review the cards, and stop when the equipped weapon already solves the content you are running."
+      ]
+    },
+    {
+      "id": "warrior-ultimates",
+      "heading": "Warrior Ultimates",
+      "intro": "The Warrior Ultimate list on this site is Eden's Vengeance and Hofund.",
+      "paragraphs": [
+        "Eden's Vengeance is the Enchanted Forest Warrior Ultimate and the priority physical chase on the current tier list. It belongs with a physical weapon path and with Enhanced Inner Rage once you can farm that Nightmare buff. Hofund is the Northern Lands Warrior Ultimate. It is a late physical target in the same band as Mjolnir, the Northern Lands Warrior Legendary.",
+        "A Warrior who can clear Enchanted Forest has a direct Vengeance farm. A Warrior who clears Northern Lands more reliably can pursue Hofund and still compare Mjolnir as the Legendary result from that dungeon. Both are Warrior weapons. The useful one is the card that improves the clears you already run."
+      ]
+    },
+    {
+      "id": "mage-ultimates",
+      "heading": "Mage Ultimates",
+      "intro": "The Mage Ultimate list on this site is Eden's Reaper and Laevateinn.",
+      "paragraphs": [
+        "Eden's Reaper is the Enchanted Forest Mage Ultimate and the leading spell-weapon chase. Pair the plan with Enhanced Inner Focus when Nightmare is a clear you can finish. Laevateinn is the Northern Lands Mage Ultimate. Gungnir is the Mage Legendary from that same dungeon, so a Northern Lands session can improve the staff even when the Ultimate does not appear.",
+        "Keep the Mage farm on spell power. A Reaper or Laevateinn card still has to beat the staff you can equip and upgrade now. Read the live requirement and the spell stat before you move gold onto the new weapon."
+      ]
+    },
+    {
+      "id": "enchanted-forest-ultimates",
+      "heading": "Enchanted Forest Ultimates",
+      "intro": "Enchanted Forest holds both Eden Ultimates and the Eldenbark Legendary pair.",
+      "paragraphs": [
+        "Eden's Vengeance and Eden's Reaper are the Dungeon Quest Reborn Ultimate rewards associated with Enchanted Forest. Eldenbark Greatsword is the Warrior Legendary from the same dungeon, and Eldenbark Greatstaff is the Mage Legendary. The enhanced buffs, Enhanced Inner Rage and Enhanced Inner Focus, are listed for Nightmare.",
+        "Treat the weapon goal and the buff goal as separate queues. A weapon session can accept the matching Eldenbark piece as a real upgrade. A buff session belongs on Nightmare when that difficulty is stable. The Eldenbark guide covers the Legendary pair in more detail, and the Enchanted Forest drops page lists the named targets together."
+      ],
+      "links": [
+        {"label": "Eldenbark weapons", "slug": "eldenbark", "description": "Compare the Greatsword and Greatstaff with the Eden chase."},
+        {"label": "Enchanted Forest drops", "slug": "drops/enchanted-forest", "description": "See the named weapon and Nightmare buff targets."}
+      ]
+    },
+    {
+      "id": "northern-lands-ultimates",
+      "heading": "Northern Lands Ultimates",
+      "intro": "Northern Lands is the other confirmed Ultimate dungeon on this site.",
+      "paragraphs": [
+        "Hofund is the Warrior Ultimate and Laevateinn is the Mage Ultimate. Mjolnir and Gungnir are the Legendary weapons listed beside them. A Northern Lands farm should name one class target before the first run so a reward for the other class does not reset the plan.",
+        "The exact Ultimate drop rate for Northern Lands is not publicly confirmed. Finish the clears you can repeat, compare Hofund or Laevateinn with the Legendary from the same class, and keep the weapon that shortens the route you are actually running. The live item card remains the check for requirement and stat."
+      ]
+    },
+    {
+      "id": "ultimate-vs-legendary",
+      "heading": "Ultimate vs Legendary",
+      "intro": "Ultimate is the higher named tier. A Legendary from the same dungeon can still be the weapon you should equip.",
+      "paragraphs": [
+        "On Enchanted Forest, compare Eden's Vengeance with Eldenbark Greatsword, or Eden's Reaper with Eldenbark Greatstaff. On Northern Lands, compare Hofund with Mjolnir, or Laevateinn with Gungnir. The tier list places the Eden Ultimates at the top of the compact ranking and treats the Eldenbark weapons as strong alternatives from the same source.",
+        "Rarity decides the label. The card decides the upgrade. If the Legendary is equippable, matches your stat, and clears faster than your current weapon, use it while the Ultimate farm continues. If the Ultimate is the weaker card after requirement and upgrade state, leave it in the inventory until it is actually an upgrade.",
+        "The full S-to-D ranking lives on the tier list. Drop rates for both rarities stay on the drop-rate page, which is where the unpublished-rate rule is explained."
+      ],
+      "links": [
+        {"label": "Weapons and abilities tier list", "slug": "weapons-abilities-tier-list", "description": "See where Ultimates and Legendaries sit in the current ranking."},
+        {"label": "Drop rates", "slug": "drop-rates", "description": "See why exact Ultimate and Legendary chances are unpublished."},
+        {"label": "Dungeon progression", "slug": "dungeons", "description": "Place Enchanted Forest and Northern Lands on the route."}
+      ]
+    },
+    {
+      "id": "farm-ultimates",
+      "heading": "How to Farm Ultimates Efficiently",
+      "intro": "An efficient Ultimate farm is a finished clear, a class target, and a stop condition.",
+      "paragraphs": [
+        "Enter only on a difficulty you have already completed cleanly. Keep the rest of the loadout stable so a new party or a swapped ability does not disguise what the weapon changed. After each reward screen, check class first, then the main stat, the requirement, and how many upgrades the copy still has.",
+        "Stop the dungeon quest reborn ultimate farm when the equipped weapon is no longer the bottleneck. That can mean you received the Ultimate and it is the better card, or it can mean the matching Legendary already carries the next dungeon. Continuing after that point spends time the tier list would assign to a buff, a different route, or a simple gold upgrade on the keeper you use.",
+        "Sell or store the off-class Ultimate. It is a valid drop and a poor reason to respec a working Warrior or Mage in the middle of the session."
+      ]
+    }
+  ],
+  "faq": [
+    {"question": "What are Ultimates in Dungeon Quest Reborn?", "answer": "Ultimates are class weapons above Legendary. The confirmed set is Eden's Vengeance, Eden's Reaper, Hofund, and Laevateinn."},
+    {"question": "How do you get an Ultimate?", "answer": "Match your class, clear Enchanted Forest for an Eden weapon or Northern Lands for Hofund or Laevateinn, and compare the item card before you upgrade it."},
+    {"question": "What is the Warrior Ultimate?", "answer": "Eden's Vengeance from Enchanted Forest is the leading Warrior Ultimate. Hofund from Northern Lands is the other Warrior Ultimate."},
+    {"question": "What is the Mage Ultimate?", "answer": "Eden's Reaper from Enchanted Forest is the leading Mage Ultimate. Laevateinn from Northern Lands is the other Mage Ultimate."},
+    {"question": "Where do Eden's Vengeance and Eden's Reaper drop?", "answer": "Both are associated with Enchanted Forest. Vengeance is the Warrior weapon and Reaper is the Mage weapon."},
+    {"question": "What is the Ultimate drop rate?", "answer": "The exact Ultimate drop rate is not publicly confirmed. Plan around completed clears rather than a promised number of runs."}
+  ],
+  "faqHeading": "Ultimates FAQ",
+  "screenshots": [],
+  "relatedSlugs": ["weapons-abilities-tier-list", "drop-rates", "drops/enchanted-forest", "eldenbark"],
+  "densityTargets": [{"term": "dungeon quest reborn ultimate", "min": 0.3, "max": 3}],
+  "lastReviewed": "2026-09-26"
+}
