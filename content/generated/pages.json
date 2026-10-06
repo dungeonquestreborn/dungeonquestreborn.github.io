@@ -719,7 +719,7 @@
       {"question": "What dungeon should I farm?", "answer": "Farm the highest dungeon you can clear consistently that contains a useful target for your current build."}
     ],
     "screenshots": [],
-    "relatedSlugs": ["dungeons", "weapons-abilities-tier-list", "wiki", "drops/orbital-outpost", "ultimates"],
+    "relatedSlugs": ["dungeons", "weapons-abilities-tier-list", "wiki", "drops/orbital-outpost", "ultimates", "drops/northern-lands"],
     "densityTargets": [{"term": "dungeon quest reborn drops", "min": 0.3, "max": 1.2}],
     "lastReviewed": "2026-08-30"
   },
@@ -977,7 +977,7 @@
     ],
     "faqHeading": "Drop Rate FAQ",
     "screenshots": [],
-    "relatedSlugs": ["ultimates"],
+    "relatedSlugs": ["ultimates", "eir-eif", "pot"],
     "lastReviewed": "2026-09-05"
   },
   {
@@ -1133,7 +1133,7 @@
     ],
     "faqHeading": "Dungeon Quest Reborn Abilities FAQ",
     "screenshots": [],
-    "relatedSlugs": ["rending-slice"],
+    "relatedSlugs": ["rending-slice", "eir-eif", "holy-barrier"],
     "lastReviewed": "2026-09-05"
   },
   {
@@ -1274,6 +1274,7 @@
     ],
     "faqHeading": "Desert Temple Drops FAQ",
     "screenshots": [],
+    "relatedSlugs": ["holy-barrier"],
     "lastReviewed": "2026-09-05"
   }
 ]

@@ -156,7 +156,7 @@
   ],
   "faqHeading": "Ultimates FAQ",
   "screenshots": [],
-  "relatedSlugs": ["weapons-abilities-tier-list", "drop-rates", "drops/enchanted-forest", "eldenbark"],
+  "relatedSlugs": ["weapons-abilities-tier-list", "drop-rates", "drops/enchanted-forest", "eldenbark", "drops/northern-lands"],
   "densityTargets": [{"term": "dungeon quest reborn ultimate", "min": 0.3, "max": 3}],
   "lastReviewed": "2026-09-26"
 }

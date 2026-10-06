@@ -1,0 +1,217 @@
+{
+  "enabled": true,
+  "slug": "drops/northern-lands",
+  "pageType": "database",
+  "navLabel": "Northern Lands",
+  "title": "Dungeon Quest Northern Lands Drops & Loot Guide",
+  "description": "Dungeon Quest Northern Lands drops guide with Hofund, Laevateinn, Mjolnir, Gungnir, class targets, and practical late-game farming advice.",
+  "keywords": [
+    "dungeon quest northern lands drops",
+    "northern lands dungeon quest drops",
+    "dungeon quest reborn northern lands",
+    "northern lands drops dungeon quest",
+    "dungeon quest northern lands loot",
+    "northern lands legendary dungeon quest",
+    "northern lands ultimate dungeon quest",
+    "dungeon quest hofund",
+    "dungeon quest mjolnir",
+    "dungeon quest gungnir",
+    "dungeon quest laevateinn"
+  ],
+  "primaryKeyword": "dungeon quest northern lands drops",
+  "secondaryKeywords": [
+    "northern lands dungeon quest drops",
+    "dungeon quest reborn northern lands",
+    "northern lands drops dungeon quest",
+    "dungeon quest northern lands loot",
+    "northern lands legendary dungeon quest",
+    "northern lands ultimate dungeon quest",
+    "dungeon quest hofund",
+    "dungeon quest mjolnir",
+    "dungeon quest gungnir",
+    "dungeon quest laevateinn"
+  ],
+  "searchIntent": "Northern Lands drops include Hofund for Warriors, Laevateinn for Mages, and the late-game weapons Mjolnir and Gungnir. Choose the target that fits your physical or spell build, then compare the reward card before upgrading. Exact drop rates are not publicly confirmed.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "drops",
+  "wordCountTarget": 900,
+  "sourceNotes": [
+    "P0: content/generated/pages.json drops and dungeons, content/guides/ultimates.json and level-requirements.json identify Hofund as Warrior Ultimate, Laevateinn as Mage Ultimate, and Mjolnir/Gungnir as Northern Lands late-game weapon targets.",
+    "Research checked 2026-10-06: https://dungeonquestreborn.org/tier-list and https://dungeonquestrebornn.wiki/guides/northern-lands-dungeon/ agree on the four class weapon targets. https://dungeonquest.wiki/guides/northern-lands/ uses conflicting Hofund class wording and numeric gates. Retain repository classifications; omit precise stats, gates, bosses, difficulty guarantees and probabilities. Existing pages are unchanged.",
+    "Farming and upgrade comparisons are editorial decision guidance, not measured performance claims."
+  ],
+  "hero": {
+    "eyebrow": "Dungeon Quest Reborn guide · Reviewed October 6, 2026",
+    "heading": "Dungeon Quest Northern Lands Drops",
+    "lead": "Northern Lands drops include Hofund for Warriors, Laevateinn for Mages, and the late-game weapons Mjolnir and Gungnir. Choose the target that fits your physical or spell build, then compare the reward card before upgrading. Exact drop rates are not publicly confirmed."
+  },
+  "sections": [
+    {
+      "id": "at-a-glance",
+      "heading": "Northern Lands Drops at a Glance",
+      "paragraphs": [
+        "These four named targets give a Northern Lands farming session a clear purpose. Hofund and Laevateinn are the class Ultimate weapons in this guide; Mjolnir and Gungnir are Legendary alternatives. The table is a selected target list, rather than a complete inventory of every ordinary weapon, armor piece, or ability reward."
+      ],
+      "table": {
+        "caption": "Selected Northern Lands loot targets",
+        "columns": [
+          "Drop",
+          "Class / Type",
+          "Source",
+          "Farming Role"
+        ],
+        "rows": [
+          [
+            "Hofund",
+            "Warrior Ultimate weapon",
+            "Northern Lands",
+            "Physical weapon chase"
+          ],
+          [
+            "Laevateinn",
+            "Mage Ultimate weapon",
+            "Northern Lands",
+            "Spell weapon chase"
+          ],
+          [
+            "Mjolnir",
+            "Warrior Legendary weapon",
+            "Northern Lands",
+            "Physical alternative to compare"
+          ],
+          [
+            "Gungnir",
+            "Mage Legendary weapon",
+            "Northern Lands",
+            "Spell alternative to compare"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "drop-list",
+      "heading": "Northern Lands Drop List",
+      "paragraphs": [
+        "Ultimate and Legendary describe different weapon targets; neither label tells you whether the particular copy in your inventory improves your equipped setup. Start with the class and damage stat. A Mage chasing Laevateinn does not solve a spell-build problem by receiving Hofund, even though both are valuable named rewards.",
+        "The source here is Northern Lands. Check the live loot information for your selected difficulty before a long session. This guide does not assign an unconfirmed boss, difficulty guarantee, damage value, or exact chance to these weapons. Keep the reward screen and item card together when recording a new drop."
+      ],
+      "links": [
+        {
+          "label": "All drops by dungeon",
+          "slug": "drops",
+          "description": "Compare Northern Lands with the other named loot routes."
+        }
+      ]
+    },
+    {
+      "id": "warrior",
+      "heading": "Best Northern Lands Drops for Warrior",
+      "paragraphs": [
+        "A Warrior can pursue Hofund while evaluating Mjolnir as a usable physical weapon. Inspect the physical stat, equipment requirement, and upgrade state against the weapon you already use. A promising unupgraded reward and a fully invested equipped weapon need a fair comparison before you commit Gold.",
+        "Keep your existing weapon until the replacement has completed your usual route. Test with the same physical abilities and points so an unrelated build change does not disguise the result. If Mjolnir already removes the current obstacle, continuing solely for the Ultimate name may be less useful than improving the next weak part of the setup."
+      ]
+    },
+    {
+      "id": "mage",
+      "heading": "Best Northern Lands Drops for Mage",
+      "paragraphs": [
+        "Laevateinn is the Mage Ultimate objective; Gungnir is the matching Legendary weapon to compare. Focus on the spell-power side of the item card and whether your current abilities can use that improvement. A physical weapon with an impressive number is still a different damage path.",
+        "For a practical comparison, keep the rest of your Mage loadout unchanged and run the same dungeon again. Watch room completion and boss progress as well as survival. Upgrade the candidate that helps the account finish content, rather than assigning a fictional DPS ranking to weapon names."
+      ]
+    },
+    {
+      "id": "ultimates",
+      "heading": "Northern Lands Ultimates",
+      "paragraphs": [
+        "Hofund and Laevateinn are separate class weapons: Warrior and Mage respectively. Treat obtaining one as the start of an equipment comparison, not an automatic instruction to change class. The broader Ultimate guide also covers the Eden weapons from Enchanted Forest, which remain relevant alternatives for late-game planning.",
+        "Choose a weapon source because it supplies the missing piece for your build. An Ultimate farm should have a stop condition, such as a usable replacement or a decision to pursue another route. No number of completed runs guarantees either Northern Lands Ultimate."
+      ],
+      "links": [
+        {
+          "label": "Ultimate weapon guide",
+          "slug": "ultimates",
+          "description": "Compare the Northern Lands and Enchanted Forest class pairs."
+        }
+      ]
+    },
+    {
+      "id": "level-and-progression",
+      "heading": "Northern Lands Level and Progression",
+      "paragraphs": [
+        "Northern Lands belongs to the late-game route. Check the live dungeon selector for the current entry requirement. Read the requirement for the actual difficulty you intend to queue, and check a new weapon's equip requirement separately; access to the dungeon and access to an item are different checks.",
+        "Meeting the entry gate does not establish that repeated clears will be comfortable. If attempts regularly end before rewards, practice the route and improve the existing loadout first. Use progression as a way to find the next attainable goal, rather than relying on an old numeric level chart."
+      ],
+      "links": [
+        {
+          "label": "Level requirements guide",
+          "slug": "level-requirements",
+          "description": "Read dungeon gates and item requirements separately."
+        },
+        {
+          "label": "Dungeon progression",
+          "slug": "dungeons",
+          "description": "Place Northern Lands within the wider route."
+        }
+      ]
+    },
+    {
+      "id": "farm",
+      "heading": "How to Farm Northern Lands Efficiently",
+      "paragraphs": [
+        "Pick one class-specific primary target and one acceptable interim weapon. Use a setup that already completes the route. After each reward screen, compare the exact item name, damage path, roll, and current upgrade state. Save interesting candidates for a calm inventory comparison instead of rebuilding between every run.",
+        "Keep solo and party observations separate, and record failed attempts as well as completed clears when judging the route. Repeated wipes are a reason to adjust the build or setting, not evidence of bad loot luck. Take useful interim upgrades and avoid budgeting around a promised number of attempts."
+      ]
+    },
+    {
+      "id": "when-to-leave",
+      "heading": "When to Leave Northern Lands",
+      "paragraphs": [
+        "Continue when a matching Northern Lands weapon still addresses a clear equipment gap and the route produces reliable rewards. Move on when the equipped weapon already carries the next objective, when another ability is the bottleneck, or when the session has become mostly unsuccessful attempts.",
+        "Enchanted Forest offers the Eden and Eldenbark class pairs as alternative late-game weapon goals. Compare the items you can actually use and the routes you can finish. A useful next farm may be a buff or another weapon source; there is no need to declare one dungeon universally best for every account."
+      ],
+      "links": [
+        {
+          "label": "Weapons and abilities tier list",
+          "slug": "weapons-abilities-tier-list",
+          "description": "Choose the next upgrade by class and progression role."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What drops from Northern Lands in Dungeon Quest Reborn?",
+      "answer": "This selected list covers Hofund, Laevateinn, Mjolnir, and Gungnir. It is a guide to named weapon targets, not a complete loot pool."
+    },
+    {
+      "question": "Where does Hofund drop?",
+      "answer": "Hofund is listed from Northern Lands as a Warrior Ultimate weapon. Check the live loot information for the selected difficulty."
+    },
+    {
+      "question": "Where does Laevateinn drop?",
+      "answer": "Laevateinn is listed from Northern Lands as the Mage Ultimate weapon."
+    },
+    {
+      "question": "Is Mjolnir a Northern Lands drop?",
+      "answer": "Yes. Mjolnir is the Northern Lands Warrior Legendary target in this guide; Gungnir is the Mage counterpart."
+    },
+    {
+      "question": "What is the Northern Lands drop rate?",
+      "answer": "Exact drop rates are not publicly confirmed. A personal run log describes that sample and does not establish universal odds."
+    },
+    {
+      "question": "What level is Northern Lands?",
+      "answer": "Use the live dungeon selector for the current requirement and selected difficulty. Check item equip requirements separately."
+    }
+  ],
+  "faqHeading": "Northern Lands FAQ",
+  "relatedSlugs": [
+    "drops",
+    "dungeons",
+    "ultimates",
+    "level-requirements",
+    "weapons-abilities-tier-list"
+  ],
+  "lastReviewed": "2026-10-06"
+}

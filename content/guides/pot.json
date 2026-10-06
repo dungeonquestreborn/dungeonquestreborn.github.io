@@ -1,0 +1,220 @@
+{
+  "enabled": true,
+  "slug": "pot",
+  "pageType": "guide",
+  "navLabel": "Pot Guide",
+  "title": "Dungeon Quest Reborn Pot & God Pot Guide",
+  "description": "Dungeon Quest Reborn Pot guide: learn what Pot and God Pot mean, how Potential affects item rolls, and compare weapons and armor before upgrading.",
+  "keywords": [
+    "dungeon quest reborn pot",
+    "dungeon quest pot",
+    "dungeon quest reborn god pot",
+    "god pot dungeon quest",
+    "dungeon quest pot meaning",
+    "what is pot dungeon quest",
+    "dungeon quest potential",
+    "dungeon quest pot list",
+    "good pot dungeon quest",
+    "god pot weapon dungeon quest"
+  ],
+  "primaryKeyword": "dungeon quest reborn pot",
+  "secondaryKeywords": [
+    "dungeon quest pot",
+    "dungeon quest reborn god pot",
+    "god pot dungeon quest",
+    "dungeon quest pot meaning",
+    "what is pot dungeon quest",
+    "dungeon quest potential",
+    "dungeon quest pot list",
+    "good pot dungeon quest",
+    "god pot weapon dungeon quest"
+  ],
+  "searchIntent": "Pot is short for Potential: the roll quality of a weapon or armor piece. God Pot means the highest possible roll for that item, rather than a separate rarity. Compare copies of the same item and their upgrade state before spending Gold.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "wiki",
+  "wordCountTarget": 900,
+  "sourceNotes": [
+    "Research checked 2026-10-06: https://dungeonquest.wiki/guides/god-pot/ and https://dungeonquestreborn.net/items/ (both dated September 21, 2026) support Potential as weapon/armor roll quality, God Pot as the maximum roll of that item, and upgrades as separate investment. These are current Reborn fan guides, not an official numeric specification.",
+    "Only the shared basic definitions are used. No numeric scale, good-Pot threshold, exact roll formula, maximum stat, rarity probability, price list, trading rule or currency/gamepass detail is imported. The card-comparison checklist and spending scenarios are original editorial guidance.",
+    "This is a Potential intent page, not a full item database or duplicate drop-rate guide."
+  ],
+  "hero": {
+    "eyebrow": "Dungeon Quest Reborn guide · Reviewed October 6, 2026",
+    "heading": "Dungeon Quest Reborn Pot & God Pot",
+    "lead": "Pot is short for Potential: the roll quality of a weapon or armor piece. God Pot means the highest possible roll for that item, rather than a separate rarity. Compare copies of the same item and their upgrade state before spending Gold."
+  },
+  "sections": [
+    {
+      "id": "pot-meaning",
+      "heading": "What Does Pot Mean in Dungeon Quest Reborn?",
+      "paragraphs": [
+        "Potential describes how a particular copy rolled. Two weapons with the same name can have different starting stats; armor copies can also differ. That is why the item name and rarity alone do not settle which reward is worth keeping. Pot is a way to discuss that variation within an item.",
+        "A Pot comparison works best between matching items for the same class. A higher roll on an unrelated weapon does not prove it is better for your build. First identify the damage or equipment role you need, then use the roll to choose between suitable copies."
+      ],
+      "table": {
+        "caption": "Potential terms for equipment comparisons",
+        "columns": [
+          "Term",
+          "Meaning",
+          "Decision use"
+        ],
+        "rows": [
+          [
+            "Pot / Potential",
+            "The quality of a particular item roll",
+            "Compare matching copies"
+          ],
+          [
+            "God Pot",
+            "The maximum possible roll for that item",
+            "Check against a documented item range"
+          ],
+          [
+            "Upgrade state",
+            "Investment already applied to the copy",
+            "Account for this before comparing stats"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "god-pot",
+      "heading": "What Is a God Pot?",
+      "paragraphs": [
+        "A God Pot is an item at its highest possible potential roll. It is not a new rarity and does not turn a Warrior weapon into a Mage weapon. The term describes the best roll of that specific item, rather than the best equipment available anywhere in the game.",
+        "A copy that looks strong beside the ones you own is not automatically proven to be the maximum. Check the current item card and a documented range where one is available. If you only have two ordinary copies to compare, you can identify the better one without labeling either perfect."
+      ]
+    },
+    {
+      "id": "read-pot",
+      "heading": "How to Read Pot on an Item",
+      "paragraphs": [
+        "Use this checklist when deciding what to equip or keep. The goal is to separate the item's own roll from differences caused by class, item family, or resources already spent. Save a working copy until a replacement has been tested."
+      ],
+      "steps": [
+        {
+          "heading": "Compare the same item",
+          "description": "Match the exact item name, archetype, and rarity where applicable. A different weapon family can have different stats without having a better roll."
+        },
+        {
+          "heading": "Check the damage path",
+          "description": "Read the physical or spell stat and confirm that the item fits your weapon, abilities, and points. For armor, compare the fields relevant to the setup you actually use."
+        },
+        {
+          "heading": "Read the roll quality",
+          "description": "Check the Pot reading and relevant stat fields on the live card. Compare suitable copies together rather than using a general Pot list as an absolute ranking."
+        },
+        {
+          "heading": "Check upgrade state",
+          "description": "Account for upgrades already applied and the remaining investment. A higher displayed total can reflect spending as well as the original roll."
+        },
+        {
+          "heading": "Test the replacement",
+          "description": "Keep the rest of the build stable and repeat the usual route. Equip the candidate because it helps the current clear, not just because its label sounds better."
+        }
+      ]
+    },
+    {
+      "id": "pot-vs-upgrades",
+      "heading": "Pot vs Upgrades",
+      "paragraphs": [
+        "Pot describes the item's rolled quality; upgrading is a later investment of Gold or resources. These are separate parts of an equipment decision. Spending on a low-roll copy can make it useful now, but it does not demonstrate that the copy originally dropped at maximum potential.",
+        "Before replacing an upgraded item, compare the candidate's starting point and the resources needed to make it usable. Do not discard a dependable equipped weapon merely because an untested copy has a better-looking Pot reading. The best immediate choice can differ from the best longer-term keeper."
+      ]
+    },
+    {
+      "id": "good-pot",
+      "heading": "What Is a Good Pot?",
+      "paragraphs": [
+        "There is no publicly confirmed universal threshold for a good Pot across all equipment. Avoid applying one fixed number to every weapon and armor family. Use the same-item comparison, the relevant stat difference, the replacement lifespan, and the cost of upgrading to make the decision.",
+        "For example, if two matching unupgraded weapons fit your build, the stronger relevant roll is the better candidate to evaluate. If one copy is already upgraded, the visible total alone is not a clean roll comparison. If you expect to replace both soon, a small difference may not justify another extended farming session."
+      ],
+      "links": [
+        {
+          "label": "Weapons and abilities tier list",
+          "slug": "weapons-abilities-tier-list",
+          "description": "Check the equipment role before choosing a keeper."
+        }
+      ]
+    },
+    {
+      "id": "low-pot",
+      "heading": "Should You Upgrade a Low-Pot Item?",
+      "paragraphs": [
+        "During early progression, a modest investment can be reasonable when the item fixes the obstacle preventing your next clear. Waiting for a perfect roll may cost more progress than using an adequate weapon now. Set an upgrade budget around that immediate job.",
+        "For a late chase item you expect to keep, compare the suitable copies you already have before committing heavily. Keep enough Gold for the next useful replacement, and avoid investing in several competing copies at once. A low-Pot Legendary can still be useful if it fits the build and beats the current practical alternative."
+      ],
+      "links": [
+        {
+          "label": "Dungeon progression",
+          "slug": "dungeons",
+          "description": "Judge how soon the current equipment may be replaced."
+        }
+      ]
+    },
+    {
+      "id": "farming",
+      "heading": "Pot and God Pot Farming Tips",
+      "paragraphs": [
+        "Review matching rewards after repeated successful clears. Keep a small comparison set rather than upgrading every drop immediately. Choose the route for the item you need, then judge the rolls within that item. Hunting maximum potential on equipment you are about to replace can delay more useful progression.",
+        "There is no published universal God Pot probability to turn this into a guaranteed run count. Separate the chance of obtaining the desired item from the quality of its roll. A personal sample of rewards cannot establish the maximum range or official odds."
+      ],
+      "links": [
+        {
+          "label": "Drops by dungeon",
+          "slug": "drops",
+          "description": "Find a source for the item you want to compare."
+        },
+        {
+          "label": "Drop rates and observations",
+          "slug": "drop-rates",
+          "description": "Understand the limits of a personal loot sample."
+        },
+        {
+          "label": "Wiki guide hub",
+          "slug": "wiki",
+          "description": "Return to the wider build and progression guides."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What does Pot mean in Dungeon Quest Reborn?",
+      "answer": "Pot means Potential, the roll quality of an individual weapon or armor piece. Compare matching copies rather than unrelated items."
+    },
+    {
+      "question": "What is a God Pot?",
+      "answer": "God Pot means the highest possible roll for that item. A strong-looking copy needs a documented range before you can confidently call it maximum."
+    },
+    {
+      "question": "Is God Pot a rarity?",
+      "answer": "No. It describes the roll of an item, not a separate rarity or a different weapon type."
+    },
+    {
+      "question": "What is a good Pot?",
+      "answer": "There is no publicly confirmed universal threshold. Compare suitable copies of the same item, useful stats, upgrade costs, and how long you expect to keep it."
+    },
+    {
+      "question": "Does upgrading change Pot?",
+      "answer": "Upgrading adds investment to the item; Pot describes the original rolled quality. A higher upgraded stat does not by itself mean the original roll improved."
+    },
+    {
+      "question": "Is there a God Pot drop rate?",
+      "answer": "No universal God Pot rate is publicly confirmed. Avoid treating item drop odds or a small personal sample as the probability of a maximum roll."
+    },
+    {
+      "question": "Should I keep a low-Pot Legendary?",
+      "answer": "Keep it when it fits your build and offers a practical improvement. Compare replacement costs before upgrading heavily, especially if the next dungeon may replace it."
+    }
+  ],
+  "faqHeading": "Pot Guide FAQ",
+  "relatedSlugs": [
+    "wiki",
+    "drops",
+    "weapons-abilities-tier-list",
+    "drop-rates"
+  ],
+  "lastReviewed": "2026-10-06"
+}

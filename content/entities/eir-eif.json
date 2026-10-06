@@ -1,0 +1,239 @@
+{
+  "enabled": true,
+  "slug": "eir-eif",
+  "pageType": "guide",
+  "navLabel": "EIR & EIF",
+  "title": "Dungeon Quest Reborn EIR & EIF - Drops, Builds & Guide",
+  "description": "Dungeon Quest Reborn EIR and EIF guide: learn what Enhanced Inner Rage and Enhanced Inner Focus mean, their builds, source, and farming tips.",
+  "keywords": [
+    "dungeon quest reborn eir eif",
+    "dungeon quest reborn eir",
+    "dungeon quest reborn eif",
+    "eir dungeon quest",
+    "eif dungeon quest",
+    "enhanced inner rage dungeon quest",
+    "enhanced inner focus dungeon quest",
+    "eir eif drop rate",
+    "how to get eir dungeon quest",
+    "how to get eif dungeon quest"
+  ],
+  "primaryKeyword": "dungeon quest reborn eir eif",
+  "secondaryKeywords": [
+    "dungeon quest reborn eir",
+    "dungeon quest reborn eif",
+    "eir dungeon quest",
+    "eif dungeon quest",
+    "enhanced inner rage dungeon quest",
+    "enhanced inner focus dungeon quest",
+    "eir eif drop rate",
+    "how to get eir dungeon quest",
+    "how to get eif dungeon quest"
+  ],
+  "searchIntent": "EIR means Enhanced Inner Rage, the Warrior physical buff. EIF means Enhanced Inner Focus, the Mage spell buff. The current guide lists both from Enchanted Forest Nightmare. Choose the buff for your damage path and check the live ability card before planning a farm.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "abilities",
+  "wordCountTarget": 900,
+  "sourceNotes": [
+    "P0: content/generated/pages.json abilities, weapons-abilities-tier-list and drop-rates, plus content/drops/enchanted-forest.json, consistently list EIR = Enhanced Inner Rage (Warrior physical buff) and EIF = Enhanced Inner Focus (Mage spell buff), both from Enchanted Forest Nightmare.",
+    "Research checked 2026-10-06: https://dungeonquestreborn.org/tier-list agrees with the repository. https://dungeonquestrebornwiki.wiki/loot/eir-eif/ and https://dungeonquestreborn.net/items/ report broader highest-Nightmare eligibility from Volcanic Chambers onward. This unresolved source conflict is recorded here; public copy uses current-guide attribution and live checks, not official certainty. No old pages are corrected.",
+    "No effect percentage, duration, cooldown or exact rate is inferred. Farming and comparison advice is editorial."
+  ],
+  "hero": {
+    "eyebrow": "Dungeon Quest Reborn guide · Reviewed October 6, 2026",
+    "heading": "Dungeon Quest Reborn EIR & EIF",
+    "lead": "EIR means Enhanced Inner Rage, the Warrior physical buff. EIF means Enhanced Inner Focus, the Mage spell buff. The current guide lists both from Enchanted Forest Nightmare. Choose the buff for your damage path and check the live ability card before planning a farm."
+  },
+  "sections": [
+    {
+      "id": "at-a-glance",
+      "heading": "EIR and EIF at a Glance",
+      "paragraphs": [
+        "The abbreviations describe two different abilities, not two grades of the same buff. Their jobs are similar, but their build directions differ. Read the full reward name before equipping or comparing a drop; a short label alone is an easy way to confuse Rage with Focus."
+      ],
+      "table": {
+        "caption": "EIR and EIF build and source index",
+        "columns": [
+          "Term",
+          "Full Name",
+          "Build",
+          "Current Guide Source",
+          "Role"
+        ],
+        "rows": [
+          [
+            "EIR",
+            "Enhanced Inner Rage",
+            "Warrior / Physical",
+            "Enchanted Forest Nightmare",
+            "Endgame physical buff"
+          ],
+          [
+            "EIF",
+            "Enhanced Inner Focus",
+            "Mage / Spell",
+            "Enchanted Forest Nightmare",
+            "Endgame spell buff"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eir-meaning",
+      "heading": "What Does EIR Mean in Dungeon Quest Reborn?",
+      "paragraphs": [
+        "Enhanced Inner Rage is the EIR ability used on the physical Warrior path. Keep your weapon, armor direction, damaging abilities, and points aligned with that path when assessing it. A buff should support attacks you already use, rather than force a working spell build into a new role.",
+        "Check the current card for the effect and activation details. Plan its use around opportunities to land your physical attacks safely. Do not borrow an original-game damage percentage, duration, or cooldown to fill in the Reborn description; those details belong to the live ability you obtain."
+      ]
+    },
+    {
+      "id": "eif-meaning",
+      "heading": "What Does EIF Mean in Dungeon Quest Reborn?",
+      "paragraphs": [
+        "Enhanced Inner Focus is the EIF ability associated with a Mage spell-power build. Its purpose is to support that damage direction. If your equipped weapon and main damaging skill use spell power, Focus is the relevant enhanced buff to evaluate; Rage is a different class objective.",
+        "A buff needs a usable attack sequence alongside it. Watch whether you can actually deal damage after activating it, or whether movement and survival take up the opportunity. Keep your reliable damaging ability while testing the new buff and avoid changing the entire loadout at once."
+      ],
+      "links": [
+        {
+          "label": "Abilities and spells",
+          "slug": "abilities",
+          "description": "Compare enhanced buffs with the rest of the class ability route."
+        }
+      ]
+    },
+    {
+      "id": "how-to-get",
+      "heading": "How to Get EIR and EIF",
+      "paragraphs": [
+        "The current guide lists Enhanced Inner Rage and Enhanced Inner Focus from Enchanted Forest Nightmare. Confirm the live loot information for your account and selected setting before spending a long session there. Source conditions can change with updates, so a dungeon name alone should not replace a current difficulty check.",
+        "Farm with a loadout that reaches the reward screen consistently. If Nightmare clears are unreliable, improve the working build and practice before making a rare buff the whole progression plan. An easier practice run can teach the route, but it does not establish that the same ability drops on that setting."
+      ],
+      "links": [
+        {
+          "label": "Enchanted Forest drops",
+          "slug": "drops/enchanted-forest",
+          "description": "See the listed Nightmare buffs alongside the class weapon targets."
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "heading": "EIR vs EIF",
+      "paragraphs": [
+        "Choose EIR or EIF by the damage path you intend to keep. There is no useful absolute winner between a physical buff and a spell buff for every account. The comparison is whether the ability fits your weapon and attacks, and whether replacing the current slot improves completed runs."
+      ],
+      "table": {
+        "caption": "Choose the enhanced buff for your setup",
+        "columns": [
+          "Question",
+          "EIR",
+          "EIF"
+        ],
+        "rows": [
+          [
+            "Which build?",
+            "Warrior",
+            "Mage"
+          ],
+          [
+            "Which damage path?",
+            "Physical power",
+            "Spell power"
+          ],
+          [
+            "What weapon fit?",
+            "Physical weapon setup",
+            "Spell weapon setup"
+          ],
+          [
+            "What farming goal?",
+            "Improve a physical buff slot",
+            "Improve a spell buff slot"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "drop-rates",
+      "heading": "EIR and EIF Drop Rates",
+      "paragraphs": [
+        "Exact universal drop rates are not publicly confirmed. There is no reliable fixed run count that guarantees either ability. A friend receiving one quickly, or an edited reward video showing several drops, cannot tell you the chance for every eligible clear.",
+        "If you use an observed calculator, log all eligible completed runs and count EIR and EIF separately. Keep the dungeon, difficulty, and conditions consistent. The resulting percentage describes your sample, with uncertainty; it is not an official chance and does not make a future drop due."
+      ],
+      "links": [
+        {
+          "label": "Observed drop-rate calculator",
+          "slug": "drop-rates",
+          "description": "Review sample rates without treating them as guaranteed odds."
+        }
+      ]
+    },
+    {
+      "id": "worth-farming",
+      "heading": "Are EIR and EIF Worth Farming?",
+      "paragraphs": [
+        "They are endgame buff targets when the account can farm the listed route and the matching ability fills a real gap. Before committing, identify whether a missing buff is the problem or whether the weapon, survivability, or route familiarity needs attention first.",
+        "Compare a new buff under similar conditions: same weapon, same remaining skills, same dungeon, and the same solo or party setup. Notice whether the damage sequence is usable and clears remain dependable. The value is the improvement to your own runs, not possession of a popular abbreviation."
+      ],
+      "links": [
+        {
+          "label": "Weapons and abilities tier list",
+          "slug": "weapons-abilities-tier-list",
+          "description": "Match buff priorities to the build."
+        },
+        {
+          "label": "Ultimate weapon guide",
+          "slug": "ultimates",
+          "description": "Keep the weapon chase separate from the buff objective."
+        }
+      ]
+    },
+    {
+      "id": "farming-tips",
+      "heading": "EIR / EIF Farming Tips",
+      "paragraphs": [
+        "Decide which class you are farming for before the first run. Confirm the current source and difficulty, keep a stable clearing setup, and inspect every reward's full name. Receiving the other buff is a reason to store a useful item, not automatically to change class.",
+        "Set a manageable session length and review progress afterwards. If failed attempts dominate, improve consistency before continuing. If the correct buff drops, test it before returning to another loot chase. A weapon and buff received together should be tried separately so you can tell which change helps."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What does EIR mean in Dungeon Quest Reborn?",
+      "answer": "EIR stands for Enhanced Inner Rage, the endgame physical buff associated with Warrior builds."
+    },
+    {
+      "question": "What does EIF mean?",
+      "answer": "EIF stands for Enhanced Inner Focus, the endgame spell buff associated with Mage builds."
+    },
+    {
+      "question": "Where does EIR drop?",
+      "answer": "The current guide lists EIR from Enchanted Forest Nightmare. Check the current loot information and selected difficulty before farming."
+    },
+    {
+      "question": "Where does EIF drop?",
+      "answer": "The current guide lists EIF from Enchanted Forest Nightmare. Confirm current conditions in the live game."
+    },
+    {
+      "question": "Is EIR for Warrior?",
+      "answer": "Yes, EIR is the physical Warrior buff in this guide. Confirm that your equipped attacks use the physical path."
+    },
+    {
+      "question": "Is EIF for Mage?",
+      "answer": "Yes, EIF is the spell-power Mage buff in this guide. Match it to the current weapon and damaging skills."
+    },
+    {
+      "question": "What is the EIR / EIF drop rate?",
+      "answer": "Exact universal rates are not publicly confirmed. Keep separate observations for each ability and do not use a small sample as guaranteed odds."
+    }
+  ],
+  "faqHeading": "EIR & EIF FAQ",
+  "relatedSlugs": [
+    "abilities",
+    "drop-rates",
+    "weapons-abilities-tier-list",
+    "drops/enchanted-forest",
+    "ultimates"
+  ],
+  "lastReviewed": "2026-10-06"
+}

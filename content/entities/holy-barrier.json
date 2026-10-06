@@ -1,0 +1,225 @@
+{
+  "enabled": true,
+  "slug": "holy-barrier",
+  "pageType": "guide",
+  "navLabel": "Holy Barrier",
+  "title": "Holy Barrier Dungeon Quest - How to Get & Ability Guide",
+  "description": "Holy Barrier Dungeon Quest Reborn guide: see where the ability drops, its support role, when it is useful, and practical Desert Temple farming tips.",
+  "keywords": [
+    "holy barrier dungeon quest",
+    "holy barrier dungeon quest reborn",
+    "dungeon quest holy barrier",
+    "holy barrier ability dungeon quest",
+    "how to get holy barrier dungeon quest",
+    "holy barrier drop dungeon quest",
+    "holy barrier desert temple",
+    "holy barrier roblox dungeon quest"
+  ],
+  "primaryKeyword": "holy barrier dungeon quest",
+  "secondaryKeywords": [
+    "holy barrier dungeon quest reborn",
+    "dungeon quest holy barrier",
+    "holy barrier ability dungeon quest",
+    "how to get holy barrier dungeon quest",
+    "holy barrier drop dungeon quest",
+    "holy barrier desert temple",
+    "holy barrier roblox dungeon quest"
+  ],
+  "searchIntent": "Holy Barrier is an early support / defensive ability listed from Desert Temple in Dungeon Quest Reborn. Consider it when survival is the obstacle to finishing a run. Read the live card for its current effect, class compatibility, and source difficulty; exact drop rates are not publicly confirmed.",
+  "priority": "P2",
+  "navVisible": false,
+  "parentSlug": "abilities",
+  "wordCountTarget": 900,
+  "sourceNotes": [
+    "P0: content/generated/pages.json abilities and drops/desert-temple list Holy Barrier as a Desert Temple ability and early target; the support section places it among early support options. Those records do not fix class or difficulty.",
+    "Research checked 2026-10-06: https://dungeonquestreborn.org/spells lists Warrior / Desert Temple Medium but explicitly reuses original-game ability data. There is no independently confirmed current Reborn card in the research, so no Warrior restriction, Medium guarantee, healing/protection figure, duration or cooldown is added.",
+    "Other Desert Temple comparison rows follow existing repository class, role and source records. Use-case and farming advice is editorial, without measured DPS or probability claims."
+  ],
+  "hero": {
+    "eyebrow": "Dungeon Quest Reborn guide · Reviewed October 6, 2026",
+    "heading": "Holy Barrier Dungeon Quest Reborn",
+    "lead": "Holy Barrier is an early support / defensive ability listed from Desert Temple in Dungeon Quest Reborn. Consider it when survival is the obstacle to finishing a run. Read the live card for its current effect, class compatibility, and source difficulty; exact drop rates are not publicly confirmed."
+  },
+  "sections": [
+    {
+      "id": "at-a-glance",
+      "heading": "Holy Barrier at a Glance",
+      "paragraphs": [
+        "Holy Barrier is an ability target, rather than the Desert Fury weapon chase. Its role in this guide is early support. The practical decision is whether the defensive slot helps your account complete the route more reliably than the ability it would replace."
+      ],
+      "table": {
+        "caption": "Holy Barrier quick facts",
+        "columns": [
+          "Type",
+          "Source",
+          "Role",
+          "Exact Drop Rate"
+        ],
+        "rows": [
+          [
+            "Support / defensive ability",
+            "Desert Temple",
+            "Early support option",
+            "Not publicly confirmed"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "how-to-get",
+      "heading": "How to Get Holy Barrier in Dungeon Quest Reborn",
+      "paragraphs": [
+        "The listed source is Desert Temple. Choose a setting your account can finish, and check the current loot information before making Holy Barrier the primary target. This guide does not assign a specific difficulty to it. A difficulty listed for another Desert Temple ability is not proof that Holy Barrier shares that pool.",
+        "Finish the run and inspect the exact reward name and card. Keep a note of dungeon, selected difficulty, and date if you receive it. That record is more useful for future planning than assuming a remembered original-game table applies to the current Reborn version."
+      ],
+      "links": [
+        {
+          "label": "Desert Temple drops",
+          "slug": "drops/desert-temple",
+          "description": "See Holy Barrier beside the other early targets."
+        }
+      ]
+    },
+    {
+      "id": "effect",
+      "heading": "What Does Holy Barrier Do?",
+      "paragraphs": [
+        "Holy Barrier belongs to the support / defensive decision: using an ability slot to help survival rather than making that slot another attack. Check the live description for what it actually protects or affects. Its name alone does not establish a healing amount, shield size, duration, cooldown, or party-wide effect.",
+        "Read the targeting details before trying it in a group. If the current card supports the survival problem you are facing, practice activating it during that part of the encounter. Keep movement and your remaining attack sequence usable; a defensive ability cannot replace learning to avoid repeated dangerous hits."
+      ]
+    },
+    {
+      "id": "worth-using",
+      "heading": "Is Holy Barrier Worth Using?",
+      "paragraphs": [
+        "It is worth evaluating during early progression when attempts fail because of survival. For party play, first check whether the live effect can help the relevant player or group. Agree on the role you are testing rather than assuming every defensive ability protects the entire team.",
+        "There is also a cost to replacing a damage ability. If runs already finish safely but room damage is slow, another suitable attack may be more useful. If removing an attack makes the remaining rotation ineffective, improve the overall setup before treating the support slot as a permanent solution.",
+        "Test the decision with the same weapon, points, dungeon, and party conditions. Compare completed runs and recurring failure points, not just a single lucky attempt. Keep Holy Barrier when the defensive option fixes a real problem; change the slot when that problem is resolved."
+      ],
+      "links": [
+        {
+          "label": "Abilities and support options",
+          "slug": "abilities",
+          "description": "Compare damage and support roles across the ability route."
+        }
+      ]
+    },
+    {
+      "id": "comparisons",
+      "heading": "Holy Barrier vs Other Desert Temple Abilities",
+      "paragraphs": [
+        "Compare these options by the job you need done. Whirlwind and Slam serve physical damage setups, while Lightning Strikes and Innervate are Mage-oriented targets in the current guide. Blue Fireball is another early ability target whose live card should settle its fit. None is an automatic replacement for a defensive role."
+      ],
+      "table": {
+        "caption": "Desert Temple ability choices by role",
+        "columns": [
+          "Ability",
+          "Role / Build",
+          "Listed Source",
+          "Decision Use"
+        ],
+        "rows": [
+          [
+            "Holy Barrier",
+            "Support / defensive",
+            "Desert Temple; difficulty not specified",
+            "Evaluate a survival slot"
+          ],
+          [
+            "Whirlwind",
+            "Warrior multi-target damage",
+            "Desert Temple Easy",
+            "Early room coverage"
+          ],
+          [
+            "Lightning Strikes",
+            "Mage focused damage",
+            "Desert Temple Medium",
+            "Early spell damage"
+          ],
+          [
+            "Slam",
+            "Warrior physical damage",
+            "Desert Temple Medium",
+            "Early physical attack"
+          ],
+          [
+            "Innervate",
+            "Mage progression option",
+            "Desert Temple Hard",
+            "Compare a Mage ability slot"
+          ],
+          [
+            "Blue Fireball",
+            "Early ability target; check card",
+            "Desert Temple; difficulty not specified",
+            "Inspect role before replacing a skill"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Innervate guide",
+          "slug": "innervate",
+          "description": "Read the Desert Temple Hard Mage target in detail."
+        }
+      ]
+    },
+    {
+      "id": "farming-tips",
+      "heading": "Holy Barrier Farming Tips",
+      "paragraphs": [
+        "Use a stable Desert Temple clearing setup while farming. An unfinished defensive experiment can prevent the reward screens you need. Set a narrow goal: obtain the ability, inspect the card, and test whether it helps the specific survival issue. You do not need to upgrade every weapon reward along the way.",
+        "Exact rates are not publicly confirmed, and a dry session does not reveal a hidden guarantee. If you record observations, separate different difficulties and count completed runs consistently. Do not infer a drop chance from a highlight video or assume the next attempt is owed a reward.",
+        "Stop focusing on Holy Barrier when the account clears comfortably without that slot, when another part of the build is clearly the bottleneck, or when you move beyond the early route. Keep a useful support option available, but let the next session follow the account's current needs.",
+        "If Desert Temple rewards are also being used to compare weapons, separate that decision from the ability test. Receiving Desert Fury does not tell you whether Holy Barrier helps survival. Try equipment and ability changes separately, then use the dungeon guide to select the next attainable route."
+      ],
+      "links": [
+        {
+          "label": "Desert Fury guide",
+          "slug": "desert-fury",
+          "description": "Keep the weapon chase separate from the support ability goal."
+        },
+        {
+          "label": "Dungeon progression",
+          "slug": "dungeons",
+          "description": "Choose the next route after the early farm."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Where does Holy Barrier drop?",
+      "answer": "Holy Barrier is listed from Desert Temple. Confirm the current source information for the difficulty you intend to farm."
+    },
+    {
+      "question": "What does Holy Barrier do?",
+      "answer": "It is an early support / defensive option in this guide. Read the live card for the exact effect and targeting; no healing or protection value is assumed here."
+    },
+    {
+      "question": "Is Holy Barrier good?",
+      "answer": "It can be useful if its live effect solves a survival problem. Compare that benefit with the damage ability you would replace and test completed runs."
+    },
+    {
+      "question": "Is Holy Barrier a Warrior ability?",
+      "answer": "Check the current ability card for class compatibility. This guide treats Holy Barrier as a support / defensive option without assigning an unconfirmed class restriction."
+    },
+    {
+      "question": "What difficulty drops Holy Barrier?",
+      "answer": "This guide lists Desert Temple without a specific difficulty guarantee. Use current loot information rather than assuming another ability's setting applies."
+    },
+    {
+      "question": "What is the Holy Barrier drop rate?",
+      "answer": "The exact rate is not publicly confirmed. Farm for reliable completions and avoid planning around a guaranteed number of attempts."
+    }
+  ],
+  "faqHeading": "Holy Barrier FAQ",
+  "relatedSlugs": [
+    "abilities",
+    "drops/desert-temple",
+    "innervate",
+    "desert-fury"
+  ],
+  "lastReviewed": "2026-10-06"
+}

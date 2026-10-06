@@ -24,6 +24,7 @@ const navLinks = visibleCorePages.map((page) => ({
           { label: "Winter Outpost", slug: "drops/winter-outpost" },
           { label: "Orbital Outpost", slug: "drops/orbital-outpost" },
           { label: "Volcanic Chambers", slug: "drops/volcanic-chambers" },
+          { label: "Northern Lands", slug: "drops/northern-lands" },
         ]
       : undefined,
 }));
@@ -37,6 +38,9 @@ const headerLinks = [
       { label: "Level Requirements", slug: "level-requirements" },
       { label: "Ultimates", slug: "ultimates" },
       { label: "Rending Slice", slug: "rending-slice" },
+      { label: "EIR & EIF", slug: "eir-eif" },
+      { label: "Pot Guide", slug: "pot" },
+      { label: "Holy Barrier", slug: "holy-barrier" },
     ],
   },
 ];
